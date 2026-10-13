@@ -1,5 +1,884 @@
 {
  "quests": {
+  "Blacksmith Training": {
+   "aeguides": "https://bofur24.github.io/AEGuides/valinorQuest.html#blackSmithTrainer",
+   "wiki": null,
+   "pictures": [
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Pick_Axe.png",
+     "caption": "Pick Axe",
+     "kind": "thumbnail-img",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#blackSmithTrainer",
+     "key": "a6190b7e22ba2",
+     "w": 40,
+     "h": 36
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Blacksmith_Hammer.png",
+     "caption": "Blacksmith Hammer",
+     "kind": "thumbnail-img",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#blackSmithTrainer",
+     "key": "a3ca1ce17ac25",
+     "w": 34,
+     "h": 36
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Blacksmith_Guidebook.png",
+     "caption": "Blacksmith Guidebook",
+     "kind": "thumbnail-img",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#blackSmithTrainer",
+     "key": "a9e2c009284ed",
+     "w": 33,
+     "h": 33
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/NPCS/Blacksmith_Trainer.png",
+     "caption": "Blacksmith Trainer",
+     "kind": "npc-img",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#blackSmithTrainer",
+     "key": "abc79952d2cf4",
+     "w": 147,
+     "h": 88
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Iron_Ore.png",
+     "caption": "Iron Ore",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#blackSmithTrainer",
+     "key": "a5882919387e6",
+     "w": 36,
+     "h": 34
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Iron_Ingot.png",
+     "caption": "Iron Ingot",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#blackSmithTrainer",
+     "key": "aca34c1b74ec1",
+     "w": 35,
+     "h": 35
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Forge.png",
+     "caption": "Forge",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#blackSmithTrainer",
+     "key": "ac0786b0bbda8",
+     "w": 114,
+     "h": 95
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Anvil.png",
+     "caption": "Anvil",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#blackSmithTrainer",
+     "key": "acc953f22c4d5",
+     "w": 47,
+     "h": 39
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Small_Dagger.png",
+     "caption": "Small Dagger",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#blackSmithTrainer",
+     "key": "aa10f0b947628",
+     "w": 36,
+     "h": 37
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Light_Axe.png",
+     "caption": "Light Axe",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#blackSmithTrainer",
+     "key": "ae63542cc4069",
+     "w": 38,
+     "h": 39
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Small_Mace.png",
+     "caption": "Small Mace",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#blackSmithTrainer",
+     "key": "a4b233d0eb1c1",
+     "w": 38,
+     "h": 38
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/Monsters/Hobgoblin_Blacksmith.png",
+     "caption": "Hobgoblin Blacksmith",
+     "kind": "npc-img",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#blackSmithTrainer",
+     "key": "aba41ff05a310",
+     "w": 159,
+     "h": 98
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/Maps/Hobgoblin_Blacksmith_Location.png",
+     "caption": "Map of the location of Hobgoblin Blacksmith",
+     "kind": "npc-img",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#blackSmithTrainer",
+     "key": "a31acf739c8a5",
+     "w": 161,
+     "h": 116
+    }
+   ]
+  },
+  "Gem Thieves": {
+   "aeguides": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
+   "wiki": "https://ashenempires.fandom.com/wiki/Gem_Thieves",
+   "pictures": [
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Krythan/Gem_Thieves_10_Diamond.png",
+     "caption": "10 Diamonds",
+     "kind": "thumbnail-img",
+     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
+     "key": "ae91aa3e406f7",
+     "w": 29,
+     "h": 30
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Krythan/Gem_Thieves_10_Diamond_Stats.png",
+     "caption": "10 Diamonds (tooltip)",
+     "kind": "tooltip",
+     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
+     "key": "a8e8f7945ff8d",
+     "w": 29,
+     "h": 30
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Krythan/Gem_Thieves_Dalvon_Miners_Ring.png",
+     "caption": "Dalvon Miners Ring",
+     "kind": "thumbnail-img",
+     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
+     "key": "a1d64495e2b41",
+     "w": 33,
+     "h": 35
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Krythan/Gem_Thieves_Dalvon_Miners_Ring_Stats.png",
+     "caption": "Dalvon Miners Ring (tooltip)",
+     "kind": "tooltip",
+     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
+     "key": "ae7018e64eb49",
+     "w": 157,
+     "h": 211
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Krythan/Gem_Thieves_Gemstone_Of_Dalvon.png",
+     "caption": "Gemstone of Dalvon",
+     "kind": "thumbnail-img",
+     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
+     "key": "aad46dbc1113c",
+     "missing": true
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Krythan/Gem_Thieves_Gemstone_Of_Dalvon_Stats.png",
+     "caption": "Gemstone of Dalvon (tooltip)",
+     "kind": "tooltip",
+     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
+     "key": "a6c8262f4e6b3",
+     "missing": true
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Krythan/Gem_Thieves_Dalvon_Miner.png",
+     "caption": "Dalvon Miner",
+     "kind": "npc-img",
+     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
+     "key": "a1d14e6fefd80",
+     "w": 111,
+     "h": 95
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Krythan/Gem_Thieves_Gold.png",
+     "caption": "10 Diamonds",
+     "kind": "thumbnail-img",
+     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
+     "key": "af6518ca5e552",
+     "w": 29,
+     "h": 30
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Krythan/Gem_Thieves_1000_Gold.png",
+     "caption": "10 Diamonds (tooltip)",
+     "kind": "tooltip",
+     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
+     "key": "a2328d1189ddb",
+     "w": 29,
+     "h": 30
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Krythan/Gem_Thieves_Dalvon_Mine_Map.png",
+     "caption": "Dalvon Mine",
+     "kind": "npc-img",
+     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
+     "key": "a72699dc6ab7f",
+     "w": 259,
+     "h": 376
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/NPC/Monsters/Kobold_Miner.png",
+     "caption": "Kobold Miner",
+     "kind": "monster-img",
+     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
+     "key": "a216aecd7988f",
+     "w": 111,
+     "h": 91
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/NPC/Monsters/Kobold_Miner_Stats.png",
+     "caption": "Kobold Miner (tooltip)",
+     "kind": "tooltip",
+     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
+     "key": "afdbeeb3fef76",
+     "w": 133,
+     "h": 99
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/NPC/Monsters/Kobold_Foreman.png",
+     "caption": "Kobold Foreman",
+     "kind": "monster-img",
+     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
+     "key": "a7bd347d192f6",
+     "w": 140,
+     "h": 92
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/NPC/Monsters/Kobold_Foreman_Stats.png",
+     "caption": "Kobold Foreman (tooltip)",
+     "kind": "tooltip",
+     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
+     "key": "a68299b27905c",
+     "w": 135,
+     "h": 130
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/NPC/Boss/Master_Blaster.png",
+     "caption": "Master Blaster",
+     "kind": "monster-img",
+     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
+     "key": "af096a92672b5",
+     "w": 129,
+     "h": 177
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/NPC/Boss/Master_Blaster_Stats.png",
+     "caption": "Master Blaster (tooltip)",
+     "kind": "tooltip",
+     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
+     "key": "a6c3d36161178",
+     "w": 148,
+     "h": 131
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Krythan/Gem_Thieves_Dalvon_Steel_Helm.png",
+     "caption": "Dalvon Steel Helm",
+     "kind": "thumbnail-img",
+     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
+     "key": "a6ed9388ee640",
+     "w": 33,
+     "h": 36
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Krythan/Gem_Thieves_Dalvon_Steel_Helm_Stats.png",
+     "caption": "Dalvon Steel Helm (tooltip)",
+     "kind": "tooltip",
+     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
+     "key": "a3cbede9ab41b",
+     "w": 146,
+     "h": 226
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Krythan/Gem_Thieves_Dalvon_Steel_Leggings.png",
+     "caption": "Dalvon Steel Leggings",
+     "kind": "thumbnail-img",
+     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
+     "key": "a8093516a7a57",
+     "w": 33,
+     "h": 35
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Krythan/Gem_Thieves_Dalvon_Steel_Leggings_Stats.png",
+     "caption": "Dalvon Steel Leggings (tooltip)",
+     "kind": "tooltip",
+     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
+     "key": "a7d901e45b2c8",
+     "w": 175,
+     "h": 242
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Krythan/Gem_Thieves_Dalvon_Steel_Armor.png",
+     "caption": "Dalvon Steel Armor",
+     "kind": "thumbnail-img",
+     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
+     "key": "a2e43ee5ad2e2",
+     "w": 34,
+     "h": 35
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Krythan/Gem_Thieves_Dalvon_Steel_Armor_Stats.png",
+     "caption": "Dalvon Steel Armor (tooltip)",
+     "kind": "tooltip",
+     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
+     "key": "ad6b178698706",
+     "w": 158,
+     "h": 242
+    }
+   ]
+  },
+  "The Ways of Mining": {
+   "aeguides": null,
+   "wiki": "https://ashenempires.fandom.com/wiki/The_Ways_of_Mining",
+   "pictures": []
+  },
+  "Carpenter Training": {
+   "aeguides": "https://bofur24.github.io/AEGuides/valinorQuest.html#carpentryTrainer",
+   "wiki": null,
+   "pictures": [
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Lumber_Jack_Axe.png",
+     "caption": "Lumber Jack Axe",
+     "kind": "thumbnail-img",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#carpentryTrainer",
+     "key": "ac24c50021459",
+     "w": 46,
+     "h": 32
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Saw.png",
+     "caption": "Saw",
+     "kind": "thumbnail-img",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#carpentryTrainer",
+     "key": "a7df7ee80b1bf",
+     "w": 39,
+     "h": 36
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Carpenters_Tools.png",
+     "caption": "Carpenters Tools",
+     "kind": "thumbnail-img",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#carpentryTrainer",
+     "key": "a00c407dc0d50",
+     "w": 33,
+     "h": 36
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Carpenter_Guidebook.png",
+     "caption": "Carpenter Guidebook",
+     "kind": "thumbnail-img",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#carpentryTrainer",
+     "key": "a70b58730d04f",
+     "w": 36,
+     "h": 42
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/NPCS/Carpentry_Trainer.png",
+     "caption": "Carpentry Trainer",
+     "kind": "npc-img",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#carpentryTrainer",
+     "key": "a507a038385ac",
+     "w": 141,
+     "h": 82
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/log.png",
+     "caption": "Log",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#carpentryTrainer",
+     "key": "ab9618fe9500f",
+     "missing": true
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Plank.png",
+     "caption": "Plank",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#carpentryTrainer",
+     "key": "a8d76bcd03285",
+     "w": 44,
+     "h": 36
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Arrows.png",
+     "caption": "Arrows",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#carpentryTrainer",
+     "key": "a501c70eed4f0",
+     "w": 37,
+     "h": 39
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Mixing_Bowl_Craft.png",
+     "caption": "Mixing Bowl",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#carpentryTrainer",
+     "key": "a419e83164569",
+     "w": 37,
+     "h": 39
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Mixing_Spoon_Craft.png",
+     "caption": "Mixing Spoon",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#carpentryTrainer",
+     "key": "a14081aad136a",
+     "w": 37,
+     "h": 37
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/Monsters/Goblin_Carpenter.png",
+     "caption": "Goblin Carpenter",
+     "kind": "npc-img",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#carpentryTrainer",
+     "key": "a817fb6c477ba",
+     "w": 132,
+     "h": 85
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/Maps/Goblin_Carpenter_Location.png",
+     "caption": "Map of the location of Goblin Carpenter",
+     "kind": "npc-img",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#carpentryTrainer",
+     "key": "aad9fd70bdc6e",
+     "w": 161,
+     "h": 116
+    }
+   ]
+  },
+  "Mukk The Lumberjack": {
+   "aeguides": null,
+   "wiki": "https://ashenempires.fandom.com/wiki/Mukk_The_Lumberjack",
+   "pictures": []
+  },
+  "Fellow Archer": {
+   "aeguides": null,
+   "wiki": "https://ashenempires.fandom.com/wiki/Fellow_Archer",
+   "pictures": []
+  },
+  "Leatherworking Training": {
+   "aeguides": "https://bofur24.github.io/AEGuides/valinorQuest.html#leatherworkingTrainer",
+   "wiki": null,
+   "pictures": [
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Skinning_Knife.png",
+     "caption": "Skinning Knife",
+     "kind": "thumbnail-img",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#leatherworkingTrainer",
+     "key": "a904a6b138f84",
+     "w": 33,
+     "h": 35
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Leatherworking_Tools.png",
+     "caption": "Leatherworking Tools",
+     "kind": "thumbnail-img",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#leatherworkingTrainer",
+     "key": "a85f543ff8ffb",
+     "w": 40,
+     "h": 36
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Leathercrafting_Guidebook.png",
+     "caption": "Leathercrafting Guidebook",
+     "kind": "thumbnail-img",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#leatherworkingTrainer",
+     "key": "a0e071364ffd8",
+     "w": 34,
+     "h": 35
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/NPCS/Leatherworking_Trainer.png",
+     "caption": "Leatherworking Trainer",
+     "kind": "npc-img",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#leatherworkingTrainer",
+     "key": "a713a454d5a8f",
+     "w": 186,
+     "h": 85
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Carcass.png",
+     "caption": "Carcass",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#leatherworkingTrainer",
+     "key": "a269af62972ab",
+     "w": 35,
+     "h": 34
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Tanning_Vat.png",
+     "caption": "Tanning Vat",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#leatherworkingTrainer",
+     "key": "af452b3530da8",
+     "w": 95,
+     "h": 43
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Leather_Workbench.png",
+     "caption": "Leather Workbench",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#leatherworkingTrainer",
+     "key": "ab60c29d83cc7",
+     "w": 79,
+     "h": 50
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Leather_cap.png",
+     "caption": "Leather Cap",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#leatherworkingTrainer",
+     "key": "a7ee685451158",
+     "w": 37,
+     "h": 39
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Leather_Sling.png",
+     "caption": "Leather Sling",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#leatherworkingTrainer",
+     "key": "ac623a44b3824",
+     "w": 36,
+     "h": 38
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Leather_Leggings.png",
+     "caption": "Leather Leggings",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#leatherworkingTrainer",
+     "key": "a0e418c520f55",
+     "w": 38,
+     "h": 41
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/Monsters/Goblin_Leatherwoker.png",
+     "caption": "Goblin Leatherworker",
+     "kind": "npc-img",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#leatherworkingTrainer",
+     "key": "a66d66ad99f43",
+     "w": 167,
+     "h": 82
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/Maps/Goblin_Leatherworker_Location.png",
+     "caption": "Map of the location of Goblin Leatherworker",
+     "kind": "npc-img",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#leatherworkingTrainer",
+     "key": "a7045bf0fc478",
+     "w": 161,
+     "h": 116
+    }
+   ]
+  },
+  "Zebra Hide Gear": {
+   "aeguides": null,
+   "wiki": null,
+   "pictures": []
+  },
+  "Tailor Training": {
+   "aeguides": "https://bofur24.github.io/AEGuides/valinorQuest.html#tailoringTrainer",
+   "wiki": null,
+   "pictures": [
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Scissors.png",
+     "caption": "Scissors",
+     "kind": "thumbnail-img",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#tailoringTrainer",
+     "key": "adb50ac6b7eb9",
+     "w": 36,
+     "h": 36
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/NPCS/Tailoring_Trainer.png",
+     "caption": "Tailoring Trainer",
+     "kind": "npc-img",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#tailoringTrainer",
+     "key": "a6855b1e66fc8",
+     "w": 125,
+     "h": 91
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Raw_Silk.png",
+     "caption": "Raw Silk",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#tailoringTrainer",
+     "key": "af01449ea0940",
+     "w": 32,
+     "h": 34
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Spinning_Wheel.png",
+     "caption": "Spinning Wheel",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#tailoringTrainer",
+     "key": "adede50ed0770",
+     "w": 46,
+     "h": 57
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Silk_Thread.png",
+     "caption": "Silk Thread",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#tailoringTrainer",
+     "key": "a5164da786958",
+     "w": 34,
+     "h": 34
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Loom.png",
+     "caption": "Loom",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#tailoringTrainer",
+     "key": "affa016b8b062",
+     "w": 69,
+     "h": 56
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Silk_Cloth.png",
+     "caption": "Silk Cloth",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#tailoringTrainer",
+     "key": "a2cb454e98158",
+     "w": 34,
+     "h": 34
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Silk_Bandage.png",
+     "caption": "",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#tailoringTrainer",
+     "key": "a07e6c4ef9e8e",
+     "w": 37,
+     "h": 38
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Silk_Cap.png",
+     "caption": "Silk Cap",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#tailoringTrainer",
+     "key": "abe0778a99ab0",
+     "w": 35,
+     "h": 38
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Cloth.png",
+     "caption": "Cloth",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#tailoringTrainer",
+     "key": "a30899e828f27",
+     "w": 35,
+     "h": 37
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Cloth_Dress.png",
+     "caption": "Cloth Dress",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#tailoringTrainer",
+     "key": "a86eab7a933c2",
+     "w": 38,
+     "h": 42
+    }
+   ]
+  },
+  "Oozing on the Job": {
+   "aeguides": null,
+   "wiki": null,
+   "pictures": []
+  },
+  "The Alchemist's Apprentice": {
+   "aeguides": "https://bofur24.github.io/AEGuides/valinorQuest.html#theAlchemistsApprentice",
+   "wiki": "https://ashenempires.fandom.com/wiki/Alchemist_Baki",
+   "pictures": [
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/Items/Items/Blue_Topaz.png",
+     "caption": "Blue Topaz",
+     "kind": "thumbnail-img",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#theAlchemistsApprentice",
+     "key": "a35bcaa99d6c0",
+     "w": 33,
+     "h": 37
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/Items/Items/Potion_of_Minor_Healing.png",
+     "caption": "Potion of Minor Healing",
+     "kind": "thumbnail-img",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#theAlchemistsApprentice",
+     "key": "a4f4d20984824",
+     "w": 34,
+     "h": 34
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/NPCS/Alchemist_Baki.png",
+     "caption": "Alchemist Baki",
+     "kind": "npc-img",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#theAlchemistsApprentice",
+     "key": "ad7b32046cf41",
+     "w": 119,
+     "h": 96
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/Monsters/Triddle.png",
+     "caption": "",
+     "kind": "monster-img",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#theAlchemistsApprentice",
+     "key": "a4e5d3bf6cc45",
+     "w": 72,
+     "h": 63
+    }
+   ]
+  },
+  "Quite Entranced": {
+   "aeguides": "https://bofur24.github.io/AEGuides/silvestValley.html#quiteEntranced",
+   "wiki": "https://ashenempires.fandom.com/wiki/Quite_Entranced",
+   "pictures": [
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/SilvestValley/Quite_Entranced_Mystic_Orb_of_Alchemy.png",
+     "caption": "Gold",
+     "kind": "thumbnail-img",
+     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#quiteEntranced",
+     "key": "afe736d73a4ec",
+     "w": 35,
+     "h": 39
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/SilvestValley/Quite_Entranced_Mystic_Orb_of_Alchemy_Stats.png",
+     "caption": "Gold (tooltip)",
+     "kind": "tooltip",
+     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#quiteEntranced",
+     "key": "a4c138783e32e",
+     "w": 256,
+     "h": 136
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/SilvestValley/Quite_Entranced_Etrois.png",
+     "caption": "Etrois",
+     "kind": "npc-img",
+     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#quiteEntranced",
+     "key": "a516dcbb70b4e",
+     "w": 81,
+     "h": 105
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/SilvestValley/Quite_Entranced_Foraging_Stick.png",
+     "caption": "",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#quiteEntranced",
+     "key": "abdc41a9ce2a0",
+     "w": 40,
+     "h": 46
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/SilvestValley/Quite_Entranced_Bloodroot.png",
+     "caption": "",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#quiteEntranced",
+     "key": "a93aace52224c",
+     "w": 35,
+     "h": 38
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/SilvestValley/Quite_Entranced_Scorpion_Sting.png",
+     "caption": "",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#quiteEntranced",
+     "key": "aa99d7c4b7fb0",
+     "w": 35,
+     "h": 35
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/SilvestValley/Quite_Entranced_Toad_Eye.png",
+     "caption": "",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#quiteEntranced",
+     "key": "a3b4a09b44901",
+     "w": 42,
+     "h": 42
+    }
+   ]
+  },
+  "Unusual Science": {
+   "aeguides": null,
+   "wiki": "https://ashenempires.fandom.com/wiki/Unusual_Science",
+   "pictures": []
+  },
   "Welcome To Ashen Empires": {
    "aeguides": "https://bofur24.github.io/AEGuides/valinorQuest.html#welcomeToAshenEmpires",
    "wiki": "https://ashenempires.fandom.com/wiki/Valinor_Island",
@@ -604,52 +1483,6 @@
     }
    ]
   },
-  "The Alchemist's Apprentice": {
-   "aeguides": "https://bofur24.github.io/AEGuides/valinorQuest.html#theAlchemistsApprentice",
-   "wiki": "https://ashenempires.fandom.com/wiki/Alchemist_Baki",
-   "pictures": [
-    {
-     "from": "aeguides",
-     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/Items/Items/Blue_Topaz.png",
-     "caption": "Blue Topaz",
-     "kind": "thumbnail-img",
-     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#theAlchemistsApprentice",
-     "key": "a35bcaa99d6c0",
-     "w": 33,
-     "h": 37
-    },
-    {
-     "from": "aeguides",
-     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/Items/Items/Potion_of_Minor_Healing.png",
-     "caption": "Potion of Minor Healing",
-     "kind": "thumbnail-img",
-     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#theAlchemistsApprentice",
-     "key": "a4f4d20984824",
-     "w": 34,
-     "h": 34
-    },
-    {
-     "from": "aeguides",
-     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/NPCS/Alchemist_Baki.png",
-     "caption": "Alchemist Baki",
-     "kind": "npc-img",
-     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#theAlchemistsApprentice",
-     "key": "ad7b32046cf41",
-     "w": 119,
-     "h": 96
-    },
-    {
-     "from": "aeguides",
-     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/Monsters/Triddle.png",
-     "caption": "",
-     "kind": "monster-img",
-     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#theAlchemistsApprentice",
-     "key": "a4e5d3bf6cc45",
-     "w": 72,
-     "h": 63
-    }
-   ]
-  },
   "Kumba's Pendant": {
    "aeguides": "https://bofur24.github.io/AEGuides/valinorQuest.html#kumbaPendant",
    "wiki": "https://ashenempires.fandom.com/wiki/Kumba's_Pendant",
@@ -1135,9 +1968,250 @@
    ]
   },
   "Farming Training": {
-   "aeguides": null,
+   "aeguides": "https://bofur24.github.io/AEGuides/valinorQuest.html#farmingTrainer",
    "wiki": null,
-   "pictures": []
+   "pictures": [
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Farm_Scythe.png",
+     "caption": "Farm Scythe",
+     "kind": "thumbnail-img",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#farmingTrainer",
+     "key": "acced60e8c3ea",
+     "w": 43,
+     "h": 38
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Foraging_Stick.png",
+     "caption": "Foraging Stick",
+     "kind": "thumbnail-img",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#farmingTrainer",
+     "key": "a083573c5fa5c",
+     "w": 46,
+     "h": 49
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Shovel.png",
+     "caption": "Shovel",
+     "kind": "thumbnail-img",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#farmingTrainer",
+     "key": "a84b340821b7c",
+     "w": 54,
+     "h": 36
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Farming_Guidebook.png",
+     "caption": "Farming Guidebook",
+     "kind": "thumbnail-img",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#farmingTrainer",
+     "key": "a3d170abfc8df",
+     "w": 36,
+     "h": 37
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Storage_Crate.png",
+     "caption": "Storage Crate",
+     "kind": "thumbnail-img",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#farmingTrainer",
+     "key": "ab30f8ebe8ab6",
+     "w": 40,
+     "h": 39
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/NPCS/Farming_Trainer.png",
+     "caption": "Farming Trainer",
+     "kind": "npc-img",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#farmingTrainer",
+     "key": "a9d214704ab81",
+     "w": 131,
+     "h": 76
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Foraging_Spots.png",
+     "caption": "Foraging Spots",
+     "kind": "monster-img",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#farmingTrainer",
+     "key": "a289e0895730f",
+     "w": 155,
+     "h": 129
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Tomato_Seed.png",
+     "caption": "Tomato Seed",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#farmingTrainer",
+     "key": "a5099fc5f2014",
+     "w": 33,
+     "h": 31
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Orange_Seed.png",
+     "caption": "Orange Seed",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#farmingTrainer",
+     "key": "ada178048f508",
+     "w": 33,
+     "h": 33
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Fresh_Soil.png",
+     "caption": "Fresh Soil",
+     "kind": "monster-img",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#farmingTrainer",
+     "key": "ae32a85d80c06",
+     "w": 115,
+     "h": 96
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Seed_Mound.png",
+     "caption": "Seed Mound",
+     "kind": "monster-img",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#farmingTrainer",
+     "key": "a07eae3e93959",
+     "w": 102,
+     "h": 88
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Framing_Shop_Sign.png",
+     "caption": "Farming Shop Sign",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#farmingTrainer",
+     "key": "a46742d5cdf09",
+     "w": 39,
+     "h": 30
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/Maps/Faming_Patch_Location.png",
+     "caption": "Farming Patch Location",
+     "kind": "monster-img",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#farmingTrainer",
+     "key": "a567e807f03cc",
+     "w": 56,
+     "h": 50
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Wheat_Seedling.png",
+     "caption": "Wheat Seedling",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#farmingTrainer",
+     "key": "a33689ca0fc79",
+     "w": 58,
+     "h": 37
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Wheat_Plant.png",
+     "caption": "Wheat Plant",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#farmingTrainer",
+     "key": "ab5fb944433e3",
+     "w": 49,
+     "h": 54
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/WHeat_Plant_Blossomed.png",
+     "caption": "Wheat Plant Blossomed",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#farmingTrainer",
+     "key": "aaca405a08b58",
+     "w": 46,
+     "h": 64
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Wheat_Grain.png",
+     "caption": "Wheat Grain",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#farmingTrainer",
+     "key": "a83d1df7a1a33",
+     "w": 44,
+     "h": 44
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Cinnamon_Seed.png",
+     "caption": "Cinnamon Seed",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#farmingTrainer",
+     "key": "afe5099f8ddcf",
+     "w": 35,
+     "h": 38
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Cinnamon_Plant_Seedling.png",
+     "caption": "Cinnamon Plant Seedling",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#farmingTrainer",
+     "key": "a43fadffa02e4",
+     "w": 45,
+     "h": 50
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Cinnamon_Plant.png",
+     "caption": "Cinnamon Plant",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#farmingTrainer",
+     "key": "a4e3b134fa2fb",
+     "w": 92,
+     "h": 100
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Cinnamon_Plant_Blossomed.png",
+     "caption": "Cinnamon Plant Blossomed",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#farmingTrainer",
+     "key": "a45ecb26de214",
+     "w": 87,
+     "h": 97
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/TradeSkills/Cinnamon_Bundle.png",
+     "caption": "Cinnamon Bundle",
+     "kind": "",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#farmingTrainer",
+     "key": "a62398aa84fbf",
+     "w": 36,
+     "h": 33
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/Monsters/Goblin_Farmer.png",
+     "caption": "Goblin Farmer",
+     "kind": "npc-img",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#farmingTrainer",
+     "key": "a58ab0ad87d2e",
+     "w": 115,
+     "h": 79
+    },
+    {
+     "from": "aeguides",
+     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Valinor/Maps/Goblin_Farmer_Location.png",
+     "caption": "Map of the location of Goblin Farmer",
+     "kind": "npc-img",
+     "page": "https://bofur24.github.io/AEGuides/valinorQuest.html#farmingTrainer",
+     "key": "ac018e120e432",
+     "w": 58,
+     "h": 53
+    }
+   ]
   },
   "A Goblin Problem": {
    "aeguides": "https://bofur24.github.io/AEGuides/valinorQuest.html#aGoblinProblem",
@@ -3998,82 +5072,6 @@
     }
    ]
   },
-  "Quite Entranced": {
-   "aeguides": "https://bofur24.github.io/AEGuides/silvestValley.html#quiteEntranced",
-   "wiki": "https://ashenempires.fandom.com/wiki/Quite_Entranced",
-   "pictures": [
-    {
-     "from": "aeguides",
-     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/SilvestValley/Quite_Entranced_Mystic_Orb_of_Alchemy.png",
-     "caption": "Gold",
-     "kind": "thumbnail-img",
-     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#quiteEntranced",
-     "key": "afe736d73a4ec",
-     "w": 35,
-     "h": 39
-    },
-    {
-     "from": "aeguides",
-     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/SilvestValley/Quite_Entranced_Mystic_Orb_of_Alchemy_Stats.png",
-     "caption": "Gold (tooltip)",
-     "kind": "tooltip",
-     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#quiteEntranced",
-     "key": "a4c138783e32e",
-     "w": 256,
-     "h": 136
-    },
-    {
-     "from": "aeguides",
-     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/SilvestValley/Quite_Entranced_Etrois.png",
-     "caption": "Etrois",
-     "kind": "npc-img",
-     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#quiteEntranced",
-     "key": "a516dcbb70b4e",
-     "w": 81,
-     "h": 105
-    },
-    {
-     "from": "aeguides",
-     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/SilvestValley/Quite_Entranced_Foraging_Stick.png",
-     "caption": "",
-     "kind": "",
-     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#quiteEntranced",
-     "key": "abdc41a9ce2a0",
-     "w": 40,
-     "h": 46
-    },
-    {
-     "from": "aeguides",
-     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/SilvestValley/Quite_Entranced_Bloodroot.png",
-     "caption": "",
-     "kind": "",
-     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#quiteEntranced",
-     "key": "a93aace52224c",
-     "w": 35,
-     "h": 38
-    },
-    {
-     "from": "aeguides",
-     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/SilvestValley/Quite_Entranced_Scorpion_Sting.png",
-     "caption": "",
-     "kind": "",
-     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#quiteEntranced",
-     "key": "aa99d7c4b7fb0",
-     "w": 35,
-     "h": 35
-    },
-    {
-     "from": "aeguides",
-     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/SilvestValley/Quite_Entranced_Toad_Eye.png",
-     "caption": "",
-     "kind": "",
-     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#quiteEntranced",
-     "key": "a3b4a09b44901",
-     "w": 42,
-     "h": 42
-    }
-   ]
-  },
   "Juicy": {
    "aeguides": "https://bofur24.github.io/AEGuides/silvestValley.html#juicy",
    "wiki": "https://ashenempires.fandom.com/wiki/Schrute",
@@ -4650,230 +5648,6 @@
      "key": "a2c712b6560e3",
      "w": 137,
      "h": 195
-    }
-   ]
-  },
-  "Gem Thieves": {
-   "aeguides": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
-   "wiki": "https://ashenempires.fandom.com/wiki/Gem_Thieves",
-   "pictures": [
-    {
-     "from": "aeguides",
-     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Krythan/Gem_Thieves_10_Diamond.png",
-     "caption": "10 Diamonds",
-     "kind": "thumbnail-img",
-     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
-     "key": "ae91aa3e406f7",
-     "w": 29,
-     "h": 30
-    },
-    {
-     "from": "aeguides",
-     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Krythan/Gem_Thieves_10_Diamond_Stats.png",
-     "caption": "10 Diamonds (tooltip)",
-     "kind": "tooltip",
-     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
-     "key": "a8e8f7945ff8d",
-     "w": 29,
-     "h": 30
-    },
-    {
-     "from": "aeguides",
-     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Krythan/Gem_Thieves_Dalvon_Miners_Ring.png",
-     "caption": "Dalvon Miners Ring",
-     "kind": "thumbnail-img",
-     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
-     "key": "a1d64495e2b41",
-     "w": 33,
-     "h": 35
-    },
-    {
-     "from": "aeguides",
-     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Krythan/Gem_Thieves_Dalvon_Miners_Ring_Stats.png",
-     "caption": "Dalvon Miners Ring (tooltip)",
-     "kind": "tooltip",
-     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
-     "key": "ae7018e64eb49",
-     "w": 157,
-     "h": 211
-    },
-    {
-     "from": "aeguides",
-     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Krythan/Gem_Thieves_Gemstone_Of_Dalvon.png",
-     "caption": "Gemstone of Dalvon",
-     "kind": "thumbnail-img",
-     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
-     "key": "aad46dbc1113c",
-     "missing": true
-    },
-    {
-     "from": "aeguides",
-     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Krythan/Gem_Thieves_Gemstone_Of_Dalvon_Stats.png",
-     "caption": "Gemstone of Dalvon (tooltip)",
-     "kind": "tooltip",
-     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
-     "key": "a6c8262f4e6b3",
-     "missing": true
-    },
-    {
-     "from": "aeguides",
-     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Krythan/Gem_Thieves_Dalvon_Miner.png",
-     "caption": "Dalvon Miner",
-     "kind": "npc-img",
-     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
-     "key": "a1d14e6fefd80",
-     "w": 111,
-     "h": 95
-    },
-    {
-     "from": "aeguides",
-     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Krythan/Gem_Thieves_Gold.png",
-     "caption": "10 Diamonds",
-     "kind": "thumbnail-img",
-     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
-     "key": "af6518ca5e552",
-     "w": 29,
-     "h": 30
-    },
-    {
-     "from": "aeguides",
-     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Krythan/Gem_Thieves_1000_Gold.png",
-     "caption": "10 Diamonds (tooltip)",
-     "kind": "tooltip",
-     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
-     "key": "a2328d1189ddb",
-     "w": 29,
-     "h": 30
-    },
-    {
-     "from": "aeguides",
-     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Krythan/Gem_Thieves_Dalvon_Mine_Map.png",
-     "caption": "Dalvon Mine",
-     "kind": "npc-img",
-     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
-     "key": "a72699dc6ab7f",
-     "w": 259,
-     "h": 376
-    },
-    {
-     "from": "aeguides",
-     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/NPC/Monsters/Kobold_Miner.png",
-     "caption": "Kobold Miner",
-     "kind": "monster-img",
-     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
-     "key": "a216aecd7988f",
-     "w": 111,
-     "h": 91
-    },
-    {
-     "from": "aeguides",
-     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/NPC/Monsters/Kobold_Miner_Stats.png",
-     "caption": "Kobold Miner (tooltip)",
-     "kind": "tooltip",
-     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
-     "key": "afdbeeb3fef76",
-     "w": 133,
-     "h": 99
-    },
-    {
-     "from": "aeguides",
-     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/NPC/Monsters/Kobold_Foreman.png",
-     "caption": "Kobold Foreman",
-     "kind": "monster-img",
-     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
-     "key": "a7bd347d192f6",
-     "w": 140,
-     "h": 92
-    },
-    {
-     "from": "aeguides",
-     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/NPC/Monsters/Kobold_Foreman_Stats.png",
-     "caption": "Kobold Foreman (tooltip)",
-     "kind": "tooltip",
-     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
-     "key": "a68299b27905c",
-     "w": 135,
-     "h": 130
-    },
-    {
-     "from": "aeguides",
-     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/NPC/Boss/Master_Blaster.png",
-     "caption": "Master Blaster",
-     "kind": "monster-img",
-     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
-     "key": "af096a92672b5",
-     "w": 129,
-     "h": 177
-    },
-    {
-     "from": "aeguides",
-     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/NPC/Boss/Master_Blaster_Stats.png",
-     "caption": "Master Blaster (tooltip)",
-     "kind": "tooltip",
-     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
-     "key": "a6c3d36161178",
-     "w": 148,
-     "h": 131
-    },
-    {
-     "from": "aeguides",
-     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Krythan/Gem_Thieves_Dalvon_Steel_Helm.png",
-     "caption": "Dalvon Steel Helm",
-     "kind": "thumbnail-img",
-     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
-     "key": "a6ed9388ee640",
-     "w": 33,
-     "h": 36
-    },
-    {
-     "from": "aeguides",
-     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Krythan/Gem_Thieves_Dalvon_Steel_Helm_Stats.png",
-     "caption": "Dalvon Steel Helm (tooltip)",
-     "kind": "tooltip",
-     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
-     "key": "a3cbede9ab41b",
-     "w": 146,
-     "h": 226
-    },
-    {
-     "from": "aeguides",
-     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Krythan/Gem_Thieves_Dalvon_Steel_Leggings.png",
-     "caption": "Dalvon Steel Leggings",
-     "kind": "thumbnail-img",
-     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
-     "key": "a8093516a7a57",
-     "w": 33,
-     "h": 35
-    },
-    {
-     "from": "aeguides",
-     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Krythan/Gem_Thieves_Dalvon_Steel_Leggings_Stats.png",
-     "caption": "Dalvon Steel Leggings (tooltip)",
-     "kind": "tooltip",
-     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
-     "key": "a7d901e45b2c8",
-     "w": 175,
-     "h": 242
-    },
-    {
-     "from": "aeguides",
-     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Krythan/Gem_Thieves_Dalvon_Steel_Armor.png",
-     "caption": "Dalvon Steel Armor",
-     "kind": "thumbnail-img",
-     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
-     "key": "a2e43ee5ad2e2",
-     "w": 34,
-     "h": 35
-    },
-    {
-     "from": "aeguides",
-     "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Krythan/Gem_Thieves_Dalvon_Steel_Armor_Stats.png",
-     "caption": "Dalvon Steel Armor (tooltip)",
-     "kind": "tooltip",
-     "page": "https://bofur24.github.io/AEGuides/silvestValley.html#gemThieves",
-     "key": "ad6b178698706",
-     "w": 158,
-     "h": 242
     }
    ]
   },
@@ -5456,19 +6230,9 @@
    "wiki": "https://ashenempires.fandom.com/wiki/Nothing_to_it",
    "pictures": []
   },
-  "Fellow Archer": {
-   "aeguides": null,
-   "wiki": "https://ashenempires.fandom.com/wiki/Fellow_Archer",
-   "pictures": []
-  },
   "Desire, Devotion, Dedication": {
    "aeguides": null,
    "wiki": "https://ashenempires.fandom.com/wiki/Desire,_Devotion,_Dedication",
-   "pictures": []
-  },
-  "The Ways of Mining": {
-   "aeguides": null,
-   "wiki": "https://ashenempires.fandom.com/wiki/The_Ways_of_Mining",
    "pictures": []
   },
   "Knight of Whisperdale": {
@@ -5767,11 +6531,6 @@
      "h": 211
     }
    ]
-  },
-  "Oozing on the Job": {
-   "aeguides": null,
-   "wiki": null,
-   "pictures": []
   },
   "Search for Jhulara": {
    "aeguides": "https://bofur24.github.io/AEGuides/darkWoods.html#searchForJhulara",
@@ -9006,6 +9765,149 @@
   }
  },
  "extra": [
+  {
+   "from": "wiki",
+   "file": "TaskMasters.png",
+   "caption": "The Taskmasters in Lotor's Summer Palace",
+   "page": "https://ashenempires.fandom.com/wiki/Skills",
+   "url": "https://static.wikia.nocookie.net/ashenempires/images/f/fa/TaskMasters.png/revision/latest?cb=20190701001623",
+   "by": "Slayer21",
+   "key": "w30dd538a2375",
+   "w": 157,
+   "h": 205
+  },
+  {
+   "from": "wiki",
+   "file": "Lockbox.png",
+   "caption": "A Taskmaster's Lockbox",
+   "page": "https://ashenempires.fandom.com/wiki/Skills",
+   "url": "https://static.wikia.nocookie.net/ashenempires/images/e/e1/Lockbox.png/revision/latest?cb=20190701001526",
+   "by": "Slayer21",
+   "key": "wc5a445b04c5e",
+   "w": 29,
+   "h": 30
+  },
+  {
+   "from": "wiki",
+   "file": "SkillWindow.jpg",
+   "caption": "The Skills window",
+   "page": "https://ashenempires.fandom.com/wiki/Skills",
+   "url": "https://static.wikia.nocookie.net/ashenempires/images/e/ec/SkillWindow.jpg/revision/latest?cb=20190701001558",
+   "by": "Slayer21",
+   "key": "wbd3da0e970e3",
+   "w": 259,
+   "h": 361
+  },
+  {
+   "from": "wiki",
+   "file": "Alchemists Mortar.PNG",
+   "caption": "The Alchemist's Mortar",
+   "page": "https://ashenempires.fandom.com/wiki/Alchemy",
+   "url": "https://static.wikia.nocookie.net/ashenempires/images/5/59/Alchemists_Mortar.PNG/revision/latest?cb=20220422045024",
+   "by": "Slayer21",
+   "key": "wea91790a5785",
+   "w": 34,
+   "h": 34
+  },
+  {
+   "from": "wiki",
+   "file": "Cauldron.PNG",
+   "caption": "A cauldron",
+   "page": "https://ashenempires.fandom.com/wiki/Alchemy",
+   "url": "https://static.wikia.nocookie.net/ashenempires/images/6/6e/Cauldron.PNG/revision/latest?cb=20220422050616",
+   "by": "Slayer21",
+   "key": "wd0897a2eda05",
+   "w": 50,
+   "h": 53
+  },
+  {
+   "from": "wiki",
+   "file": "Mysic Orb of Alchemy.PNG",
+   "caption": "The Mystic Orb of Alchemy",
+   "page": "https://ashenempires.fandom.com/wiki/Alchemy",
+   "url": "https://static.wikia.nocookie.net/ashenempires/images/5/50/Mysic_Orb_of_Alchemy.PNG/revision/latest?cb=20220422045332",
+   "by": "Slayer21",
+   "key": "wbe41f63c0371",
+   "w": 34,
+   "h": 33
+  },
+  {
+   "from": "wiki",
+   "file": "Tome of Jandros.PNG",
+   "caption": "The Tome of Jandros",
+   "page": "https://ashenempires.fandom.com/wiki/Alchemy",
+   "url": "https://static.wikia.nocookie.net/ashenempires/images/a/ae/Tome_of_Jandros.PNG/revision/latest?cb=20220422045233",
+   "by": "Slayer21",
+   "key": "w07d7c3ce74bf",
+   "w": 33,
+   "h": 34
+  },
+  {
+   "from": "wiki",
+   "file": "Brewkettle.gif",
+   "caption": "A brew kettle",
+   "page": "https://ashenempires.fandom.com/wiki/Brewing",
+   "url": "https://static.wikia.nocookie.net/ashenempires/images/3/3f/Brewkettle.gif/revision/latest?cb=20220804122225",
+   "by": "Slayer21",
+   "key": "w80c706614b10",
+   "w": 33,
+   "h": 35
+  },
+  {
+   "from": "wiki",
+   "file": "Drinking_Horn.gif",
+   "caption": "The Drinking Horn",
+   "page": "https://ashenempires.fandom.com/wiki/Brewing",
+   "url": "https://static.wikia.nocookie.net/ashenempires/images/2/28/Drinking_Horn.gif/revision/latest?cb=20220804122238",
+   "by": "Slayer21",
+   "key": "w73a4abeadf15",
+   "w": 33,
+   "h": 35
+  },
+  {
+   "from": "wiki",
+   "file": "Tackle Box.JPG",
+   "caption": "The Tackle Box",
+   "page": "https://ashenempires.fandom.com/wiki/Fishing_for_Friends",
+   "url": "https://static.wikia.nocookie.net/ashenempires/images/5/58/Tackle_Box.JPG/revision/latest?cb=20240828124945",
+   "by": "Slayer21",
+   "key": "wa5cf645dd679",
+   "w": 35,
+   "h": 37
+  },
+  {
+   "from": "wiki",
+   "file": "Fishing Vest.JPG",
+   "caption": "The Fishing Vest",
+   "page": "https://ashenempires.fandom.com/wiki/Fishing_for_Friends",
+   "url": "https://static.wikia.nocookie.net/ashenempires/images/5/56/Fishing_Vest.JPG/revision/latest?cb=20240831040425",
+   "by": "Slayer21",
+   "key": "w658662b6060f",
+   "w": 35,
+   "h": 39
+  },
+  {
+   "from": "wiki",
+   "file": "Message in a Bottle.JPG",
+   "caption": "A Message in a Bottle",
+   "page": "https://ashenempires.fandom.com/wiki/Fishing_for_Friends",
+   "url": "https://static.wikia.nocookie.net/ashenempires/images/1/16/Message_in_a_Bottle.JPG/revision/latest?cb=20240831040123",
+   "by": "Slayer21",
+   "key": "w468e3aaa8b5c",
+   "w": 34,
+   "h": 36
+  },
+  {
+   "from": "wiki",
+   "file": "Pets Window.PNG",
+   "caption": "The follower window",
+   "page": "https://ashenempires.fandom.com/wiki/Game_Interface",
+   "url": "https://static.wikia.nocookie.net/ashenempires/images/6/6b/Pets_Window.PNG/revision/latest?cb=20191215035716",
+   "by": "Slayer21",
+   "key": "wb7182c1060f6",
+   "w": 94,
+   "h": 163
+  },
   {
    "from": "aeguides",
    "url": "https://raw.githubusercontent.com/bofur24/AEGuides/74d143ff02aa8bfed69aca38ffd5bea8673fd3f0/Images/Maps/World_Map.png",

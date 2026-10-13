@@ -35,6 +35,10 @@ PAGES = [
                                                 "The expansions: what each one opens"]),
     ("basics", "Things to know", ["Things a beginner has to know"]),
     ("howto", "How do I ...?", ["How do I ...?"]),
+    ("trades", "Trades and Taskmasters", ["Trades: how they work"]),
+    ("tradesgear", "Trades: making gear", ["Trades: making gear"]),
+    ("tradesrest", "Trades: potions and food", ["Trades: potions, food and the rest"]),
+    ("followers", "Followers and taming", ["Followers: taming and Leadership"]),
     ("about", "Sources and credits", ["How far to trust this", "What nobody could tell us", "Credits"]),
 ]
 

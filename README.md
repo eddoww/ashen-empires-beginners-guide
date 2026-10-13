@@ -11,7 +11,7 @@ walkthrough on AE Guides and on the wiki, and shows the pictures those walkthrou
 | | |
 |---|---|
 | `guide.md` | The whole guide, as one text. This is the file to edit |
-| `tools/build.py` | Cuts `guide.md` into the twelve pages under `docs/` |
+| `tools/build.py` | Cuts `guide.md` into the pages under `docs/` |
 | `tools/collect_images.py`, `tools/fetch_images.py` | Find the pictures each quest's walkthroughs show, download them, shrink them |
 | `images/manifest.json` | Which picture belongs to which quest, where it comes from, who uploaded it |
 | `data/wiki_pages.json` | Which wiki page describes which quest |

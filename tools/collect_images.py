@@ -39,7 +39,9 @@ WIKI_PAGE = {
 }
 # AE Guides' own headings where they differ from the game's name.
 AEG_NAME = {"Disciple of the Mind": "Disciple of Mind", "Lift Their Spirits": "Lift Their Spirts",
-            "Farming Training": "Farming Trainer"}
+            "Farming Training": "Farming", "Blacksmith Training": "Blacksmithing",
+            "Carpenter Training": "Carpentry", "Leatherworking Training": "Leatherworking",
+            "Tailor Training": "Tailoring", "Cooking Training": "Cooking"}
 DULL = re.compile(r"(^|/)(gold|exp|experience|faction|epool|xp)[^/]*\.(png|jpg)$", re.I)
 
 

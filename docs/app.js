@@ -1,7 +1,7 @@
 // The menu on a narrow screen, the quest search, the picture viewer, and the checklist that remembers its ticks.
 (function () {
   var names = { index: 'Start', valinor: 'Valinor', mainland: 'Mainland', krog: 'Krog', silvest: 'Silvest',
-    whisperdale: 'Whisperdale', gear: 'Gear', after: 'After 25', level40: 'Level 40+', howto: 'How do I', basics: 'Basics', about: 'Sources' };
+    whisperdale: 'Whisperdale', gear: 'Gear', after: 'After 25', level40: 'Level 40+', howto: 'How do I', trades: 'Trades', tradesgear: 'Gear trades', tradesrest: 'Potions and food', followers: 'Followers', basics: 'Basics', about: 'Sources' };
 
   document.getElementById('menu').onclick = function () { document.body.classList.toggle('open'); };
   document.getElementById('nav').onclick = function (e) { if (e.target.tagName === 'A') document.body.classList.remove('open'); };

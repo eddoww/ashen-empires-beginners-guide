@@ -6,6 +6,1798 @@ towns a new character can go to after Valinor (Krog, Silvest, Whisperdale), and 
 It is written for somebody who has never played. If you only want the order, read
 [The route in one page](#the-route-in-one-page) and the page of your town.
 
+| If you want to know | Read |
+|---|---|
+| What to do on the first island | [Valinor, level 1 to 10](#valinor-level-1-to-10) |
+| What to do in your town | [Krog](#krog-and-the-black-swamp), [Silvest](#silvest-and-the-silvest-valley) or [Whisperdale](#whisperdale-and-the-darkwoods) |
+| How to level fastest | [The patron](#the-patron-your-main-source-of-levels) up to 40, then [the Trading Mercenary](#level-40-on-the-trading-mercenary) |
+| What to wear | [What to wear from level 8 to 25](#what-to-wear-from-level-8-to-25) |
+| Which expansion to buy, and how to get a boat | [The expansions](#the-expansions-what-each-one-opens) |
+| How to make things | [Trades: how they work](#trades-how-they-work), [making gear](#trades-making-gear), [potions, food and the rest](#trades-potions-food-and-the-rest) |
+| How to get a creature to fight for you | [Followers](#followers-taming-and-leadership) |
+| How anything in the game is done | [How do I ...?](#how-do-i) and [Things a beginner has to know](#things-a-beginner-has-to-know) |
+
+## Trades: how they work
+
+A trade is a skill like any other: you learn it by using it, it has a level from 1 to 100, and nothing stops you
+from having all of them. What sets trades apart is that the experience pool cannot be spent on them. Every level
+of a trade is made by hand, or handed to you by a quest or a Taskmaster.
+
+The short advice, before the detail:
+
+1. On Valinor, take the **Farming** and **Cooking** trainers beside your weapon trainer. They hand you the tools
+   for nothing and their tasks walk you through the first levels.
+2. Roast what you kill and fish when you want a rest. Both cost next to nothing and give food that adds 3 to 5
+   to your main attribute for half an hour.
+3. Pick one trade that suits your build (the table and the last section below) and leave the rest until you have
+   gold to spare.
+4. **If you mean to take a trade far, subscribe and use the Taskmasters.** Players who level trades in earnest
+   do it this way: the Taskmasters in Lotor's Summer Palace pay experience for crafting orders, the wiki calls
+   them "the best way to level up those Crafting Skills", and the subscription they need adds 10% to all
+   experience besides. They ask for level 10 in the trade.
+
+### Learning and raising a skill
+
+- **First use teaches it.** By the wiki, a trade is added to your Skills window (`K`) when you first attempt an
+  item of level 0 in it. There is no trainer to pay and no limit to the number of skills.
+- **Success pays twice.** The Help Menu: when you "succeed at tradeskills" you gain experience towards your
+  character's level "as well as with that Skill". So crafting also levels your character, slowly.
+- **Failure pays less and costs you.** By the wiki, "successful attempts will yield more experience than the
+  fails". What a failure takes depends on the trade: a failed mix destroys what was in the bowl (AE Guides quotes
+  the game: "You destroy the mixture"), a failed planting loses the hole and the seed (the game's Farming
+  guidebook), and the Help Menu says tools and gear lose health when you "fail a skill check". Since the patch
+  of 7 May 2022 tools no longer wear down "for new players"; the note does not say until when.
+- **Each trade leans on one attribute**, which raises your chance of success (the table further down). The
+  wiki's list and the attribute column of the game's own skill table agree for every trade named here.
+- **A higher skill pays more per item.** By the wiki, "as you level your skill you will receive more experience
+  with each level".
+- **Skill is capped at 15 on Valinor** (see the Valinor chapter) and your character at level 10. On the mainland
+  the chart of Dragoneer's Den runs to skill 100.
+
+How much experience a skill level takes, by Dragoneer's Den (the same chart serves every skill):
+
+| Skill level | Total experience | Skill level | Total experience |
+|---|---|---|---|
+| 5 | 2,000 | 30 | 449,500 |
+| 10 | 16,500 | 40 | 1,066,000 |
+| 15 | 56,000 | 50 | 2,082,500 |
+| 20 | 133,000 | 75 | 7,030,000 |
+| 25 | 260,000 | 100 | 16,665,000 |
+
+The first ten levels are a few thousand points each, which is why a quest that pays 20,000 into a trade lifts a
+beginner by five levels or more.
+
+### What the experience pool can and cannot do
+
+The pool goes into combat skills. By the wiki, "not all skills can be epooled, such as Tradeskills". Dragoneer's
+Den marks skill by skill what takes pool: the weapon and magic skills, Leadership, **First Aid** and the five
+repair skills. None of the making or gathering skills is on that list: not Alchemy, not the three cooking skills,
+Brewing, the three farming skills, Fly-casting or Runecrafting.
+
+So a trade is raised in four ways only: by making things, by quests that pay experience into it (each trade
+section in the next chapter names them), by Taskmasters, and, since the patch of 16 August 2025, by Scrolls of
+Experience ("no drop one time use scrolls that give skill xp"; the note does not say where they come from).
+
+### What raises a skill beyond its base
+
+Bonus levels show in green beside the skill. They count for your chance of success, and by the wiki they also
+count for experience: with +5 from gear at skill 20 "you will earn the experience for level 25". The Help Menu
+says that bonuses to skills "do not count towards equipment requirements". Whether they let you make a recipe
+above your own level is not stated anywhere.
+
+A patch of 21 March 2026 added a "cap for skill bonuses"; it does not say how high the cap is.
+
+What a character below level 50 can get, with the figure from the game's item table unless said otherwise:
+
+| Item | Bonus | Needs | Where from |
+|---|---|---|---|
+| Heavy Foraging Stick | +10 Foraging | Foraging 20 | Priced at 650 gold |
+| Foraging Smock | +10 Foraging | Level 10 | Dropped by Dragoons (level 12) and others, by AE Database; a reward in the farming quests |
+| Farming Almanac | +10 Planting while in your backpack (AE Database, Dragoneer's Den) | Nothing | Priced at 2,000 gold; a reward of "Growing Allies" |
+| Farmer's Ring | +5 Harvesting, +5 Planting | Level 20 | A reward of "Old Debts" in the farming quests |
+| Scythe of Ulthien | +20 Harvesting (AE Database and Dragoneer's Den say +10) | Level 20 by AE Database | Dropped by Orc Renegade Soldiers and Shamblers, by AE Database |
+| Silver Spoon | +20 Mixing (AE Database and Dragoneer's Den say +10) | Level 20 by AE Database | The same two creatures |
+| Chefs Cap | +20 Baking, +20 Roasting | Nothing | The same two creatures |
+| Fishing Vest | +10 Fly-casting | Nothing | Dragoons (level 12); the third fishing quest |
+| Waders | +10 Fly-casting | Level 30 | The fishing quests |
+| Drinking Horn | +10 Brewing | Level 20 | Dropped by creatures of level 65 and up, so bought from players |
+| Mystic Orb of Alchemy | A boost for 10 minutes, one use: +10 by AE Database, +30 by the wiki and Dragoneer's Den | Nothing | Silvest, "Quite Entranced" |
+| Tome of Jandros | +10 Alchemy, +11 Int | Level 50, 35 Int, Alchemy 30 | Dropped by many creatures around level 50 |
+
+Two foods add to trades as well: Cocochada (+5 Farming, +5 Fishing) and Lemon Ice (+5 Alchemy, +10 Runecrafting
+by the game's table, +5 by AE Database). Both are priced at 100,000 gold and sold, by AE Database, in New Krog
+City and New Josody City, so they are not for a beginner.
+
+### Skill gain, as we measured it
+
+What the sources and our own play say about how a skill grows, rule by rule:
+
+| Rule | Source |
+|---|---|
+| Every try gives experience, and a failed try gives half and loses material | Our own play, October 2026: 69 against 138 for a Saw, "You have lost some ingots" |
+| One try gives more the higher your skill is: the same action paid in step with 12 + your skill level | Our own play, for Iron Smelting from level 0 to 22, Tanning 7 to 14, Spinning 0 to 7 |
+| Each recipe has its own figure. For Iron Forging the game's recipe table holds it: experience of a try = figure x (12 + skill level) / 1,000 | Our own play, seven recipes, all that were tried. Not tested for the other trades |
+| A recipe up to three levels below your skill still gave its full figure | Our own play. Nothing further below was tried |
+| A skill needs 100 x (n - 1) x n x (n + 1) / 6 experience for level n: 2,000 for 5, 16,500 for 10, 56,000 for 15, 260,000 for 25, 2,082,500 for 50 | The game's own table |
+| Gear that adds to a skill makes you earn as if you had that many levels more | The wiki's Skills page |
+| Skill bonuses to forging and carpentry let you make harder recipes | Patch notes of 2021 |
+| The better materials (see below) ask for the skill without bonuses | Dragoneer's Den |
+| Server-wide bonus experience counts for trades too: 20% and 25% were seen | Our own play |
+
+The ladders in [the chapter on gear trades](#trades-making-gear) are **our own reading of the recipe table**: for each bracket, the recipe with the
+highest figure per piece of material. Nobody's tested advice was found: neither the wiki nor Dragoneer's Den nor
+AE Database says what to make to level a trade, they list recipes only. The figure is proven for Iron Forging and
+assumed for the rest.
+
+Each skill leans on one attribute. Bonus orbs from gear count here, since these are passive checks (Help Menu).
+
+| Chain | Gathering | Refining | Making |
+|---|---|---|---|
+| Blacksmithing | Mining: Strength | Iron Smelting: Intelligence | Iron Forging: Strength |
+| Wood Working | Lumberjacking: Strength | Milling: Dexterity | Carpentry: Dexterity |
+| Leathercrafting | Skinning: Dexterity | Tanning: Intelligence | Leatherworking: Dexterity |
+| Tailoring | none of its own | Spinning, Weaving: Dexterity | Sewing: Dexterity |
+| Jewelry | Mining: Strength | Iron Smelting: Intelligence | Jewelry Making: Dexterity |
+
+The wiki's Tradeskills page and the game's skill table agree on all of these.
+
+Better materials open at fixed levels of the gathering skill, by Dragoneer's Den, and the better two grades can
+only be worked next to an Obelisk or a Rune Spire, far from any town. A beginner works the first grade only.
+
+| Gathering skill | 0 | 30 | 45 | 70 |
+|---|---|---|---|---|
+| Mining | Iron Ore | Thrallenite | Brimidian (red crystals) | Talenite (black crystals) |
+| Lumberjacking | Logs | Fine Wood | Heartwood | Greater Heartwood |
+| Skinning | Skinned Hide | Quality hide | Superior hide | Flawless hide |
+| Worked at | anywhere, or the shop's station | the same | an Obelisk | a Rune Spire |
+
+Three more things to know before you start:
+
+- **On Valinor every skill stops at 15**, trades included. That is enough for each trainer's quest there.
+- **The ordinary tools do not wear out for a new player** (patch notes of 2022).
+- **Magic tools** add 10 or 20 to a skill and ask for skill 20 in it: Stonebiter Pick, Veldan's Hammer, Smelter's
+  Gloves, Logging Axe, Two Bladed Saw, Carpentry Toolset, Magic Skinning Knife, Magic Leather Tools, Mystic
+  Shears. They drop from creatures or are bought from players. Leave them until you are at 20.
+
+### Where to work
+
+Forges and anvils are in blacksmith shops, tanning vats and leatherworking benches in leather shops (by the
+in-game guidebooks). Milling needs no station: you click the saw, then the logs. The in-game Carpentry guidebook
+says the same of carpentry itself (tools, then logs), while the wiki asks for a Carpentry Bench.
+
+| Town | Blacksmith shop | Carpentry shop | Leather shop |
+|---|---|---|---|
+| Valinor | Kerry Thomas, 750,151, under the castle | Linus Houson, 750,150 | Tina Florence, 750,152; the tanning vat is under the castle too |
+| Krog | none in Krog; Verdax in Maraket, 3070,4025 | Jarra, 3081,3785 | Gorn, 3162,3753 |
+| Silvest | Eadwyn, 1116,1390 | Bunden, 1091,1356 | Vessik, 1087,1359, with the vats outside |
+| Whisperdale | Adalar, 405,3448 | Quizlin, 381,3477 | Vornath, 392,3474; vats at 394,3479 |
+
+Coordinates are the community map's. It marks no tailor's shop anywhere, so where the spinning wheels and looms
+stand is not known to us, except that Valinor's Tailoring Trainer (736,108) sends you to one of each.
+
+### Taskmasters
+
+A Taskmaster is a person in Lotor's Summer Palace who sets you crafting tasks in one trade and pays in
+experience for that trade. The sources say little, and all of it is here.
+
+**What they need** (the wiki's Skills page):
+
+- A subscription (VIP). The Help Menu lists "Access to Lotor's crafting Taskmasters" among the perks.
+- Level 10 in their trade.
+- A patch note the wiki files at the end of 2022 adds: "Tradeskill Taskmasters now require Tides of Fate
+  expansion enabled on the server". It speaks of the server, not of your account, and we could not tell whether
+  you must own the expansion yourself. By Dragoneer's Den they are switched off on the Chaos server.
+
+**How a task goes** (the wiki's Skills and VIP pages):
+
+1. Ask the Taskmaster for a task. He gives you a **Taskmaster's Lockbox** and names an item and a number.
+2. Make the items. Each one you make is put into the box as it is made.
+3. Bring the box back for the experience. "The more the Taskmaster asks for the more experience you get."
+4. A task can be beyond your skill, or dull. Double-click the box to destroy it and ask for another. There is no
+   penalty named anywhere.
+
+**What they pay**: "excellent experience" and "a hefty amount of experience towards that skill" are the only
+words any source has. No number is given anywhere, not for a task, not per item, not by skill level. The Help
+Menu counts Taskmaster tasks among the quests that can be repeated.
+
+**What they ask for**: no source has a list. The patch notes show the lists being trimmed: bandages were taken
+off "the TM list" and building materials off the carpenter's (both in May 2021), and the foraging task asks for
+"a quantity of any seed, not one seed type" (January 2021).
+
+**Where they stand.** The wiki lists nine in Lotor's Summer Palace and shows them on the picture below; the
+community map marks four of those:
+
+::: pictures
+wiki TaskMasters.png | The Taskmasters in Lotor's Summer Palace | Skills
+wiki Lockbox.png | A Taskmaster's Lockbox | Skills
+wiki SkillWindow.jpg | The Skills window | Skills
+:::
+
+| Taskmaster | By the map | Next to |
+|---|---|---|
+| Alchemy | 761,682 | Doyle Trobush's Magic Shop (756,677) |
+| Brewing | 846,732 | Docale's Pub (846,728) |
+| Carpentry | 856,716 | Tom Uslak's Carpenter Shop (852,710) |
+| Farming | 862,705 | Garius' Farming Shop (860,713) |
+| Tailoring, Blacksmithing, Leatherworking, Runecrafting, Jewelcrafting | Not marked | Our guess: by the shop of their trade, as the four above are |
+
+The map marks a second set of seven (all but Runecrafting and Jewelcrafting) in Lopal on Scarab Island, around
+380,2215. The patch notes name Lopal among the towns criminals are sent to, so that set is not for a new
+character.
+
+There is **no Taskmaster for Mixing, Baking, Roasting or Fly-casting**. Cooking and fishing are raised by hand
+and by quests.
+
+**How to use them**, as far as the sources carry (the plan is our reading):
+
+- Bring the trade to 10 by hand first. That is 16,500 experience, the cheap part of any trade.
+- Stand where the trade can be worked. The four marked Taskmasters are each beside the shop that sells the
+  trade's supplies, and the palace has a bank at 840,680. With VIP you also own the stone that brings you back
+  to the palace once an hour.
+- Stock up before you ask. The box fills only with what you make after you have it, so have the materials in
+  the bank and take tasks you can finish at once.
+- Throw away what you cannot or will not make. Since larger orders pay more, a big order of something cheap is
+  the one to keep.
+- Run it during a Power Hour if you can (see below), and with a skill-raising tool in hand: by the wiki, bonus
+  levels raise the experience you are paid for making things. Whether either touches the Taskmaster's own
+  payment is not stated.
+
+### What else a subscription changes for a crafter
+
+From the Help Menu and the wiki's VIP page. Prices are under [The expansions](#the-expansions-what-each-one-opens).
+
+| Perk | What it means for a trade |
+|---|---|
+| Taskmasters | See above. The one perk that is about trades |
+| 10% more experience | "For all experience gained", shown in brackets in chat. It stacks with both kinds of Power Hour |
+| Shared bank, 4 places | One more bank window, shared by all your characters on a server except those on Valinor. Crates can go in it, so one character can gather for another. No-drop items cannot pass through it |
+| 4 more backpack places | 20 in place of 16. Materials fill bags fast |
+| Monthly grab bag | A few items from the store, different each month, from the second month on. By Dragoneer's Den the bags of 2020 and 2021 held two to four Personal Power Hours among other things |
+| Stone to Lotor's Summer Palace | Does not wear out, one use an hour. The palace has every kind of shop and the Taskmasters |
+| Automatic looting alone | Saves the clicking when you hunt ingredients. It skips no-drop items |
+| A house | Needs the Construction expansion as well. Crafted containers can stand in it |
+
+If the subscription lapses, the extra backpack places and the shared bank close; what was in them is kept but
+cannot be reached until you subscribe again.
+
+### Power Hours
+
+- A **server Power Hour** raises experience for everybody for one hour. Players start it at the altar in Teylan
+  (Talazar's Revenge) for 5 million gold or items worth 500,000 by their tooltips; the quest "Mushroom Land"
+  starts one as well, and the game masters run them at events. No source says by how much experience rises.
+- A **Personal Power Hour** is a store item: 40 tokens by the wiki, 25% more experience for you for one hour. It
+  stacks with a server Power Hour, and the subscription's 10% stacks with both.
+- No source says in so many words that either applies to trade experience. The wiki says "all experience". Our
+  reading is that they do; test it on a cheap batch before you spend an hour's materials.
+
+The practical use: gather and prepare in ordinary time, and do the making itself during the hour.
+
+### All trades in one view
+
+"Feeds on" is the gathering skill that supplies it. Attributes are from the wiki and the game's skill table.
+
+| Trade | Skills and their attribute | What it makes | Feeds on | Expansion | For a beginner |
+|---|---|---|---|---|---|
+| Blacksmithing | Iron Forging (Str), Iron Smelting (Int) | Metal weapons and armor | Mining (Str) | None | See [Trades: making gear](#trades-making-gear) |
+| Wood Working | Carpentry (Dex), Milling (Dex) | Bows, arrows and bolts, shields, crates, tools for other trades | Lumberjacking (Str) | None | See [Trades: making gear](#trades-making-gear) |
+| Leathercrafting | Leatherworking (Dex), Tanning (Int) | Leather armor, bags | Skinning (Dex) | None | See [Trades: making gear](#trades-making-gear) |
+| Tailoring | Sewing (Dex), Spinning (Dex), Weaving (Dex) | Cloth armor, bandages | Planting (cotton), shearing | None | See [Trades: making gear](#trades-making-gear) |
+| Jewelry | Jewelry Making (Dex, by the game's table) | Rings and necklaces | Mining at 60 | Talazar's Revenge | See [Trades: making gear](#trades-making-gear) |
+| Alchemy | Alchemy (Int) | Healing, cure and repair potions | Hunting, Foraging | None; some high recipes need Sands of Creation or Talazar's Revenge | Yes for a mage. Others can buy potions |
+| Cooking | Mixing (Dex), Baking (Int), Roasting (Int) | Food that adds to attributes for 30 minutes | Hunting, farming, fishing | None | Roast from the first day. Bake when you farm |
+| Brewing | Brewing (Int) | Drinks that add to attributes for 60 minutes, on top of a food | Shops; farming for sugar | None | Cheap to try, every recipe is open at once |
+| Farming | Foraging (Int), Planting (Int), Harvesting (Dex) | Seeds, crops, Bloodroot, flour, sugar, cotton | Itself | None | Take the Valinor trainer for the crate. Forage if you brew potions |
+| Fishing | Fly-casting (Dex) | Fish to roast; later oysters, pearls, lobsters | Itself | None; oysters need Talazar's Revenge, lobsters Tides of Fate | Yes, as far as the Tackle Box |
+| Runecrafting | Runecrafting (Int) | Crystals, runes, totems | Hunting and Mining for gems | Sands of Creation | Only if you own the expansion; then the first totems are cheap |
+| First Aid | First Aid | Healing with bandages | Shops, Tailoring | None | You have it anyway. It takes pool |
+| Identification | Identification | Entries in the Hunter's Handbook | Hunting | None | Do the Valinor quest, then when you feel like it |
+
+### Which trades to start, by build
+
+Our reading, from the attributes above and from what each trade gives at low skill. Nobody we read gives advice
+by build. One caution for all of it: no source says how much the attribute matters to success, only that it
+does. A warrior has 5 Intelligence, and Alchemy, Baking, Roasting, Brewing, Foraging and Planting all lean on
+it.
+
+| Build | Start with | Why |
+|---|---|---|
+| Warrior (Str, Con) | Roasting, Fishing, and one gear trade | Bear meat roasts into +5 Str and bears start at level 8. A Striped Thod is +4 Str. Fishing leans on Dexterity, not Intelligence, and gives the Tackle Box at Fly-casting 5. Brewing is worth a try later for Lotor's Pale Ale (+5 Str for an hour), since every brew is open from the first level |
+| Archer (Dex, Str) | Fishing, Mixing and Baking, Carpentry | Fly-casting, Mixing and Carpentry all lean on Dexterity. Red Fleming is +4 Dex, a Cooked Crescent +6 Dex from flour, an egg and milk. Carpentry makes your arrows (see [Trades: making gear](#trades-making-gear)) |
+| Mage (Int, Con or Dex) | Alchemy with Foraging, then Baking or Brewing | Every one of them leans on Intelligence. You already cast Nature spells, and Alchemy needs one (Enchant Flora) for its main ingredient. Bluefin is +4 Int, Banana Bread +5 Int, Teylan Ale +7 Int at the price of 3 Con |
+
+And for everybody: the Farming trainer on Valinor, for the 24-slot Storage Crate at the end.
+
+### What we could not find out about trades
+
+- What a Taskmaster pays, in any number, and whether the payment grows with your skill level.
+- Whether the "Tides of Fate expansion enabled on the server" that Taskmasters need is something your own
+  account must have.
+- Where the other five Taskmasters of Lotor's Summer Palace stand. The wiki's picture shows them; the map marks
+  four.
+- Whether a Power Hour, a Personal Power Hour and the subscription's 10% apply to trade experience and to a
+  Taskmaster's payment. The sources say "all experience" and nothing more exact.
+- By how much a server Power Hour raises experience.
+- How much the attribute changes your chance of success, and what a point of skill bonus is worth.
+- Whether bonus levels from gear let you make a recipe above your own skill level.
+- How high the cap on skill bonuses of March 2026 is.
+- How much less a failure pays than a success, and until what level "new players" keep their tools from
+  wearing.
+- Where Scrolls of Experience come from.
+- Whether the Mystic Orb of Alchemy gives 10 or 30 levels, and whether the Silver Spoon and the Scythe of
+  Ulthien give 10 or 20.
+
+## Trades: making gear
+
+Five trades turn raw material into things you wear, shoot or carry: Iron Forging, Carpentry, Leatherworking,
+Sewing and Jewelry Making. Each sits at the end of a chain of three skills: one gathers, one refines, one makes.
+
+The short advice, which is our reading of the tables below:
+
+- **No trade will dress you better than the quests do.** The crafted beginner sets give +1 to one attribute a
+  piece, while the rewards in [What to wear from level 8 to 25](#what-to-wear-from-level-8-to-25) give +1 to +3
+  to all four. What a trade gives you early is armor class, bags, ammunition, bandages and tools.
+- **Take up Leatherworking whatever you play.** The hides come off animals you kill anyway, the first bag is made
+  at skill 1, and the whole Dexterity set is made by skill 12.
+- **An archer adds Carpentry** for arrows, **a mage adds Sewing** for bandages and later for silk robes.
+- **Iron Forging is the slow one.** It is worth it for a Strength character who wants the heaviest armor at
+  level 10, and for anyone who wants to make the tools of all the other trades.
+- **Jewelry Making waits.** It needs the Talazar's Revenge expansion, and its silver is mined in that expansion's
+  lands.
+
+| Trade | Gathering, refining | Best early product | Starts to pay (our reading) |
+|---|---|---|---|
+| Iron Forging | Mining, Iron Smelting | Tools at skill 1 to 16, the steel set (level 10) at skill 15 to 30 | Character level 10 |
+| Carpentry | Lumberjacking, Milling | Arrows and bolts at skill 0, an 8-slot crate at 5 | Level 1 for an archer |
+| Leatherworking | Skinning, Tanning | An 8-slot bag at skill 1, the leather set (level 10) at 0 to 12 | Level 1 |
+| Sewing | Spinning, Weaving | Bandages at skill 0, an 8-slot bag at 3, the wool set (level 10) at 2 to 27 | Level 1 for bandages, level 10 for a mage |
+| Jewelry Making | Mining, Iron Smelting | Rings and amulets worn from level 10 | When you can get silver |
+
+Taskmasters, who hand out crafting orders for experience, stand in Lotor's Summer Palace and on Scarab Island.
+They ask for a subscription and level 10 in the trade, and are the fastest way to take a trade far: see
+[Taskmasters](#taskmasters). How skill gain works, and where the forges and vats are, is under
+[Trades: how they work](#trades-how-they-work).
+
+### Mining, Smelting and Iron Forging
+
+**Worth it?** Forging makes the iron armor with the highest armor class a level 10 character can wear, the tools
+of every other trade, and plain weapons. It suits a Strength character: Mining and Forging both use Strength and
+most pieces ask for 5 to 10 of it. It pays from character level 10, and it is the slowest trade to raise: about
+700 ingots to skill 16 by our reckoning. The game's recipe table calls the trade "Blacksmith".
+
+**How to start.** On Valinor the Blacksmith Trainer (753,112) gives a Pick Axe and the Blacksmith Guidebook (by
+AE Guides). From then on:
+
+1. Click the Pick Axe, then a mountain, a boulder or a mine wall. Keep at a spot until it says "There is nothing
+   to mine here". On Valinor the mountains are north-west of the castle. Rocks sometimes give gems as well.
+2. At a forge, click the bellows beside it to light it, then click the ore, then the forge. That smelts the ore
+   into Iron Ingots.
+3. Stand next to an anvil, click the Blacksmith Hammer, then the ingots. The menu shows what you can make.
+
+AE Guides does not say where the first Blacksmith Hammer comes from; smiths can make one at skill 5, and "Other
+Merchants sell armor, weapons, forging and carpentry tools" (Help Menu).
+
+**The fastest ladder.** The figure per ingot is nearly the same for every weapon and tool of one or two ingots
+(about 4,250, plus 42 a recipe level), and far lower for most armor: a patch of 2022 cut the chainmail pieces on
+purpose. So make the highest small weapon or tool you can, and make armor only to wear it.
+
+| Forging skill | Make | Needs | Figure per ingot | Why |
+|---|---|---|---|---|
+| 0 | Small Dagger | 1 Iron Ingot | 4,253 | The only recipe |
+| 1 to 2 | Hatchet, then Dagger (2) | 1 | 4,295, 4,337 | One ingot a try. The Skinning Knife (1) takes 3 ingots; make one for yourself |
+| 2 to 5 | Pick Axe (2), Leatherworking Tools or Light Axe (3), Saw or Great Dagger (4) | 2 | 4,274 to 4,316 | Three of these are tools you will use |
+| 5 to 9 | Blacksmith Hammer or Small Mace (5), Axe or Sword (6) | 2 | 4,337 to 4,358 | Helm (7) and Battle Helm (8) give the same per ingot with 3 and 4 a try |
+| 9 to 13 | Mace (9), Rapier or Carpenters Tools (10), Battle Axe (11), Short Stiletto (12) | 2 | 4,421 to 4,484 | |
+| 13 to 16 | Dirk or Flail | 2 | 4,506 | The last of the full-figure weapons |
+| 16 to 22 | **Scissors** | 1 | 7,600 | The best figure per ingot of any iron recipe, and tailors need them |
+| 22 to 25 | Sabre (22), or stay with Scissors | 2 | 4,148 | Whether Scissors still teach six levels on is not known |
+| 25 to 36 | Keen Hatchet (25), Keen Axe or Light Axe (26), Keen Small Dagger or Small Mace (27) | 2 Thrallenite Ingot | 4,737 | Needs Mining 30. Without thrallenite, Scissors |
+| 36 on | Fine Hatchet or Light Axe (36), Fine Axe (38), Fine Battle Axe (43), Fine Small Mace (45) | 2 Brimidian Ingot | 5,417 | Needs Mining 45 and an Obelisk |
+
+Do not level on these: Chain Coif (919 per ingot), Chainmail Gloves (1,826), any armor from skill 14 up (1,100
+to 2,200), Long Sword (3,248).
+
+By the rule above, with no failures and no bonus, this ladder takes about 410 ingots to skill 13, 680 to 16 and
+1,460 to 25. You mine and smelt the ore for them yourself, so Mining and Smelting rise alongside.
+
+**Useful gear.** For a weapon, "needs" is the level of its own weapon skill; for armor, your character's level.
+Delay is the weapon's speed figure in the game's table; lower is faster.
+
+| Item | Forging | Ingots | Needs | Stats | Good for |
+|---|---|---|---|---|---|
+| Chain Coif | 2 | 3 | Str 8 | Armor 8 | A first helmet |
+| Chainmail Gloves | 10 | 4 | none | Armor 12 | Hands, where the quests give little before 15 |
+| Shield | 12 | 5 | Str 5 | Armor 15 | A first shield |
+| Steel Battle Helm | 15 | 4 | Level 10, Str 7 | +1 Str, armor 14 | The steel set |
+| Chainmail Leggings | 16 | 4 | none | Armor 16 | Same armor as Shadow Leggings, without the +2 to all |
+| Steel Belt | 17 | 3 | Level 10, Str 7 | +1 Str, armor 5 | The steel set |
+| Chainmail | 18 | 5 | none | Armor 20 | Chest, against Triddle Shell Armor's 12 |
+| War Axe | 19 | 2 | no skill | 9-44, delay 3 | The hardest hit a new warrior can swing; Sword of the Island Guard is 7-18, delay 1.8 |
+| Steel Shield | 19 | 7 | Level 8, Str 10 | Armor 23 | |
+| Giant Axe | 20 | 3 | Axes 23 | 19-41, delay 2.5 | |
+| Steel Bow | 20 | 2 | Bows 40 | 11-27, delay 1.25 | An archer's bow for later, made of iron |
+| Platemail | 22 | 6 | Str 5 | Armor 25 | |
+| Steel Boots | 22 | 6 | Level 10, Str 7 | +1 Str, armor 4 | The steel set |
+| Rugged Plate | 23 | 6 | Level 10 | Armor 28 | Chest; Worn Guard Halfplate (level 15) has 22 with +2 Str +2 Dex |
+| Steel Gauntlets | 23 | 6 | Level 10, Str 7 | +1 Str, armor 16 | The steel set |
+| Broadsword | 24 | 2 | Large Blades 20 | 12-27, delay 1.75 | |
+| Steel Plate Leggings | 27 | 8 | Level 10, Str 7 | +1 Str, armor 25 | The steel set |
+| Steel Platemail | 30 | 10 | Level 10, Str 7 | +1 Str, armor 29 | The steel set |
+| Double Axe | 37 | 5 | Axes 30 | 33-50, delay 2.5 | |
+| Greatsword | 38 | 5 | Large Blades 19 | 21-37, delay 2.5 | |
+
+The steel set is the forged one of the three "craftable sets for low level players (10+)" that a patch of 2020
+added: six pieces, +6 Strength and 93 armor together, 37 ingots, Forging 30 for the last. Against the Orcish
+Warrior set of level 20 (Plate +4 Str +3 Con with armor 30) it gives the same armor ten levels earlier and much
+less Strength. Our reading: forge the cheap pieces (helm, belt) on the way up, and do not chase skill 30 for the
+plate.
+
+Beyond level 50 of the skill: the Thrallen set (Forging 38 to 50, enchanted thrallenite, worn from level 15, up
+to +3 Str +2 Con a piece; Talazar's Revenge), the Superior chain and plate pieces (40 to 70, level 20 and
+Strength 25, armor only), the Nightfall set (72 to 87) and ship's cannon. Forging makes no container.
+
+**Tools a smith makes for the other trades**: Skinning Knife (1), Pick Axe (2), Leatherworking Tools (3), Saw
+(4), Blacksmith Hammer (5), Carpenters Tools (10), Scissors (16), Heavy Mining Pick (35).
+
+**Quests that feed it**
+
+| Quest | Where | What | Gives |
+|---|---|---|---|
+| Blacksmith Training | The Blacksmith Trainer, Valinor (753,112) | Bring 10 Iron Ore, 10 Iron Ingots, a Small Dagger, a Light Axe (Forging 3), a Small Mace (5), then kill the Hobgoblin Blacksmith in the goblins' lair at Lanore | Pick Axe and guidebook at the start; 330, 660, 990, 1,320 and 2,887 experience pool for the first five steps (by AE Guides); the last reward is not recorded |
+| Gem Thieves | The Dalvon Miner, Fort Eastwatch | See [Gem Thieves](#gem-thieves); the last step is Master Blaster (level 40) | **Dalvon Miner's Ring**: +5 Forging, +5 Smelting, +5 Mining, worn from level 14 |
+| The Ways of Mining | Russell, in the Flataga Mines (390,1317) | Mine the rock at 211,1256 in Ettin Valley, among level 54 Ettins | 4,125 and then 61,000 Mining experience and a Fortified Mining Pick (by the wiki). By the client's table that is Mining 15 from nothing |
+
+Gear that helps and is within reach early: the Kobold Miner's Belt (+4 Str +4 Dex +5 Mining, level 15), which
+Kobold Miners and Foremen drop by Dragoneer's Den, so you may get one during Gem Thieves; and the Miners Helm
+(+5 Str +5 Int +10 Mining, level 15).
+
+### Lumberjacking, Milling and Carpentry
+
+**Worth it?** For an archer, yes, from the first day: arrows and bolts are the first recipe, and bows, crossbows,
+staves and polearms follow. For everybody else it is the trade of boxes: an 8-slot crate at skill 5 and the
+24-slot Storage Crate at 35. It costs nothing but time, since any tree gives logs.
+
+**How to start.** The Carpentry Trainer on Valinor (753,116) gives a Lumberjack Axe, a Saw, Carpenter's Tools and
+the guidebook (by AE Guides).
+
+1. Click the Lumberjack Axe, then a tree, until "There is nothing to chop here". Dead trees sometimes give
+   kindling.
+2. Click the Carpenter's Tools, then the logs: the first recipes are made of logs.
+3. For everything from skill 5 on, mill planks first: click the Saw, then the logs.
+
+**The fastest ladder**
+
+| Carpentry skill | Make | Needs | Figure per piece | Why |
+|---|---|---|---|---|
+| 0 to 5 | Torch | 1 Log | 5,255 | Four times what Arrows give per log (3 logs, 4,158). Make arrows when you need arrows |
+| 5 to 10 | Small Crate | 1 Plank | 6,275 | An 8-slot box each time; the first plank recipe |
+| 10 to 14 | Music Box (10) | 1 Plank | 6,275 | Same figure, also 8 slots |
+| 14 to 25 | Farm Scythe (14) | 1 Plank | 6,875 | The best plain-plank figure. Footchest (19) gives 6,275 and is a 12-slot box |
+| 25 to 33 | Keen Club or Heavy Foraging Stick (25), Alchemist's Mortar (27) | 2 Fine Wood Plank | 4,156 to 4,456 | Needs Lumberjacking 30. With plain planks, stay on the Farm Scythe |
+| 33 on | Fine Club (33) | 2 Heartwood Plank | 4,940 | Lumberjacking 45 and an Obelisk |
+| 50 | Lobster Trap | 2 Fine Wood Plank | 5,500 | Tides of Fate |
+
+Do not level on weapons that eat planks: a Giant Club gives 881 per plank, a Spear 990, a Heavy Crossbow 866.
+If the Iron Forging rule holds here, the ladder takes about 1,400 logs and planks to skill 25.
+
+**Useful gear**
+
+| Item | Carpentry | Needs to make | Needs to use | Stats | Good for |
+|---|---|---|---|---|---|
+| Arrows, Bolts | 0 | 3 Logs | none | Damage +1 | Every archer. A patch of 2021 tripled the number made per try |
+| Short Bow | 11 | 2 Planks | no skill | 4-14, delay 1.75 | Weaker than the Island Archers Bow (5-15, delay 1.5) |
+| Battle Staff | 12 | 3 Planks | no skill | 2-14, delay 1.5 | A first polearm |
+| Elfin Arrows | 14 | 3 Enchanted Wood Planks | none | Damage 5, +20 Archery | The planks must be enchanted with the Enchant Wood spell |
+| Aspirants Staff | 17 | 6 Enchanted Wood Planks | Mage Weapons 10, Int 15 | +3 Int | A mage's first crafted staff |
+| Wooden Bow | 18 | 3 Planks | Bows 5 | 2-17, delay 1 | The fastest early bow |
+| Light Crossbow | 19 | 4 Planks | no skill | 4-11, delay 1.5 | |
+| Fancy Bow | 20 | 5 Planks | Bows 15 | 7-22, delay 1.45 | The bow for Bows 15 to 25 |
+| Oak Bow | 21 | 7 Planks | Bows 25 | 8-33, delay 1.75 | |
+| Broadhead Arrows | 21 | 3 Enchanted Wood Planks | none | Damage 5, extra blunt damage | |
+| Prestidigitators Wand | 22 | 10 Enchanted Wood Planks | Mage Weapons 15, Int 15 | +1 Int, +25 health | |
+| Pole Axe | 22 | 8 Planks | Axes 16 | 15-36, delay 2.5 | |
+| Crossbow | 23 | 7 Planks | Crossbows 10 | 7-26, delay 1.85 | |
+| Brown Shield | 23 | 4 Planks | none | Armor 15 | The same armor as the iron Shield |
+| Glaive | 24 | 10 Planks | Polearms 11 | 15-34, delay 3 | Island Guard Lance is 7-20, delay 1.95 |
+| Heavy Crossbow | 25 | 12 Planks | Crossbows 25 | 12-47, delay 2.5 | |
+| Keen Wooden Bow | 26 | 3 Fine Wood Planks | Bows 22 | 7-25, delay 1.7 | |
+| Piercing Arrows | 26 | 3 Enchanted Wood Planks | none | Damage 6, extra pierce damage | |
+| Conjurering Staff | 33 | 10 Enchanted Fine Wood | Mage Weapons 17, Int 25 | +2 Int +2 Con | |
+| Lance | 41 | 12 Planks | Polearms 15 | 19-40, delay 3 | |
+
+Tools it makes for others: Foraging Stick (1), Mixing Bowl (2), Mixing Spoon (4), Lumberjack Axe (7), Shovel
+(10), Empty Bucket (11), Farm Scythe (14), Alchemist's Mortar (27). Beyond skill 50 come the Heartwood and
+Greater Heartwood weapons, boat repair kits (45, 70, 90) and the mage staves up to the High Priests Staff (70).
+
+**Containers.** What each holds and the weight it takes off are AE Database's; slots and skill are the game's.
+
+| Container | Carpentry | Needs | Slots | Holds |
+|---|---|---|---|---|
+| Small Crate | 5 | 1 Plank | 8 | Anything |
+| Music Box | 10 | 1 Plank | 8 | Anything |
+| Footchest | 19 | 1 Plank | 12 | Anything |
+| Chest | 24 | 2 Planks | 16 | Anything |
+| Tool Chest | 26 | 6 Planks | 16 | Anything |
+| Storage Crate | 35 | 8 Fine Wood Planks | 24 | Anything |
+| Jewelry Case | 40 | 6 Enchanted Heartwood | 24 | Jewelry |
+| Scroll Case | 43 | 8 Enchanted Heartwood | 24 | Scrolls |
+| Weapons Cabinet | 45 | 14 Planks | 64 | Melee weapons |
+| Missile Weapons Cabinet | 47 | 14 Planks | 64 | Ranged weapons (Talazar's Revenge) |
+| Wooden Trunk | 60 | 8 Enchanted Heartwood | 16 | Anything |
+| Alchemy Chest | 64 | 6 Enchanted Heartwood | 64 | Alchemy items, half weight (Talazar's Revenge) |
+| Scholar's Trunk | 69 | 15 Enchanted Greater Heartwood | 48 | Scrolls |
+| Glowing Storage Crate | 70 | 3 Greater Heartwood Planks | 32 | Anything, a quarter of the weight |
+| Glowing Jewelry Case | 70 | 1 Enchanted Greater Heartwood | 64 | Jewelry |
+| Treasure Hunter's Chest | 75 | 75 Enchanted Greater Heartwood | 64 | Scrolls and maps |
+| Feather Box | 82 | 10 Fine Wood Planks | 12 | Anything, a quarter of the weight |
+| Armor Cabinet | 86 | 9 Enchanted Greater Heartwood | 64 | Armor (Talazar's Revenge) |
+| Head Case | 90 | 10 Greater Heartwood Planks | 128 | Player heads |
+| All Weapons Cabinet | 92 | 10 Enchanted Greater Heartwood | 64 | All weapons (Talazar's Revenge) |
+| Cannon Ball, Sail and Cannon Chests | 97, 98, 99 | 10, 15, 20 Heartwood Planks | 16 each | Ship's gear, half weight (Tides of Fate) |
+
+The early ones are cheap: an 8-slot crate for one plank at skill 5, a 16-slot Chest for two at 24. The Storage
+Crate that Valinor's Farming trainer gives away is a skill 35 recipe of Fine Wood. Carpentry makes no quiver.
+
+**Quests that feed it**
+
+| Quest | Where | What | Gives |
+|---|---|---|---|
+| Carpenter Training | The Carpentry Trainer, Valinor (753,116) | Bring 10 Logs, 10 Planks, 20 Arrows, a Mixing Bowl (Carpentry 2), a Mixing Spoon (4), then kill the Goblin Carpenter at Lanore | All four tools at the start; the same pool rewards as the smith's; the last reward is not recorded |
+| Mukk The Lumberjack | Mukk, east of the spawn gate west of Vrethpool | Carry firewood to his wife Renn inside the south wall of Hothbra, and lunch back. No fight; the road passes New Korelith | About 36,000 and 33,000 experience and 33,000 Lumberjacking experience (by the wiki): Lumberjacking 12 from nothing |
+| Fellow Archer | Klaresh, Lotor's Castle (258,1151) | Asks for 12 Planks, which you can now mill yourself | Archery experience; see [Other skill quests on Krythan](#other-skill-quests-on-krythan) |
+
+### Skinning, Tanning and Leatherworking
+
+**Worth it?** Yes, for everyone, from level 1. Hides come from the animals you hunt anyway, the first bag is
+made at skill 1, and the leather set for level 10 is finished at skill 12 with 12 pieces of leather. It suits a
+Dexterity character best, since both Skinning and Leatherworking use Dexterity and the sets ask for it. The
+recipe table calls the trade "Leathercrafting".
+
+**How to start.** The Leatherworking Trainer on Valinor (753,108) gives a Skinning Knife, Leatherworking Tools
+and the guidebook (by AE Guides).
+
+1. Kill an animal, open the corpse with Space, click the Skinning Knife, then the carcass. The in-game guidebook
+   names cows, bulls, rabbits, snakes, wargs, bears, wolves, deer, sheep and rams. On Valinor, AE Guides names
+   the Dredge Spider, Snake, Grass Viper and Deer.
+2. At a tanning vat, click the hide, then the vat: that tans it into Leather. A Potion of Tanning does the same
+   away from a vat, for less experience (patch notes of 2021).
+3. Stand at a leatherworking bench, click the tools, then the leather.
+
+Each of the three towns has a farm with Sheep (level 2), Cows (4 or 5) and Rams (8) close by, in the game's own
+table of what roams where: north of Krog around 3064,3708, south-west of Silvest around 1024,1440, and west of
+Whisperdale around 321,3422. Deer (3) and Snakes (2) are all around every town.
+
+**The fastest ladder**
+
+| Leatherworking skill | Make | Needs | Figure per leather | Why |
+|---|---|---|---|---|
+| 0 | Leather Cap, the one worn from level 10 | 1 Leather | 4,792 | The best figure of any plain-leather recipe, and the first set piece. The seven colored caps (skill 1) take 2 leather for the same figure |
+| 1 to 3 | Leather Bag | 1 Leather | 4,192 | An 8-slot bag each time |
+| 3 to 10 | Leather Gloves of the set (3), or keep making caps and bags | 1 Leather | 3,592 | Nothing between 3 and 10 beats the cap per leather: Leather Sling 2,157, Leather Leggings 2,457, Leather Belt 2,175 |
+| 10 to 16 | Padded Cap (10), Leather Armor of the set (12) | 2 Leather | 2,757 | |
+| 16 to 21 | Hardened Leather Helm | 3 Leather | 2,423 | |
+| 21 to 22 | Padded Armor, the plain one | 4 Leather | 2,385 | |
+| 22 to 27 | Bag of Dimension | 1 Quality Leather | 7,697 | Needs Skinning 30. An 8-slot bag that takes off 54% of the weight |
+| 27 to 50 | Rough Scroll (27) | 1 Quality Leather | 7,055 | |
+| 50 on | Vellum | 1 Superior Leather | 11,330 | Skinning 45 and an Obelisk |
+
+If a recipe far below your skill still teaches in full, which nobody has tested, the Leather Cap stays the best
+use of plain leather all the way to 22: about 1,370 leather by the Iron Forging rule. Do not level on the Small
+Belt (840 per leather) or on anything of Zombie Skin (60 to 130 per skin).
+
+**Useful gear**
+
+| Item | Leatherworking | Needs to make | Needs to wear | Stats | Good for |
+|---|---|---|---|---|---|
+| Leather Cap | 0 | 1 Leather | Level 10, Dex 7 | +1 Dex, armor 10 | The leather set |
+| Leather Gloves | 3 | 1 Leather | Level 10, Dex 7 | +1 Dex, armor 13 | The leather set |
+| Leather Sling | 4 | 2 Leather | no skill | 4-9, delay 1.25 | A thrown weapon; a smith makes Pebbles for it at Forging 1 |
+| Leather Leggings | 6 | 2 Leather | Level 10, Dex 7 | +1 Dex, armor 16 | The leather set |
+| Leather Belt | 8 | 2 Leather | Level 10, Dex 7 | +1 Dex, armor 5 | The leather set |
+| Leather Shoes | 11 | 4 Leather | Level 10, Dex 7 | +1 Dex, armor 4 | The leather set |
+| Leather Armor | 12 | 2 Leather | Level 10, Dex 7 | +1 Dex, armor 22 | The leather set |
+| Cestus | 15 | 4 Leather | none | +10 Unarmed, armor 9 | Fist fighters |
+| Belt of the Undying | 15 | 10 Zombie Skin | Level 25, Dex 30 | +1 Int +2 Dex +1 Con, +1 Leatherworking, armor 7 | The Undying set |
+| Gloves of the Undying | 15 | 15 Zombie Skin | Level 25, Dex 30 | +3 Int +3 Dex, +1 Tanning, armor 10 | The Undying set |
+| Helm of the Undying | 15 | 25 Zombie Skin | Level 25, Dex 30 | +3 Int +3 Dex, +2 Leatherworking, armor 12 | The Undying set |
+| Boots of the Undying | 15 | 25 Zombie Skin | Level 25, Dex 30 | +2 Int +2 Dex +2 Con, +1 Tanning, armor 7 | The Undying set |
+| Cloak of the Undying | 15 | 30 Zombie Skin | Level 25, Dex 30 | +4 Dex +2 Con, +1 Leatherworking, +1 Tanning, armor 7 | The Undying set |
+| Legs of the Undying | 15 | 30 Zombie Skin | Level 25, Dex 30 | +3 Int +3 Dex +2 Con, +2 Tanning, armor 13 | The Undying set |
+| Hardened Ribcage | 15 | 30 Zombie Skin | Level 25, Dex 30 | +2 Int +4 Dex +2 Con, +1 Leatherworking, armor 15 | The Undying set |
+| Staff Sling | 18 | 4 Leather | Thrown Weapons 3 | 6-18, delay 1.75 | |
+| Good Leather Sling | 26 | 2 Quality Leather | Thrown Weapons 10 | 10-23, delay 1.2 | |
+
+Two sets stand out.
+
+**The leather set** is the second of the craftable level 10 sets: six pieces, +6 Dexterity and 70 armor
+together, for 12 leather and skill 12. A new archer can wear all of it the day he reaches level 10, where the
+quests give one piece at a time: the Hard Leather Cap of Krog (+2 Str +1 Dex +2 Con, armor 15) is better than
+its cap, the Shadow pieces (+1 or +2 to all) better than its gloves and leggings. Wear the leather set until
+those come in.
+
+**The Undying set** is new: a patch of 10 January 2026 added Zombie Skin as "a low level crafting material to
+leatherworking. No tanning required". All seven pieces are skill 15 recipes and give +21 Dexterity, +14
+Intelligence and +9 Constitution together, for 165 skins, worn from level 25 with 30 Dexterity. That is more
+Dexterity than the Night Elf Archer set of level 20 gives (+16). Zombie Skin drops from Rancid Zombies (level 7)
+and Zombies (13) by AE Database; Rancid Zombies roam north of Silvest around 1127,1198 and east of Whisperdale
+around 648,3331, in the game's table of what roams where. Our reading: for an archer or a Dexterity mage this
+is the best thing a beginner's trade makes. No player source describes it yet, so see the last section.
+
+The plain pieces (Sandals, Padded, Gladiator, Studded and Hardened armor, skill 2 to 41) carry no bonus and less
+armor than the set; skip them. Beyond: the "Superior" pieces of Quality leather (skill 24 to 45, armor only), the
+Enchanted Quality Leather set (61 to 74, level 45, Str 20, Dex 40), Wyvern Leather (65 to 85, level 70) and the
+dragon sets at 100.
+
+**Containers**
+
+| Container | Leatherworking | Needs | Slots | Holds |
+|---|---|---|---|---|
+| Leather Bag | 1 | 1 Leather | 8 | Anything |
+| Ore Pouch | 5 | 3 Leather | 8 | Ore, a quarter off the weight |
+| Leather Purse | 14 | 4 Leather | 12 | Anything |
+| Bag of Dimension | 22 | 1 Quality Leather | 8 | Anything, 54% off the weight |
+| Potion Bag | 62 | 6 Superior Leather | 24 | Potions, 15% off (Talazar's Revenge) |
+| Large Mining Pack | 68 | 6 Flawless Leather | 16 | Blacksmith items, 20% off (Talazar's Revenge) |
+| Wyvern Leather Satchel | 100 | 25 Immaculate Wyvern Leather | 16 | Anything, 90% off |
+| Wyvern Leather Quiver | 100 | 20 Immaculate Wyvern Leather | 24 | Arrows, 99% off |
+| Adventurer's Pack | 100 | 40 Immaculate Wyvern Leather | 48 | Anything, 99% off |
+
+The only quiver any trade makes is the Wyvern Leather Quiver at skill 100. A miner should make an Ore Pouch.
+
+**Quests that feed it**
+
+| Quest | Where | What | Gives |
+|---|---|---|---|
+| Leatherworking Training | The Leatherworking Trainer, Valinor (753,108) | Bring 10 Skinned Hides, 10 Leather, a Leather Cap, a Sling (Leatherworking 4), Leather Leggings (6), then kill the Goblin Leatherworker at Lanore | Knife, tools and guidebook at the start; the same pool rewards; the last reward is not recorded |
+| Zebra Hide Gear | Patrick Darby, Newtown (Tides of Fate) | 50 Panthers, then 30, 50 and 150 Zebra hides at Skinning 45, 55 and 65 | Zebra Hide Leggings, Cape and Armor (by the wiki) |
+
+### Sewing
+
+**Worth it?** For bandages, from the first day: one piece of Cloth makes ten of them at skill 0 (patch notes of
+2021), and since 2026 your First Aid bonus counts when you heal with them. Beyond that it is the mage's trade:
+the wool set gives Intelligence at level 10, and the silk robes are as good as a mage's quest robe. The chain is
+the longest of all (grow or find the fibre, spin, weave, sew), which is why we would not start it before the
+others. The recipe table calls it "Tailoring".
+
+**Where the cloth comes from**
+
+| Fibre | From | Spun into | Woven into |
+|---|---|---|---|
+| Cotton | Grown from Cotton Seed, which farm shops sell since 2022; or buy String from the provisioner Whiliam Rosen on Valinor (by AE Guides) | String | Cloth |
+| Wool | Sheep (by Dragoneer's Den). The item table has Shears; Valinor's Tailoring Trainer explains it if you speak to her again (patch notes of 2024) | Woolen Yarn | Woolen Fabric |
+| Raw Silk | Dropped by spiders, by AE Database: Dredge Spider (level 1), Spider (3), Cave Spider (8), Black Widow Hatchling (9). Spiders roam Valinor and the country around Krog and Silvest, Black Widow Hatchlings the woods around Whisperdale | Silk Thread | Silk Cloth |
+| Malacinth Flax | A plant grown from seed found with Foraging 25 and planted with Planting 30 (by Dragoneer's Den) | Malacinth Twine | Malacinth Fabric |
+| Hemp | Seeds drop rarely from sea chests (patch notes of 2025) | | Hemp Cloth |
+
+String and Cloth also drop ready-made from slimes, by AE Database: Slimy Ooze (4), Filthy Sludge (7) and Viscous
+Mold (12) drop both, Green Slime (6) Cloth. Slimy Oozes are all around Whisperdale, and three of these four are
+the creatures of "Oozing on the Job".
+
+**How to start.** Spin the fibre at a spinning wheel, weave the thread at a loom, then click Scissors and the
+cloth. Provisioners sell Scissors (Help Menu), a smith forges them at skill 16, and the Tailoring Trainer on
+Valinor (736,108) hands a pair out during her quest (by AE Guides). Spinning and Weaving are skills of their own
+and rise as you go.
+
+**The fastest ladder**
+
+| Sewing skill | Make | Needs | Figure per cloth | Why |
+|---|---|---|---|---|
+| 0 to 3 | Silk Cap if you have silk; Bandage if you have cotton | 1 Silk Cloth; 1 Cloth | 4,283; 2,483 | Bandages are worth having whatever they teach |
+| 1 to 3 | Cloth Gloves | 1 Cloth | 3,283 | The better cotton recipe |
+| 3 to 4 | Cloth Bag | 1 Cloth | 4,230 | An 8-slot bag each time |
+| 4 to 9 | Silk Bandage | 1 Silk Cloth | 4,550 | |
+| 9 to 12 | Woolen Gloves | 1 Woolen Fabric | 4,539 | A set piece |
+| 12 to 25 | Woolen Slippers | 1 Woolen Fabric | 4,935 | A set piece. Nothing of two or more cloths comes near: Silk Pants (17) 3,376, Silk Tunic (23) 2,331 |
+| 25 on | Superior Cloth Cap (25), Superior Cloth Gloves (34) | 2 Malacinth Fabric | 3,616, 3,839 | |
+
+A patch of 2022 reworked the early cotton, silk and wool recipes ("xp/difficulty at early levels"), and the
+figures above are the table's after that.
+
+**Useful gear**
+
+| Item | Sewing | Needs to make | Needs to wear | Stats | Good for |
+|---|---|---|---|---|---|
+| Bandage | 0 | 1 Cloth, makes 10 | none | Heals | Everyone |
+| Woolen Cap | 2 | 1 Woolen Fabric | Level 10, Int 7 | +1 Int, armor 9 | The wool set |
+| Silk Bandage | 4 | 1 Silk Cloth, makes 10 | none | Heals | |
+| Woolen Gloves | 9 | 1 Woolen Fabric | Level 10, Int 7 | +1 Int, armor 7 | The wool set |
+| Woolen Sash | 11 | 2 Woolen Fabric | Level 10, Int 7 | +1 Int, +3 Nature, armor 5 | The wool set |
+| Woolen Slippers | 12 | 1 Woolen Fabric | Level 10, Int 7 | +1 Int, armor 4 | The wool set |
+| Silk Gloves | 13 | 2 Silk Cloth | none | +2 Int +1 Con, armor 8 | A mage's hands from level 1 |
+| Woolen Cloak | 15 | 3 Woolen Fabric | Level 10, Int 7 | +1 Int, armor 3 | The wool set |
+| Woolen Pants | 15 | 2 Woolen Fabric | Level 10, Int 7 | +1 Int, armor 10 | The wool set |
+| Silk Sash | 16 | 2 Silk Cloth | none | +1 Int, armor 6 | |
+| Silk Pants | 17 | 2 Silk Cloth | Level 15 | +1 Str +1 Int, armor 8 | |
+| Long Cape | 18 | 2 Silk Cloth | Level 10, Str 7 | +1 Str, armor 3 | A cloak for the steel set |
+| Silk Tunic | 23 | 3 Silk Cloth | Level 15 | +1 Str +2 Int +1 Con, armor 11 | |
+| Yellow Silk Robe | 23 | 15 Silk Cloth | Level 10 | +4 Int, armor 13 | |
+| Woolen Robe | 27 | 4 Woolen Fabric | Level 10, Int 7 | +1 Int, armor 15 | The wool set |
+| Silk Dress | 29 | 3 Silk Cloth | Level 25 | +2 Str +2 Int +1 Con, armor 15 | |
+| **Silken Robe** | 31 | 4 Silk Cloth | none | +2 Str +5 Int +2 Con, armor 23 | See below |
+| Long Silk Cape | 33 | 8 Silk Cloth | Level 25 | +4 Int +1 Con, armor 11 | |
+| Mystic Gloves | 39 | 6 Malacinth Fabric | Level 16, Int 25 | +2 Int, armor 14 | |
+| Mystic Robe | 43 | 8 Malacinth Fabric | Level 24 | +10 Int, armor 20 | A mage's chest after the Clockwork Robe |
+| Enchanted Mage's Cape | 48 | 12 Imbued Malacinth | Level 13 | +5 Int, armor 8 | |
+
+The wool set is the third craftable level 10 set: seven pieces, +7 Intelligence, +3 Nature and 53 armor, 14
+pieces of fabric, Sewing 27 for the robe and 15 for the rest.
+
+The Silken Robe has no requirement at all in the game's table, so a level 1 mage can wear it, and it matches the
+Clockwork Robe of level 20 (+3 Con +6 Int, armor 20). It needs Sewing 31, though. Our reading: a mage who sews
+should aim at Silk Gloves (13) early and the Silken Robe later; one who does not should ask a tailor for the
+robe.
+
+Beyond skill 50: the Shadoweave set (47 to 60, level 30 to 50, Int 50 to 100, up to +16 Int on the robe;
+Talazar's Revenge), Shimmering Silk and Verdant Soluri (58 to 92), Moonsilk (81 to 96, level 95), sails.
+
+**Containers**
+
+| Container | Sewing | Needs | Slots | Holds |
+|---|---|---|---|---|
+| Cloth Bag | 3 | 1 Cloth | 8 | Anything |
+| Seed Bag | 15 | 2 Woolen Fabric | 28 | Seeds |
+| Laundry Bag | 38 | 5 Malacinth Fabric | 24 | Cloth items |
+| Cloth Sack | 42 | 10 Silk Cloth | 16 | Anything |
+| Gem Bag | 64 | 3 Malacinth Fabric | 16 | Gems |
+| Rune Bag | 69 | 15 Imbued Malacinth | 24 | Runes, a quarter of the weight |
+| Bag of Many Things | 70 | 6 Malacinth Fabric | 32 | Anything |
+| Large Sack | 73 | 12 Silk Cloth | 8 | Anything |
+| Hemp Sack | 100 | 20 Hemp Cloth | 72 | Anything (Tides of Fate) |
+
+Dragoneer's Den, written in 2005, has these at much lower skills (Cloth Sack 3, Large Sack 6, Gem Bag 10, Bag of
+Many Things 33). The game's table is used here.
+
+**Quests that feed it**
+
+| Quest | Where | What | Gives |
+|---|---|---|---|
+| Tailor Training | The Tailoring Trainer, Valinor (736,108) | By the game's quest table: 10 Raw Silk, 20 String spun from cotton, 10 Woolen Fabric, 20 Bandages, a Short Cloak (Sewing 4), a Cloth Dress (7) for Lord Trembley's daughter. No fight | Scissors on the way; the last reward is not recorded |
+| Oozing on the Job | Azulum the Tanner, Whisperdale (394,3479) | 15 Slimy Oozes, 20 Green Slimes, 25 Large Slimes, 30 Viscous Molds | Reward unknown, but the slimes drop String and Cloth on the way |
+
+AE Guides describes an older Tailor Training made of silk only; it was redone in 2022 and fixed in 2025.
+
+### Jewelry Making
+
+**Worth it?** Its rings and amulets are the best crafted gear for a low character: +1 to an attribute from level
+10, +2 or +3 with health from 15, +4 from 20. But the trade needs the Talazar's Revenge expansion, and silver ore
+comes from moss-covered rocks in that expansion's lands (by Dragoneer's Den), the snow lands north of Valmond
+that this guide gives as level 100 country. A beginner cannot gather for it. Take it up when you have the
+expansion and a way to get Silver Ingots; until then, ask a player who makes jewelry.
+
+**How to start.** Jewelers Tools (value 1,000 gold in the item table), and ingots smelted at an ordinary forge
+with Iron Smelting. Silver Ore needs no Mining level, Gold Ore needs 45 and Dark Ore 70 (by Dragoneer's Den's
+jewelry page; its shop page says 60 for all three). No bench is named by any source.
+
+**The fastest ladder.** There is none to choose: every recipe carries 2,000 per Silver Ingot, 2,500 per Gold
+Ingot and 3,000 per Dark Ingot, whatever it makes (one recipe, the Band of the Imp, has 1,900). Make what you or
+a buyer will wear. By these figures a silver ingot teaches less than half of what an iron ingot teaches a smith.
+
+**Useful gear**
+
+| Item | Jewelry Making | Ingots | Needs to wear | Stats |
+|---|---|---|---|---|
+| Ring of Lesser Health, Wisdom, Dexterity, Strength | 4, 5, 7, 9 | 2 Silver | Level 10 | +1 Con, Int, Dex or Str |
+| Amulet of Lesser Health, Wisdom, Dexterity, Strength | 6, 8, 10, 11 | 3 Silver | Level 10 | +1 Con, Int, Dex or Str |
+| Ring of Vigor | 12 | 3 Silver | Level 15, Con 6 | +2 Con, +5 health |
+| Ring of Focus | 14 | 3 Silver | Level 15, Int 6 | +2 Int, +5 health |
+| Amulet of Vigor | 15 | 4 Silver | Level 15, Con 6 | +2 Con, +15 health |
+| Ring of Balance | 16 | 3 Silver | Level 15 | +1 Int +1 Dex, +10 health |
+| Choker of Focus | 17 | 4 Silver | Level 15, Int 10 | +3 Int, +15 health |
+| Silver Torc of Arms | 18 | 5 Silver | Level 20, Str 6 | +2 Str, +1 to all melee skills |
+| Ring of Brawn | 19 | 4 Silver | Level 15, Str 10 | +3 Str, +10 health |
+| Amulet of the Archer | 20 | 6 Silver | Level 20, Dex 10 | +3 Dex, +2 Archery |
+| Amulet of Balance | 21 | 5 Silver | Level 20, Str 6, Dex 6 | +2 Str +2 Dex, +10 health |
+| Amulet of Brawn | 22 | 5 Silver | Level 20, Str 13 | +4 Str, +15 health |
+| Enchanted Ruby Ring | 23 | 5 Silver | Level 20, Str 10 | +3 Str +1 Int, +10 health |
+| Aura Amulet | 24 | 7 Silver | Level 20, Int 13 | +4 Int, +10 health |
+| Glowing Pendant | 26 | 7 Silver | Level 22 | +1 to all four, +20 health |
+| Golden Rings of Stamina, Intuition, Finesse, Valor | 25 to 32 | 2 Gold | Level 25, 10 to 13 of the attribute | +3 or +4 to one, +15 health |
+| Necklaces of Stamina, Intuition, Finesse, Valor | 29 to 36 | 3 Gold | Level 25, 11 to 20 of the attribute | +4 to +6 to one, +20 health |
+| Dark Iron Collar | 33 | 1 Dark | Level 30, Str 6, Int 6 | +2 Str +2 Int +1 Dex +1 Con, +30 health |
+| Auric Rings and Chokers | 37 to 45 | 4 or 5 Gold | Level 30 (one at 25), 14 to 20 of the attribute | +5 or +6 to one, +15 or +20 health |
+| Bands and Pendants of the Minotaur, Arcane, Imp, Strength | 48 to 62 | 6 or 8 Gold | Level 35 or 40, 21 to 25 of the attribute | +7 or +8 to one, +20 or +25 health |
+
+Against the quest rewards: the Ring of Sozal gives +1 to all four and 10 health, the Warg Eye Amulet +2 to all
+at level 20. A Ring of Brawn or a Choker of Focus gives more of your one main attribute five levels earlier.
+Beyond 50 come the Dark rings and torcs (63 to 79, level 42 to 50) and the Shadowed pieces (80 to 92). Jewelry
+Making makes no container; the Jewelry Case is a carpenter's.
+
+**Quests that feed it.** None found.
+
+### Salvage
+
+Salvage takes a made or found item apart and gives back up to half of its material (by Dragoneer's Den). There
+are five skills, one per trade: Metal, Leather, Wood, Cloth and Jewelry Salvage, each with its own Salvage Tools
+(value 250 gold; 1,250 for jewelry). All of it belongs to Talazar's Revenge. Since 2025 the result counts your
+tools, gear and attributes, and since 25 January 2026 Valinor's provisioner sells Cloth Salvage Tools. For a
+beginner with the expansion it is a way to turn the weapons you forged for skill back into ingots; without the
+expansion, sell them.
+
+### Construction
+
+Building a house needs the Construction expansion (which needs Sands of Creation) and VIP to keep it. Houses
+stand on a housing map of their own since March 2024, reached by portals outside Krog, Josody and Parian and in
+Lotor's Summer Palace. It is no beginner's business, but it is what the gathering skills are for later: by
+Dragoneer's Den a foundation asks for 10,000 gold, 500 Iron Ore and 500 Logs, and every house for stacks of
+ten fabricated materials. The first of each kind are within a beginner's skill: Wood Joists (Carpentry 10, 50
+Logs), Cinder Block (Forging 10, 50 Iron Ingots), Wooden Truss (Carpentry 25, 30 Planks).
+
+### What we could not find out about gear trades
+
+- **Any tested advice on leveling a trade.** Every ladder above is our reading of the recipe table's figure,
+  which was checked against the server for seven Iron Forging recipes only.
+- Whether a recipe far below your skill still teaches in full. Our own play go three levels down. The Scissors,
+  Leather Cap and Woolen Slippers steps rest on it.
+- What decides success. The recipe table has a second number per recipe that looks like a difficulty; nothing
+  shows how it is used. In our own play, recipes of the skill's own level failed 5 times in 8.
+- What the Blacksmith, Carpenter, Leatherworking and Tailor trainers give at the end, and where the first
+  Blacksmith Hammer comes from.
+- What tools cost in shops and which shop sells which. The figures given are the item table's values.
+- Where spinning wheels and looms stand outside Valinor, and exactly how wool is taken from a sheep.
+- Whether carpentry needs a bench: the wiki says yes, the in-game guidebook describes none.
+- How many arrows one try makes today. Dragoneer's Den said 6 per log in 2005, the recipe now takes 3 logs, and
+  a patch of 2021 tripled the output.
+- Whether a crafted bow must still be strung. The recipes name the finished bow; the item table also holds
+  "Unstrung" bows, and Dragoneer's old list made those.
+- Which slot each Undying piece takes, whether the set has a bonus, and how fast Zombie Skin drops. The set is
+  in the game's table and one patch note; no player source describes it.
+- How many rings can be worn at once.
+- Whether the skill requirements of Dragoneer's Den for materials (30, 45, 70) still hold. Its pages on this
+  date from 2004 to 2021.
+- The rewards of "Oozing on the Job".
+
+## Trades: potions, food and the rest
+
+Each section answers the same five questions in the same order: is it for you, how to start, how to level,
+what it makes that a character of level 1 to 50 wants, and which quests feed it.
+
+Two rules hold for everything you eat or drink, by the wiki's page on foods: one food and one drink can be
+active at a time, and taking a second food replaces the first. Since September 2022 a food lasts 30 minutes and
+a brewed drink 60. What food and drink add does not count towards what gear asks of you (Help Menu).
+
+Prices given as "priced at" are the value in the game's item table. What a shop asks moves with your standing.
+
+### Alchemy, with Foraging
+
+::: pictures
+wiki Alchemists Mortar.PNG | The Alchemist's Mortar | Alchemy
+wiki Cauldron.PNG | A cauldron | Alchemy
+wiki Mysic Orb of Alchemy.PNG | The Mystic Orb of Alchemy | Alchemy
+wiki Tome of Jandros.PNG | The Tome of Jandros | Alchemy
+:::
+
+Alchemy turns parts of creatures and one plant into potions. For a mage it is the natural first trade: it leans
+on Intelligence, and its main ingredient has to be enchanted with a Nature spell. For anyone else it is a
+detour, because magic shops sell potions (Help Menu), a Potion of Minor Healing is priced at 25 gold, and quests
+hand out the better ones in tens (30 Potions of Greater Healing from "Sting Operation" in Krog alone).
+
+**How to start**
+
+| You need | Price | Where |
+|---|---|---|
+| Alchemist's Mortar | 939 | Magic shops: Valinor 783,114; Krog 3121,3768; Silvest 1101,1359; Whisperdale 403,3435; Lotor's Summer Palace 756,677 |
+| Alchemy Guidebook (optional) | 50 | The same shops, on Valinor too. It holds the five recipes below skill 15 |
+| A cauldron | Free to use | "In almost every magic shop", by Dragoneer's Den. Click it to light it |
+| Foraging Stick | 175 | Farm shops. The Farming trainer on Valinor gives one |
+| A wand and a Rune of Nature | | The Nature trainer on Valinor gives both |
+
+1. Forage Bloodroot: click the stick, then a bush or a patch of flowers. Keep at one spot until the game says
+   there is nothing left. Bloodroot can be planted too, and Cave Slugs (level 11) drop it.
+2. Enchant it. Plain Bloodroot does not work in a recipe. Cast **Enchant Flora**, a Nature spell that needs
+   only the Rune of Nature, on it.
+3. Click each ingredient, then the mortar. Then click the mortar and the lit cauldron, and wait.
+
+The mortar is the one real cost. Our reading: on Valinor, where quests pay 100 gold at a time, a character who
+is not a mage is better off waiting for the mainland.
+
+**Levelling.** The recipe levels are AE Database's, and they agree with the game's own Alchemy guidebook since
+the patch of September 2022 moved every minor potion to 14 or below. The wiki's table and Dragoneer's Den still
+show the older recipes for two of them. The ladder is our reading of those levels, chosen for cheap ingredients.
+Nobody has written down a tested one, and no source says that a harder recipe pays more experience.
+
+| Skill | Make | Needs | Why |
+|---|---|---|---|
+| 0 to 6 | Potion of Minor Healing | 1 Ear of Bat (Bats, level 1), 1 Enchanted Bloodroot | The only recipe at 0, and you will drink them |
+| 6 to 10 | Potion of Cure Minor Poison | The same, and 1 Scorpion Sting (Scorpions, level 5) | One more ingredient, from a level 5 creature |
+| 10 to 14 | Potion of Minor Poison | 2 Ant Legs (Fire Ants, level 8), 1 Scorpion Sting | No Bloodroot, so no foraging and no spell. From 10 the Alchemy Taskmaster is open |
+| 14 to 22 | Potion of Minor Repair | 1 Rat Tail (Rats, level 1; Krog Rats, 11), 2 Warg Teeth (Wargs, level 14) | No Bloodroot either, and you use every one |
+| 22 to 44 | Potion of Healing | 1 Ear of Bat, 2 Enchanted Bloodroot | 250 health for two Bloodroot: the potion worth making in bulk |
+| 44 to 52 | Blood Bandage | 1 Enchanted Bloodroot, 1 Torn Silk Bandage (dropped by some 90 kinds of creature, from level 5) | One Bloodroot each |
+| 52 on | Potion of Greater Healing | 3 Enchanted Bloodroot, 1 Shambleweed (Shamblers, level 22; Swamp Slugs, 27) | 550 health, from ingredients of level 22 creatures |
+
+Three recipes in that range look tempting and are out of reach: the Potion of Tanning (20) and the Acid Potion
+(32) need Sulphur, which takes Mining 45, and the Potion of Stamina (24) needs Mandrake, which takes Foraging
+70.
+
+**What it makes for level 1 to 50.** Effects from the game's item table unless said otherwise.
+
+| Potion | Skill | What it does | Needs |
+|---|---|---|---|
+| Potion of Minor Healing | 0 | +75 health | 1 Ear of Bat, 1 Enchanted Bloodroot |
+| Potion of Minor Stamina | 4 | +50 stamina | 1 Bear Claw (Small Grizzly Bears, level 8), 2 Toad Eyes (Plague Toads, 11) |
+| Potion of Cure Minor Poison | 6 | Cures weak poison (AE Database) | 1 Ear of Bat, 1 Enchanted Bloodroot, 1 Scorpion Sting |
+| Potion of Cure Minor Disease | 8 | Cures weak disease (AE Database) | 1 Ant Leg, 1 Enchanted Bloodroot, 1 Scorpion Sting |
+| Potion of Minor Repair | 14 | Gives 50 health back to a piece of gear (AE Database) | 1 Rat Tail, 2 Warg Teeth |
+| Potion of Healing | 22 | +250 health | 1 Ear of Bat, 2 Enchanted Bloodroot |
+| Potion of Cure Poison | 26 | Cures ordinary poison (AE Database) | 2 Ears of Bat, 3 Enchanted Bloodroot, 2 Scorpion Stings |
+| Potion of Cure Disease | 28 | Cures ordinary disease (AE Database) | 2 Deadroot (Deadwillow Roots, level 24), 3 Enchanted Bloodroot, 1 Torn Silk Bandage |
+| Potion of Plant Growth | 30 | Crops grow faster (AE Database) | 1 Deadroot, 1 Shambleweed, 1 Toad Eye |
+| Blood Bandage | 44 | Heals and cures, with +20 First Aid | 1 Enchanted Bloodroot, 1 Torn Silk Bandage |
+| Potion of Greater Healing | 52 | +550 health | 3 Enchanted Bloodroot, 1 Shambleweed |
+
+Beyond 50, by AE Database's levels: Potion of Repair (64, +125 to an item), Superior Repair (74, +275) and
+Greater Repair (84, +600); Greater Stamina (80, +325); the unguents that turn plain ammunition into flame, frost,
+poison or disease ammunition (36 to 68); the Oil of Restoration (92), which raises a dead player; Dragons Essence
+(94: +10 Str, -10 Con, health and stamina regeneration, on top of a food); and the Potion of Immaculate
+Restoration (100: +625 health and cures everything). Their ingredients come from giants, trolls, wyverns and
+dragons.
+
+**Foraging** has its own ladder, from AE Database and the patch notes. Anything not listed is found at level 0.
+
+| Foraging | Opens | Used for |
+|---|---|---|
+| 0 | Bloodroot, grapes, pecans, the seeds of every common crop | Alchemy, farming |
+| 20 | The Heavy Foraging Stick (+10) can be used | |
+| 25 | Malacinth Seed | Malacinth cloth for tailors |
+| 35 | Dolas Fern | |
+| 45 | Wild Mushrooms; the Enchanted Foraging Stick (+20) | A food: +6 Int, with a chance to poison you |
+| 55 | Raw Mushroom Steak | Roasts into +3 Int +3 Dex |
+| 70 | Bitterwood Ash, Mandrake Seed, in Hell and the Badlands | The stamina and repair potions |
+| 90 | Luna Root | |
+
+**Quests that feed it**
+
+| Quest | Where | What | Gives |
+|---|---|---|---|
+| The Alchemist's Apprentice | Alchemist Baki, Valinor (781,115) | 2 Blue Topaz, as often as you like | A Potion of Minor Healing each time |
+| Quite Entranced | Etrois, Silvest, by the tanning vats | Forage 43 Bloodroot, then 23 Scorpion Stings, 13 Toad Eyes | Pool, and the Mystic Orb of Alchemy. It pays nothing into Alchemy itself, but the 43 Bloodroot are your Foraging start |
+| Unusual Science | Ozial, mage shop of Ringhaven Citadel (Talazar's Revenge) | Four trophies from creatures of the far north, wyverns and frost giants among them | 121,000 Alchemy experience by the wiki, and the recipe of the Tonic of Frost Resistance. Far beyond a beginner |
+
+### Cooking: Roasting, Mixing and Baking
+
+Cooking is three skills. **Roasting** turns raw meat and fish into food over any fire. **Mixing** makes dough in
+a bowl, and **Baking** turns the dough into bread, cake or pie in an oven. Roasting is for everyone from the
+first hour: it needs no tool and the meat falls out of what you kill anyway. Mixing and Baking are worth it once
+you grow your own wheat, or if you want the pies, which are the only cheap food that also speeds up your stamina.
+
+**How to start**
+
+The Cooking trainer on Valinor (753,104) gives the whole kit for nothing: bowl, spoon, a full bucket, one bag of
+flour and two books. His six tasks are the best first lessons: 10 bread doughs, 10 cooked spider legs, 10 loaves
+of plain bread, 5 baked biscuits, 10 cooked chicken legs, and then Frump the Cook for his spoon.
+
+| You need | Price | Where |
+|---|---|---|
+| Mixing Bowl, Mixing Spoon | 18 and 13 | Taverns ("food and cooking supplies", Help Menu). A carpenter can make the bowl at level 2 |
+| Empty Bucket | 75 | Shops; a carpenter can make one (Dragoneer's Den). Fill it at a well; a full bucket serves four recipes |
+| Flour Bag | 8 | On Valinor the provisioner at 734,115 (AE Guides); or mill your own |
+| Empty Milk Bottle | | Provisioners. Click a cow, then the bottle. A full bottle serves four recipes |
+| Eggs | 4 | Click a chicken, or buy them |
+| Cake Knife | 45 | "Store bought", by Dragoneer's Den. Pies and cakes must be cut before they can be eaten |
+| An oven | Free to use | In pubs, taverns and general stores. Click it to light it |
+| A mill | Free to use | "In most towns". It grinds wheat, sugar cane and cinnamon |
+| A fire, for roasting | 2 for a piece of Kindling | An oven, a campfire, or the Nature spell Ignite |
+
+To roast, click the raw meat, then the fire. To mix, click each ingredient and then the bowl, then the spoon and
+then the bowl. To bake, click the dough and then the lit oven. Up to five pieces can go in at once. A failed mix
+destroys the ingredients.
+
+**Levelling.** Here the sources fail. AE Database and the wiki list every Mixing recipe at level 0, and
+Dragoneer's Den says in so many words that "there is not a posted list of level requirements". The game's
+Cooking guidebook says only that "some dishes are harder to mix and bake than others" and that bread is the
+easiest. So the ladder is ordered by the number of ingredients, which is our guess at difficulty, and by cost.
+
+| Stage | Make | Needs | Why |
+|---|---|---|---|
+| Roasting, from the start | Whatever meat you loot | Spider legs, bat wings, snake meat, chicken legs, later bear meat and beef | Free |
+| Mixing and Baking, first | Plain Bread | 1 flour, 1 water | The game's own "easiest"; 8 gold a loaf |
+| Then | The one-fruit breads | Bread, and 1 grape, pecan, banana, cherry or bag of cinnamon | Grapes and pecans are foraged at level 0 |
+| Then | Cooked Crescent, Baked Roll, Biscuits | Flour with egg, milk or both | Eggs and milk cost nothing but the walk |
+| Last | Pies and cake | Flour, sugar, an egg, water and 3 fruits | Sugar is priced at 83 a bag; grow sugar cane and one cane mills into 6 bags, by Dragoneer's Den |
+
+There is no Taskmaster for any of the three skills. "Honest Work", the third farming quest of Silvest, pays into
+Mixing and Baking for 37 loaves of Raisin Bread.
+
+**What it makes for level 1 to 50.** All from the game's item table; each lasts 30 minutes. No source gives a
+skill level for any of them.
+
+| Food | What it adds | Needs | For |
+|---|---|---|---|
+| Cooked Bear Meat | +5 Str | Roast Bear Meat (Small Grizzly Bears, level 8; Brown Bears, 23) | Warriors, from level 8 |
+| Cooked Striped Thod | +4 Str | Roast the fish | Warriors |
+| Cooked Red Fleming | +4 Dex | Roast the fish | Archers |
+| Cooked Rabbit Meat | +3 Dex | Roast | Archers |
+| Cooked Bluefin | +4 Int | Roast the fish | Mages |
+| Cooked Chicken Leg | +3 Int | Roast | Mages, on Valinor |
+| Cooked Greely | +4 Con | Roast the fish | Anyone |
+| Cooked Casucs | +1 Dex, +1 stamina regeneration | Roast the fish | Anyone short of stamina |
+| Raisin Bread | +5 Str | Flour, water, 1 grape | Warriors |
+| Cinnamon Twists | +6 Str | Flour, water, cinnamon, sugar | Warriors |
+| Cornbread | +6 Str +4 Con | Flour, milk, 2 corn | Warriors |
+| Nut Bread | +5 Dex | Flour, water, 1 pecan | Archers |
+| Cooked Crescent | +6 Dex | Flour, egg, milk | Archers |
+| Banana Bread | +5 Int | Flour, water, 1 banana | Mages |
+| Cinnamon Bread | +5 Con, +50 health | Flour, water, cinnamon | Anyone |
+| Cherry, Apple, Banana Pie Slice | +6 Str, +6 Dex, +6 Int; each with +1 stamina regeneration | Flour, sugar, egg, water, 3 fruits (apple pie also cinnamon) | The best cheap food for each build |
+| Orange Tart Slice | +4 Str +4 Dex +4 Int | Flour, sugar, egg, water, 3 oranges | Mixed builds |
+| Knoll's Lemon Meringue | +5 Str +5 Con, +1 stamina regeneration | Flour, sugar, egg, water, 3 lemons | Warriors |
+| Slice of Cake | +6 Con, +1 stamina regeneration | 2 flour, sugar, 3 eggs, milk, water | Anyone |
+| Lemonade | +10 health regeneration | Water, sugar, 1 lemon. Mixed only, not baked | Anyone |
+
+Beyond 50, and with expansions: Large Crab Stew (+12 Con, +20 health regeneration; crab meat from Small Crabs of
+level 28 and up), Crab Bisque (+5 Dex +6 Con +5 Sailing), the roasted fish of Sands of Creation, and Era's
+Creamed Oysters (+6 Str +4 Dex +6 Con, +2 stamina regeneration), which needs a Chefs Cap to mix.
+
+If you would rather not cook: since August 2025 taverns sell "new base and mid level" food for low characters.
+
+**Quests that feed it**: the Cooking trainer on Valinor (about 6,200 pool over the first five tasks, by AE
+Guides; his last reward is not recorded); "Hole of Tears" in Krog asks for 5 Cooked Spider Legs; "Honest Work"
+in Silvest, as above.
+
+### Brewing
+
+::: pictures
+wiki Brewkettle.gif | A brew kettle | Brewing
+wiki Drinking_Horn.gif | The Drinking Horn | Brewing
+:::
+
+Brewing makes drinks in a kettle. A drink lasts an hour, twice as long as a food, and by the wiki it runs beside
+a food, so it is a second bonus on top of the first. Every recipe but one is listed at level 0 by AE Database
+and the wiki, so a beginner can brew the best ale on the first day; what stands in the way is the price of
+sugar and, for most strong brews, a loss of Intelligence. Worth a look for a warrior or an archer with gold to
+spare. For a mage there is Teylan Ale.
+
+**How to start**
+
+| You need | Price | Where |
+|---|---|---|
+| Brewkettle | 350 | "Most pubs", by Dragoneer's Den and the wiki |
+| Bucket of water | 75 for the bucket | A quarter bucket per brew |
+| Yeast Packet, Aroma, Bitterness and Flavor Hops, Malt Syrup | 10, 20, 40, 60, 50 | Pubs |
+| Sugar Bag | 83 | Pubs, or mill sugar cane: 6 bags a cane |
+| Wheat Malt Syrup, Barley Malt Syrup | Priced at 112 and 99 | By Dragoneer's Den, made by combining Wheat Grain or Cut Barley with Malt Syrup |
+| Honey Malt | Priced at 80 | By Dragoneer's Den, honey combined with Malt Syrup |
+| An oven | Free to use | Pubs and taverns. Since January 2026 a Camp Stove works too |
+
+Put water into the kettle, add the syrup and the hops, then the sugar and the yeast, and heat the kettle in a
+lit oven. By the game's book The Art of Brewing one kettle gives 12 to 24 pints.
+
+**Levelling.** With all recipes at level 0 there is no ladder to climb, only a cheapest brew. Our reading:
+
+| Stage | Make | Needs, with the table's prices | Why |
+|---|---|---|---|
+| 1 to 10 | Krog Pride | Water, 1 Malt Syrup, 1 Aroma Hops, 1 Sugar Bag, 1 Yeast Packet: 163 gold | The cheapest kettle; everything comes from the pub |
+| 10 on | Whatever the Brewing Taskmaster asks | | He stands in Lotor's Summer Palace at 846,732, beside a pub |
+| When you farm | Lotor's Pale Ale, Maraket Bitter | Wheat Malt Syrup from your own wheat, sugar from your own cane | The brews without a drawback |
+
+**What it makes for level 1 to 50.** From the game's item table; each lasts 60 minutes.
+
+| Drink | What it adds | Needs beside water |
+|---|---|---|
+| Krog Pride | +2 Str +2 Con | 1 Malt Syrup, 1 Aroma Hops, 1 sugar, 1 yeast |
+| Lotors Pale Ale | +5 Str | 1 Wheat Malt Syrup, 1 Aroma Hops, 1 sugar, 3 yeast |
+| Sam's Devil Brew | +7 Str, -3 Int | 1 Barley Malt Syrup, 1 Flavor Hops, 2 sugar, 2 yeast |
+| Jeel Old Peculiar | +6 Str +3 Con, -3 Int | 1 Barley Malt Syrup, 1 Bitterness Hops, 1 sugar, 2 yeast |
+| Parian Stout | +5 Str +4 Con, -3 Int | 1 Malt Syrup, 1 Flavor Hops, 1 sugar, 2 yeast |
+| Hobgoblin Strong Ale | +5 Str +5 Con, -5 Int | 2 Malt Syrup, 1 Bitterness Hops, 2 sugar, 3 yeast |
+| Maraket Bitter | +4 Dex +2 Con | 1 Wheat Malt Syrup (the wiki says 2), 1 Bitterness Hops, 2 sugar, 1 yeast |
+| Chlera Hard Cider | +7 Dex, +1 stamina regeneration, -3 Int | 3 apples, 1 Flavor Hops, 2 sugar, 3 yeast |
+| Autumn Dry Spirit | +5 Dex +3 Int, -2 Str | 3 grapes, 1 Flavor Hops, 1 sugar, 2 yeast |
+| Teylan Ale | +7 Int, -3 Con | 1 Honey Malt, 1 Bitterness Hops, 1 sugar, 1 yeast |
+| Traditional Honey Mead | +6 Con | 2 Honey Malt, 1 Aroma Hops, 1 sugar, 2 yeast |
+
+Parian Stout is the bargain for a warrior: it is made of pub goods only, costs 213 gold a kettle, and a warrior
+does not miss the Intelligence. Chlera Hard Cider is the archer's, with apples you grow.
+
+Beyond 50: Rahura Dark Ale (+8 Con +3 Str, -6 Int), Hathors Red Wine (+8 Int +3 Con, -5 Dex) and Khafra Yrp
+belong to Sands of Creation, Northern Frost Mead to Talazar's Revenge, and Dragons Breath (+12 Dex, skill 92)
+needs the blood of dragons.
+
+By the wiki, drinking too much makes you drunk, which costs a large part of your stamina. It does not say how
+much is too much.
+
+**Quests that feed it**: none that we found. By an old page of Dragoneer's Den the recipe books lie in the
+towns the brews are named for (Krog Pride in the pub of Krog, Jeel Old Peculiar in the back room of the pub in
+Jeel, and so on); the recipes above are complete without them.
+
+### Farming: Foraging, Planting and Harvesting
+
+Farming is three skills that follow a plant: **Foraging** finds seeds, **Planting** puts them into a field and
+picks the crop, **Harvesting** cuts the four crops that need a scythe (wheat, sugar cane, barley, cinnamon). It
+makes nothing you use directly except fruit; it feeds Cooking, Brewing, Alchemy and Tailoring. Take it up if you
+do one of those in earnest, or for the gold: since May 2022 crops sell for more. The Farming trainer on Valinor
+is worth it for everybody.
+
+**How to start**
+
+The Farming trainer on Valinor (772,114) gives the tools and six tasks: forage 2 tomato seeds and 5 orange
+seeds, plant a seed, harvest 10 wheat grains and a cinnamon bundle, and kill the Goblin Farmer for his stick.
+The reward is a **Storage Crate** (24 slots).
+
+| You need | Price | Where |
+|---|---|---|
+| Foraging Stick | 175 | Farm shops: Krog 3145,3781; Silvest 1079,1380; Whisperdale 366,3456; Lotor's Summer Palace 860,713 |
+| Shovel | 175 | The same |
+| Farm Scythe | 80 | The same |
+| Seeds | 5 to 48 each; wheat 20 | The same, or foraged |
+| Farmland | | The ploughed fields on the edge of most towns |
+| A mill | Free to use | In most towns |
+
+1. Dig: click the shovel, then a furrow.
+2. Plant: click the seed or the fruit, then the hole. A failure loses both.
+3. Wait for "One of your crops is ready to harvest".
+4. Pick: click the plant, or press `Space` to pick every ripe plant of yours nearby. For the four scythe crops,
+   click the scythe, then the plant.
+5. Mill wheat, sugar cane and cinnamon by clicking the bundle, then the mill's hopper. By Dragoneer's Den one
+   Wheat Grain gives 7 bags of flour, one Sugar Cane 6 of sugar, one Cinnamon Bundle 6 of cinnamon.
+
+**Levelling.** Few levels are written down: AE Database lists every common crop at 0. The rest is from the
+game's Farming guidebook and the farming patch of 7 May 2022, and the order is our reading.
+
+| Skill | Do | Why |
+|---|---|---|
+| Foraging, from 0 | Forage every bush you pass; clean a spot out before you move on | Seeds for everything else, and Bloodroot |
+| Planting, from 0 | Grapes, pecans and wheat | "The easiest crops to start with", says the guidebook |
+| Planting, always | Plant seeds, not fruit | Since 2022 a seed pays more experience than the fruit, and a harder crop more than an easy one |
+| Harvesting, from 0 | Wheat first, then sugar cane | Flour for every recipe; sugar is what costs gold in baking and brewing |
+| At 10 | The Farming Taskmaster | By a patch note of 2021 his foraging task asks for a number of seeds of any kind. Which of the three skills has to be at 10 is not stated |
+| Planting 25 | Malacinth | The first crop with a level, wanted by tailors |
+| Later | Lunar Flax at 55, Mandrake at 70 | |
+
+Three things speed it up. **Fertilizer**: grind shells or bones in a mill, put the meal in an empty bucket,
+plant the slop, and spread the sacks you dig up on fresh seeds for a bigger crop. The Nature spell **Bless
+Fields**, which needs only a Rune of Nature, shortens the growing time. So does a **Potion of Plant Growth**.
+
+**What it gives a character of level 1 to 50**
+
+| Crop | Use |
+|---|---|
+| Bloodroot | Every healing potion |
+| Wheat | Flour: bread, pies, and Wheat Malt Syrup for ale |
+| Sugar cane | Sugar: pies and every brew |
+| Grapes (+3 Str), pecans (+3 Int), cherries (+2 Dex), apples (+2 Con) | Eaten raw as a small food, or baked |
+| Potatoes (+50 health), limes (+25 health) | The same |
+| Cotton | String and cloth for tailors |
+| Barrel of Apples, Prize Tomato, White or Black Rose | Rare crops that sell well; a small chance when the seed got Rich Fertilizer |
+
+**Quests that feed it.** "Fine Land" and the 24 quests after it, 25 in all by the patch note, begin with
+Stratton in the Silvest farm shop (1079,1380); the Silvest chapter covers the first three. What matters here:
+
+- The wiki's two pages disagree on what it takes to start: one writer needed Harvesting 10 and Planting 20, the
+  other says 30 levels between Planting and Harvesting.
+- The first quest pays 28,500 into Harvesting by one page (8,500 for 10 Wheat Grain you may buy, 20,000 for 20
+  you grow) and 42,750 "farming experience" by the other. By the chart, 28,500 points alone are skill 11.
+- The tools come as rewards along the way: a Storage Crate (Black Gold), 10 Potions of Plant Growth (Honest
+  Work), a Farming Almanac (Growing Allies), a Foraging Smock and a Divining Rod (Lady of Reknown, which asks
+  for Planting 30), two Glowing Storage Crates (Pit of Despair), a Farmer's Ring and a Seed Drill (Old Debts).
+- After the first three it turns expensive, as the Silvest chapter says.
+
+### Fishing, or Fly-casting
+
+::: pictures
+wiki Tackle Box.JPG | The Tackle Box | Fishing_for_Friends
+wiki Fishing Vest.JPG | The Fishing Vest | Fishing_for_Friends
+wiki Message in a Bottle.JPG | A Message in a Bottle | Fishing_for_Friends
+:::
+
+Fishing is one skill, which the game calls Fly-casting. You stand by water, click the pole and click the water.
+It is the calmest way to feed yourself, the six common fish cover all four attributes, and five levels of it
+open Paezer's quests in Whisperdale, whose first reward is the Tackle Box. Yes for a beginner, at least that far.
+
+**How to start**
+
+| You need | Price | Where |
+|---|---|---|
+| Fishing Pole | 150 | Shipyards ("fishing equipment", Help Menu): Whisperdale 339,3479, beside Paezer (345,3484); Maraket 3090,4020; Lotor's Summer Palace 790,593. By Dragoneer's Den one can be made from logs and strung with a string |
+| Water | | By Dragoneer's Den, any blue water. When a spot is fished out the game tells you; move on |
+| A fire | | To roast the catch |
+
+Later tools: the Casting Pole (Talazar's Revenge; priced at 600, or free from "Oyster Chowder" in Valmond)
+reaches further; the Oyster Bucket needs Talazar's Revenge and the Lobster Trap Tides of Fate; a Casting Net
+takes several fish at once from Fly-casting 40.
+
+**Levelling.** AE Database lists every fish at level 0, so there is nothing to choose: fish, and let Paezer's
+quests carry you. The arithmetic in the last column is ours, from the chart of Dragoneer's Den.
+
+| Needs Fly-casting | Do | Pays (wiki) | Skill after it, if you started it at 5 |
+|---|---|---|---|
+| Nothing | "Spice It Up" in Silvest: 50 Bluefin at the docks (1133,1472) | 500 gold | Paezer wants 5 next; keep fishing until you have it |
+| 5 | "Fishing for Friends": out-fish Paezer for five minutes, then 30 of one kind of fish for Mizzander | 20,000 and 33,000 experience, the **Tackle Box** | 14 |
+| Not stated | "Adventure Bites": four trophies from Wargs, Flesh Blobs, Blue Triddles and a Spider Queen | 55,000 experience, a Fishing Lure | 18 |
+| Not stated | "An Elaborate Game": bottles from wells and ponds as far as Gulley and Redwake | The **Fishing Vest** (+10) | |
+| 20 | Messages in a Bottle start to come up: small fishing quests you can repeat | | |
+| 30, 40, 50, 60 | Parts 4 to 7 of Paezer's line, one level each | | |
+
+Save your fish from the first cast: which kind Mizzander wants differs from character to character.
+
+**What it gives a character of level 1 to 50.** From the game's item table; each lasts 30 minutes once roasted.
+
+| Fish | Roasted, it adds | For |
+|---|---|---|
+| Striped Thod | +4 Str | Warriors |
+| Red Fleming | +4 Dex | Archers |
+| Bluefin | +4 Int | Mages |
+| Greely | +4 Con | Anyone |
+| Purker | +2 Int +2 Con | Mages |
+| Casucs | +1 Dex, +1 stamina regeneration | Anyone short of stamina |
+
+Beyond 50: the ten fish of Sands of Creation, which need Golih's Cane Pole (from "Small Favors", Fly-casting
+35); oysters for pearls, which runecrafters need; lobsters; and treasure maps at the end of Paezer's line, at
+Fly-casting 90.
+
+**Quests that feed it**: the ones in the table. "Gone Fishing" in Gulley is an errand with a fishing pole, not a
+fishing quest. There is a fishing contest too: a judge stands in Lotor's Summer Palace (794,622), and since 2024
+players can start a two-hour contest for 10 event tickets.
+
+### Runecrafting
+
+Runecrafting grinds gems into crystals and makes runes and totems out of them. It needs the Sands of Creation
+expansion, so for most beginners the answer is no. If you own the expansion it is better than it looks: the
+first totems are made at skill 5 to 20 from gems that creatures of level 7 to 20 drop, and a mage can make the
+runes he burns.
+
+**How to start**
+
+| You need | Price | Where |
+|---|---|---|
+| Gem Mortar | 450 | No source says who sells the tools. The map marks two runecrafting shops: Panteo's in Lotor's Summer Palace (789,660) and Rin Flacol's in Roycroft (2468,2373) |
+| Runecrafting Tool | 250 | For runes |
+| Totem Mold | 1,200 | For totems |
+| A Runecrafting Table | Free to use | By Dragoneer's Den, in every town of Sands of Creation and in Lotor's Summer Palace |
+| Gems | | Dropped (below), or mined |
+
+Gems go into the mortar and the mortar is used on the table to make a crystal. Crystals and the tool make a
+rune; crystals in the mold make a totem.
+
+**Levelling.** Levels are AE Database's, and the wiki and Dragoneer's Den agree with them; for the runes the
+game's own recipe table agrees too. The order is our reading.
+
+| Skill | Make | Needs | Why |
+|---|---|---|---|
+| 0 to 5 | The four plain crystals | Green: 1 Amethyst, 1 Topaz. Red: 2 Garnet, 1 Hematite. Yellow: 2 Garnet, 2 Topaz. Blue: 2 Blue Topaz, 1 Garnet | Everything else is made of these. Green takes the fewest gems |
+| 0 to 5 | Runes of Body, Mind, Nature, Soul | 2 crystals of the matching colour | A mage uses them up |
+| 5 | Totem of Triddle Strength | 2 Green, 2 Red | The first totem |
+| 10 | Totem of the Bear's Will; the Runecrafting Taskmaster | 2 Blue, 2 Yellow | |
+| 15 | Totem of the Nimble Kobold | 2 Blue, 2 Red | |
+| 20 | Totem of Mental Clarity | 2 Green, 2 Yellow | |
+| 30 to 45 | The +10 totems | Sky Crystals (2 Diamonds, 3 Sapphires) and Dark Crystals (2 Black Pearls, 2 Hematite) | Diamonds are priced at 2,000 each: this is where it turns costly |
+
+The plain gems drop from Filthy Sludge (level 7), Viscous Mold (12), Kobold Brigands (16), Termigon Workers (20)
+and sixty and more kinds of creature above them, by AE Database. Blue Topaz drops from the Triddles of Valinor.
+
+**What it makes for level 1 to 50.** Effects from AE Database, which the wiki and Dragoneer's Den match except
+where noted.
+
+| Totem | Skill | What it does | Needs |
+|---|---|---|---|
+| Totem of Triddle Strength | 5 | +5 Str | 2 Green, 2 Red |
+| Totem of the Bear's Will | 10 | +5 Con | 2 Blue, 2 Yellow |
+| Totem of the Nimble Kobold | 15 | +5 Dex | 2 Blue, 2 Red |
+| Totem of Mental Clarity | 20 | +5 Int | 2 Green, 2 Yellow |
+| Totem of the Druid, Wizard, Necromancer, Cleric | 25, 30, 35, 40 | +5 to Nature, Mind, Soul or Body for 15 minutes (AE Database writes it as 5%, Dragoneer's Den as 5 levels of the skill) | 3 plain crystals and a Sky Crystal (the Cleric: 2 Crimson, 3 Red) |
+| Totem of Troll Strength | 30 | +10 Str (Dragoneer's Den says +30 and another recipe) | 3 Red, 1 Sky |
+| Totem of the Giant's Will | 35 | +10 Con | 1 Dark, 2 Sky |
+| Totem of Alacrity | 40 | +10 Dex | 2 Dark, 2 Green |
+| Totem of Brilliance | 45 | +10 Int | 3 Blue, 2 Crimson |
+| Totem of Hardiness | 50 | +100 health and more stamina | 3 Green, 1 Twisted |
+
+By the wiki you can have one attribute totem active at a time: clicking a second ends the first. A totem of
+regeneration runs beside it, and so does food. The totems that speed up attacks (Wolf Pup, Wolf) are not made;
+they are quest rewards and drops.
+
+Beyond 50: the Totems of the Warrior (55: +10 Str +10 Con), the Archer and the Mage (60), each for 15 minutes;
+Regeneration (55, usable from level 75); the totems that call a follower, which need Leadership 10 to 60; Totem
+of Burst (95, +4 movement speed); and the higher runes, from Malith at 15 to Isos at 85. The Totems of the
+Warrior, the Archer and the Mage are also quest rewards, and since January 2026 those no longer ask for the
+expansion.
+
+**Quests that feed it**: none that we found.
+
+### First Aid and bandages
+
+First Aid is the skill of healing with bandages, and you have it without taking it up: Lord Trembley's welcome
+kit on Valinor holds 10 bandages since 2024, and the Leadership trainer gives more.
+
+- Bandages are priced at 6 gold and sold by provisioners. Tailors make them, ten from a bolt of cloth.
+- By Dragoneer's Den, the higher the skill, the more a bandage heals. Since March 2026 bonuses to First Aid
+  count for bandage healing.
+- First Aid takes experience pool, by Dragoneer's Den, unlike every other skill in this chapter. Whether it is
+  worth pool that could go into your weapon is your call; 16,500 points buy the first ten levels.
+- Bandages work on followers too (2020). After a bandage there is a wait before the next.
+- The **Blood Bandage** (Alchemy 44) heals, cures poison and disease, and carries +20 First Aid. By AE Database
+  plain Bloodroot can be used the same way.
+
+### Identification and the Hunter's Handbook
+
+Identification, added in January 2021, is the skill of studying creatures. What you learn is written into the
+Hunter's Handbook (`H`).
+
+- Start with "Creatures of Dransik": Knight Bastrop, in the room below the Mage Shop on Valinor (780,124), gives
+  a Scalpel. Kill one of a kind of creature to enter it in the book, then use the scalpel on a live one.
+- By the game's book on the subject, a Looking Glass does the same job, and studying tells you "many useful
+  things about it and where it is located".
+- Scrolls of Identification always succeed and teach more at once. Alchemists make the ink (Revealing Ink at
+  Alchemy 24), leatherworkers the scroll.
+- Turning in a Lotorian Knight mission adds to the entry of the creature you hunted (2022, raised in 2025).
+- The experience it pays was cut by a third in August 2025.
+- "The Power of Sight" in Teylan (Talazar's Revenge) pays 250,000 into it, by the wiki.
+
+No source says what a full entry or a high skill gives you beyond the knowledge itself.
+
+### What we could not find out about these trades
+
+- The skill level of any Mixing, Baking, Roasting or Brewing recipe except Dragons Breath. AE Database and the
+  wiki show 0 for all of them, Dragoneer's Den says no list exists, and the game's recipe table that we could
+  read holds only the gear trades and the runes.
+- Whether a harder recipe pays more experience than an easy one, in any trade but Planting.
+- Which potions the magic shops sell, and whether a Potion of Healing can be bought at all.
+- Where a fishing pole is sold in Silvest, which has no shipyard on the map, though its first fishing quest
+  starts there.
+- Whether a brew can be made without having read its recipe book, and how many drinks make you drunk.
+- Where honey comes from, for the meads and Teylan Ale. Dragoneer's Den says "made by busy bees"; the farming
+  quests reward beekeeper's gear.
+- How long the +5 and +10 attribute totems last, and how many uses one has. AE Database gives a duration only
+  for the others.
+- Whether a totem's bonus runs beside a drink as well as a food.
+- What the Cooking trainer on Valinor gives at the end.
+- What Fine Land really asks before it starts, since the wiki's two pages differ.
+- What the Hunter's Handbook rewards.
+- Which bush gives which seed. The game has tools for "selective foraging" (Seed Drill, Machete, Sharp Spade)
+  that pick a group of seeds, and all three come from the farming quests or cost 550 to 1,570 gold.
+
+## Followers: taming and Leadership
+
+A follower is a creature that walks with you and fights for you. You get one by taming a wild creature with a
+whip, and the skill behind it is Leadership. It costs a new character nothing: the Leadership trainer on Valinor
+hands you the whip, one follower is allowed at Leadership 0, and what you may tame goes by your character's
+level, not by the skill.
+
+Whether it is worth your attention depends on your build. This is our reading of the rules below, not something
+a source says:
+
+- **A mage should tame from the first hour.** You have the least health of the three, and a follower gives the
+  creature something else to hit. A follower's health grows with your Intelligence (by Dragoneer's Den), you can
+  heal it with your spells (by the wiki), and Fortify can be cast on it (patch of 2020-11-27). One limit: the
+  order Assist follows your weapon's target, not your spell's, so a mage uses Protect or Attack.
+- **An archer gains almost as much.** The follower holds the creature in place while you shoot, and Assist works
+  with a ranged target. Your Dexterity makes it harder to hit.
+- **A warrior gains the least**, because you stand in front anyway. Your Strength makes the follower hit more
+  often, so it is a second set of blows, and it earns its keep on the three early bosses (see
+  [A follower for the guide's bosses](#a-follower-for-the-guides-bosses)).
+
+For all three the cost is one click every time the follower dies. What we could not learn is whether a follower
+takes a share of your experience; if you see your experience per kill drop with one at your side, dismiss it for
+ordinary hunting and keep it for bosses.
+
+The Totem of the Wolf Pup, which this guide tells you to get on Valinor, is not a follower. It makes you attack
+faster and summons nothing.
+
+::: pictures
+wiki Pets Window.PNG | The follower window | Game_Interface
+:::
+
+### How taming works today
+
+1. Get a **Trainer's Whip**. The Leadership trainer on Valinor gives one, and the game's Leadership Guidebook
+   says most general stores sell them.
+2. Stand next to the creature. Click the whip in your backpack, then click the creature (the trainer's own
+   words in our chat log).
+3. Press `F` for the follower window and give it an order.
+
+The rules, and where each comes from:
+
+| Rule | What it says | Source |
+|---|---|---|
+| What you can tame | It goes by your character's level only. "A level 50 even with 100 Leadership is still restricted to the level 50 or less group" | Patch of 2024-03-02; Dragoneer's Den |
+| The exception | Giants above level 110 need the weapon Frieda's Flayer | Patch of 2024-03-02 |
+| How many | One follower from Leadership 0, two at Leadership 30, three at Leadership 60 | Patch of 2024-03-02; Dragoneer's Den |
+| More than that | "If you manage to tame additional creatures they will turn on you" | The game's Leadership Guidebook |
+| Not everything | Only creatures on the taming list can be tamed. Townsfolk cannot | Dragoneer's Den |
+| Sheep, cows, dairy cows | Need the Shepherd's Staff in your hand | Dragoneer's Den |
+
+Dragoneer's Den lists the tameable creatures in bands of ten levels (1 to 10, 11 to 20 and so on). Neither it
+nor the patch note says whether a level 11 character can tame everything in the 11 to 20 band or only creatures
+up to level 11. The tables below give each creature's own level, so they are right under both readings: tame
+the best one at or below your level, and try the next one up to learn which reading holds.
+
+The game answers a failed attempt in words. By Dragoneer's Den:
+
+| The game says | It means |
+|---|---|
+| Your skill is not high enough to tame this creature. | You are at your limit of followers, or this one would put you over it |
+| Your current abilities are not aligned with the creatures. | You lack the tool this creature needs, such as Frieda's Flayer |
+| You can not tame that. | It is one of the townsfolk |
+| That creature cannot be tamed. | It is not on the taming list |
+
+**What the patches changed.** Older pages, Dragoneer's own skill chart among them, still describe the rule of
+2020, so it helps to know the order:
+
+| Patch | Change |
+|---|---|
+| 2020-05-29 | Leadership rebuilt: what you could tame went by your highest attribute (Strength for humanoids, Dexterity for animals and vermin, Intelligence for undead and demons). Flee and Inventory added to the follower window. Followers stay when you log out, under a new name |
+| 2020-06-07 | Bandages heal followers. The follower window shows their health as it changes |
+| 2020-08-27 | The order Assist added. Followers on Protect start as soon as you are attacked, even if you are not hurt |
+| 2020-10-12 | The code that credits kills to a player with followers or a party was adjusted, for kill counts and alignment |
+| 2021-03-29 | A follower's health now comes from your Constitution and your Leadership |
+| 2021-05-06 | Only one summoned pet at a time (the spell's spectre, a henchman, a familiar, the high totems). The runecrafted totems were not under this rule yet |
+| 2021-10-15 | Some end-game bosses can no longer be attacked by followers |
+| 2022-11-20 | A follower that would call helpers in the wild (Deadwillow, Golem, Ice Golem, slimes, Skeletal Mage) no longer does so as a follower |
+| **2024-03-02** | **The attribute rule removed: character level decides what you can tame. Follower count fixed at 2 from Leadership 30 and 3 from 60. Leadership Guidebook added. The Valinor trainer's quest mended; it gives bandages and gold** |
+| 2024-03-05 | Blood Lich made tameable |
+| 2025-08-16 | Horned Archer taken off the taming list. Dungeon entrances that deleted followers on the way out were mended (Silvest's, Mack Mack's and one more). The Caiman Scale Totem now states its Leadership requirement |
+| 2025 (Halloween patch) | Leadership items whose tooltips said nothing now state their level requirement |
+
+We found no later patch that changes the rules of 2024-03-02.
+
+### The tools
+
+| Tool | What it does | What it needs | Where it comes from |
+|---|---|---|---|
+| Trainer's Whip | Tames, standing next to the creature | Nothing | Free from the Leadership trainer on Valinor. General stores, by the Leadership Guidebook; the game's table values it at 200 gold. Leatherworking 9 from 2 Leather. Dropped by Slimy Oozes (4), Filthy Sludges (7), Viscous Molds (12) and Orc Warmongers, by AE Database |
+| Command Whip | Tames, and adds 10 to Leadership | Leadership 20 | Leatherworking 50 from 5 Flawless Leather, at a Rune Spire by AE Database. Not sold |
+| Words of Binding | Used in place of a whip, and adds 15 to Leadership | The wiki says Leadership 35; the game's tooltip and Dragoneer's Den name no requirement | Dropped by the Soul of Beldan (level 10, 200 to 225 health), who appears when you open the hilt chest at 676,3240 in the quest "Sentimental Value" in the Darkwoods. A chance, not a certainty |
+| Hemp Lasso | Tames from a distance | Nothing stated | Tailoring 97 from 5 Hemp Cloth. Hemp came with the patch of 2025-08-16. Out of a beginner's reach unless somebody makes you one |
+| Shepherd's Staff | A polearm (19 to 38 damage) that adds 25 to Leadership and lets you tame sheep, cows and dairy cows | Polearms 25 | Dropped by Cult Leaders (16), Spectral Orc Foragers (33), Ettins (54) and Cyclopes (107), by AE Database; the Cyclops has by far the most reports |
+
+A beginner needs the Trainer's Whip and nothing else. AE Database gives the whip 200 points of wear, so it does
+not last for ever; keep the free one for taming and do not sell it.
+
+Words of Binding is the one tool worth a detour, since its quest is in this guide's Whisperdale chapter at level
+20 to 24 and the Soul of Beldan is only level 10.
+
+### The follower window
+
+`F` opens it. It shows each follower with its health, and a button with the orders. From the game's Leadership
+Guidebook, the wiki and Dragoneer's Den:
+
+| Order | What the follower does |
+|---|---|
+| Follow | Walks with you and defends itself, but not you. This is the order it starts with |
+| Protect | Attacks anything that attacks you |
+| Assist | Attacks what you attack with a melee or ranged weapon. Spells do not count |
+| Attack | You pick a target, and it attacks that |
+| Guard Location | Stands where it is and attacks whatever comes near |
+| Stay | Stands where it is and does nothing, not even defend itself |
+| Flee | Walks with you without stopping to fight. For running away |
+| Inventory | Opens its pack, if it can carry anything. Few can; the camel is the known one |
+| Dismiss | Sends it away for good |
+
+Protect is the order for everyday hunting. Use Flee before you run, or the follower stops to fight everything on
+the way.
+
+One trick from the wiki: a follower on Stay that you then order to Follow comes to you at once, wherever you
+are. Leave it on Stay before a dangerous stretch, cross, and call it.
+
+### What makes a follower stronger
+
+A tamed creature keeps its kind's own numbers, and your character adds to them. By Dragoneer's Den:
+
+| Yours | Gives the follower |
+|---|---|
+| Strength | A better chance to hit |
+| Dexterity | A better chance to dodge |
+| Intelligence | More health |
+| Constitution (your own orbs, not bonuses) | More health |
+| Leadership, bonuses from gear included | More health |
+| Strength, Dexterity and Intelligence held equal (the "Druid" build) | A further share of health on top |
+
+This holds for tamed followers only. A follower called by a totem or a weapon does not get it, and by one of the
+game's developers, quoted on Dragoneer's Den, your buffs skip it too.
+
+You can heal a follower with bandages (patch of 2020-06-07) and with a mage's healing spells (by the wiki).
+Otherwise it heals by itself over time. Fortify can be cast on followers, and Transfusion was rebalanced in
+December 2021 as a heal for them.
+
+The Valinor trainer puts it this way in our log: "As you lead creatures, they draw power from you" and "A well
+balanced adventurer will be able to lead the strongest followers."
+
+### When it dies, when you log out, when you change map
+
+- **It dies.** It is gone, and you tame another. No source names any other cost.
+- **You log out.** The patch of 2020-05-29 says followers stay, under a new name, with whatever they carry. The
+  wiki's page on the game's windows says you lose your pet. The patch note is the firmer source; we have not
+  tried it.
+- **You change map.** A follower comes to you when you teleport, unless it is on Stay (patch of 2020-08-27).
+  Three dungeon entrances that
+  that deleted followers on the way out were mended on 2025-08-16; if another one still does, that is a fault
+  to report, not a rule.
+- **Some places forbid them**: the Halloween dungeon, the Gauntlet event, and some end-game bosses.
+- **Kills by your follower** count for your kill quests, as far as the patch of 2020-10-12 goes ("credit for kill
+  count"). Whether you get full experience for them is one of the things we could not find out.
+
+### The Leadership trainer on Valinor, and raising the skill
+
+The Leadership trainers stand at 763,121 by the community map, three tiles from the stairs to the magic trainers
+(763,118).
+This is what happened to our character, from the chat log:
+
+- The trainer asks "So, would you like training in Leadership?". Say yes.
+- You receive **1 Trainer's Whip** and a **Leadership Guidebook**, and the quest "Weapons Training - Leadership".
+- The quest has the same seven steps as every weapon trainer's, by the game's quest table: gain 500, 700, 900,
+  1,100, 1,500, 3,000 and 5,000 experience in Leadership, returning after each. That is 12,700 in all.
+- The rewards are bandages and gold, by the patch of 2024-03-02. Our character never finished a step, so we
+  cannot give the amounts.
+
+Take the trainer even if you do not mean to use the skill, for the free whip. Since 2024 it runs beside your
+weapon trainer's quest.
+
+**How the skill rises.** Three ways are known:
+
+- **By use.** Our log shows 1 point of Leadership experience at the moment a follower joined, which gave the
+  first level, and 1 more during a fight with the follower at our side. How much a tamed creature earns you when
+  it fights we do not know; the trainer's steps of 500 and more suggest it is not always 1.
+- **From the experience pool.** Dragoneer's skill chart of 2024 marks Leadership as a skill the pool can go
+  into. As with any skill, it needs its first level first.
+- **From a mission.** Once in our log, a Lotorian Knight's mission paid its skill experience, 14,277, into
+  Leadership, and the skill went from level 1 to 9 in one step. Other missions paid into Bows or Large Blades.
+  We do not know what decides it.
+
+What a skill level costs is the same for Bows and Carpentry in our own play, and the one Leadership figure we have
+fits the same curve. If Leadership follows it:
+
+| Leadership | Experience in all, about | What it gives |
+|---|---|---|
+| 9 | 12,000 | Where the Valinor trainer's quest leaves you |
+| 10 | 16,500 | Totem of the Bat |
+| 15 | 56,000 | The most any skill can reach on Valinor |
+| 20 | 133,000 | Command Whip |
+| 30 | 450,000 | A second follower. Totem of the Termigon, Totem of the Goblin |
+
+A patron mission pays about 31,000 into the pool at level 16 to 18 and about 77,000 at level 23 to 27 (see
+[The patron](#the-patron-your-main-source-of-levels)). So the second follower costs about six missions' worth of
+pool in your twenties. That pool would otherwise go into your weapon or your magic. Our reading: a mage who
+leans on followers should spend it, an archer may, a warrior should not. The third follower, at Leadership 60,
+is beyond this guide; our own play have no costs past skill level 38.
+
+No quest in the game's quest table gives Leadership experience by name, apart from the trainer's. The guild
+quest "A Leader is Born" is about founding a guild and has nothing to do with the skill.
+
+### What to tame when
+
+How the picks were made. Level and health are from the game's creature table. The damage type and the
+resistances are from AE Database's bestiary, which agrees with Dragoneer's Den on which creatures can be tamed
+for every creature up to level 50. Where a creature lives is from the game's table of what roams where, given
+as a point in the middle of the nearest patch; it roams some way around it. "Hit us for" is what the creature
+did to our own characters in our chat logs, through whatever armor they wore at the time. It compares creatures
+of about the same level and is not what a follower will deal. No source gives a follower's damage.
+
+No source recommends any creature. Every pick is our reading: most health for its level, then a damage type few
+things resist, then how near it stands to a town. Creatures that live only in the expansions are left out below
+level 50.
+
+**Valinor, level 1 to 10**
+
+Every skill stops at 15 on Valinor, so you have one follower here.
+
+| Your level | Tame | Level | Health | Damage | Where | Why |
+|---|---|---|---|---|---|---|
+| 4 | Goblin Worker | 4 | 57 to 66 | Pierce | The goblin camp of "War" and "Proof", south-west (around 712,328) | You are there anyway for the totem |
+| 5 | Small Skeleton | 5 | 65 to 75 | Blunt; hit us for 8 to 14 | Outside the east gate (around 808,296) | Nearest of its level. The Grass Viper (5, 67 to 95) west of town has more health |
+| 6 | Skeletal Pup | 6 | 78 to 90 | Pierce; 5 to 13 | Same ground (around 856,280) | Cannot be poisoned |
+| 7 | Rancid Zombie | 7 | 91 to 105 | Blunt; 8 to 17 | Same ground (around 840,280) | Hits a little harder than the pup |
+| 8 to 10 | **Small Grizzly Bear** | 8 | 104 to 120 | Cut; 5 to 16 | East, by the Crazy Hermit's hut (around 968,136 and 1000,184) and south of it (984,280) | Top of the island's list, and nothing resists it in particular |
+| 8 to 10 | **Skeletal Apprentice** | 8 | 104 to 120 | Blunt, and it casts Soul; 6 to 33 | By BoneSnarl's lair (808,312, 936,312) and inside it | The same health, the hardest single hit of anything on the island in our own play, and it shrugs off a quarter of pierce, cut and arrow damage |
+
+Dragoneer's list for Valinor also has the Dredge Spider and Young Hobgoblin, which live only underground, and a
+"Green Viper" that the game's table calls Grass Viper. It puts the Rancid Zombie at level 6; the game has 7.
+
+Below level 4 a follower has 13 to 45 health and dies to anything. Start at the goblins.
+
+**On arrival, level 8 to 10**
+
+A bear or an apprentice tamed on Valinor does not have to be replaced at once: the best creature of level 10 has
+130 to 150 health against their 104 to 120. Whether a follower crosses with you through the portal from Valinor
+we do not know. If it does not, these are the nearest replacements.
+
+| Town | Tame | Level | Health | Damage | Where | Why |
+|---|---|---|---|---|---|---|
+| Krog | Ram | 8 | 104 to 120 | Blunt; 5 to 19 | In the fields north-west of town, a few steps out (around 3064,3720) | At the gate, and it halves blunt damage |
+| Krog | **Skeleton** | 10 | 130 to 150 | Blunt; 7 to 17 | North of town (around 3080,3640) | Most health of the band; immune to poison, which matters for Schlag |
+| Krog | Skeletal Apprentice | 8 | 104 to 120 | Blunt and Soul; 6 to 33 | West of town (around 2920,3736) | If you liked the one from Valinor |
+| Silvest | **Small Grizzly Bear** | 8 | 104 to 120 | Cut; 5 to 16 | All around town (1048,1320, 1096,1288) | Next to the bank |
+| Silvest | Cultist | 9 | 117 to 135 | Pierce; 7 to 18 | The Cultist Lair, west (around 904,1384) | More health; you go there for "Quite Entranced" |
+| Silvest | Skeleton | 10 | 130 to 150 | Blunt; 7 to 17 | North of town (around 1144,1192) | Most health of the band |
+| Whisperdale | **Small Grizzly Bear** | 8 | 104 to 120 | Cut; 5 to 16 | North-east of town (440,3352, 488,3400) | A few steps from the gate |
+| Whisperdale | Skeletal Apprentice | 8 | 104 to 120 | Blunt and Soul; 6 to 33 | Around Autumn (584,3368) | On the way of "Search for Jhulara" |
+| Whisperdale | Rotten Zombie | 10 | 100 to 120 | Blunt; 17 to 25 | North of Autumn (around 616,3336) | Less health than a Skeleton but the hardest steady hitter of the band in our own play |
+
+**Level 11 to 20**
+
+| Your level | Tame | Level | Health | Damage | Where | Why |
+|---|---|---|---|---|---|---|
+| 12 | **Skeletal Mage** | 12 | 156 to 180 | Blunt, and it casts Soul; 10 to 34 | Krog: west (2904,3752). Whisperdale: around Autumn (584,3368). Silvest: far east (1384,1400) | Three of four of its hits on us were Soul bolts, and it hit hardest of its level. Immune to poison and disease |
+| 12 | Wolf | 12 | 156 to 180 | Pierce | Krog: west of town (3016,3720). Silvest: north (1048,1288). Around Parian in numbers | Fast. The game's table marks it as a berserker |
+| 13 | Zombie | 13 | 169 to 195 | Blunt; 12 to 36 | Krog: far west (2856,3816). Silvest: east (1240,1320) | Landed more than half its blows on our archer, where a Warg landed under a quarter |
+| 15 | **Brown Bear Cub** | 15 | 195 to 225 | Cut; 15 to 26 | Krog: west of town (2984,3784). Whisperdale: north of Autumn (616,3240). Silvest: north-west (936,1224) | Most health at 15, near all three towns |
+| 16 | Thief | 16 | 235 to 285 | Pierce; 13 to 21 | Dawat (3032,3384), where "Hero of Dawat" wants 100 of them. Silvest: the forest north-west | More health than the Goblin (16, 208 to 240), which hits harder (16 to 43) |
+| 17 | **Shadow** | 17 | 221 to 255 | Cut; 10 to 25 | Whisperdale: by the estate north of town (440,3224 to 488,3224). Krog: in the Temple of Agon | Takes a quarter less of every kind of damage and half of blunt, by both the game's table and AE Database. The toughest follower below level 20 |
+| 19 | **Goblin Warrior** | 19 | 272 to 314 | Blunt; 13 to 38 | Krog: Lake Dresta (2968,3688). Silvest: south-east (1272,1480). Whisperdale: south-east of Autumn (712,3352) | Most health below level 20 that all three towns have |
+| 19 | Fighter | 19 | 247 to 285 | Cut | Dawat (3128,3416). Silvest: north (1096,1128) | The pick at Dawat |
+| 20 | Stag | 20 | 260 to 300 | Pierce; 18 to 39 | Everywhere in the open: by Dawat (3224,3368), by Silvest (984,1336), north-east of Krog (3304,3592) | The easiest level 20 creature to find. The Shade (20, 260 to 300, 20 to 45) north of Silvest hits a little harder |
+
+The Astari Spy (18, 260 to 295) and Astari Assassin (20, 260 to 300) are as good as the Goblin Warrior and the
+Stag, and stand north-east of Autumn and in the Temple of Sabal east of Parian.
+
+**Level 21 to 30**
+
+| Your level | Tame | Level | Health | Damage | Where | Why |
+|---|---|---|---|---|---|---|
+| 22 | Shambler | 22 | 286 to 330 | Cut; 22 to 50 | Krog: Vorda Swamp (2824,3720). North-west of Dawat (2856,3384). Whisperdale: by the estate (472,3192) | The first step up from the Stag |
+| 23 | **Brown Bear** | 23 | 299 to 345 | Pierce; 28 to 41 | Around Parian in numbers (3384,3032). Silvest: north (1032,1192). Whisperdale: north of Autumn (616,3240). Krog: far west (2792,3736) | Steady, and near every town. Marked as a berserker by the game's table and by AE Database |
+| 23 | Ghost | 23 | 299 to 345 | Pierce; 18 to 39 | Silvest: the village by Dalvon Mine (1336,1256). The building site of "Haunted House" north-west of Dawat. Mnemmon Gaol | Landed 160 of 167 blows on our archer. Takes a quarter less of nature, soul and mind damage |
+| 26 | **Orc Warmonger** | 26 | 475 to 512 | Blunt; 18 to 71 | Between Krog and Dawat (2952,3480). South-west of Silvest (808,1544) | By far the most health of the band, and the heaviest single blows. Dragoneer's Den and AE Database still give it level 22 and 346 health; the game's table is the newer |
+| 27 | Deep Shadow | 27 | 421 to 486 | Soul; 30 to 56 | Whisperdale: by the estate (440,3224). Silvest: south-east (1320,1448) | Soul damage, where every other pick of the band is physical |
+| 30 | Wild Turkey | 30 | 488 to 563 | Pierce; 17 to 59 | In the open by every town, when they are about (by Dawat 3096,3416) | Dragoneer's Den marks it as an event creature. They were about in October 2026, and landed three of four blows on us |
+
+Also in this band, for those who are there: the Large Fire Ant (25, 325 to 375) at the ant hill south of Krog,
+Pirates (25, 325 to 375) south of Varg, and the Familiar (28, 364 to 420) north of Whisperdale.
+
+**Level 31 to 40**
+
+| Your level | Tame | Level | Health | Damage | Where | Why |
+|---|---|---|---|---|---|---|
+| 32 | Glutton | 32 | 499 to 576 | Blunt; 32 to 45 | Glutton Lake, north of Parian (3480,2776) | Most health at 32, and it drops A Juicy Bone |
+| 32 | Skeleton Wolf | 32 | 416 to 480 | Pierce; 33 to 55 | East of Silvest (1272,1432) | Hits harder than the Glutton; immune to poison and disease |
+| 35 | **Ogre** | 35 | 501 to 578 | Blunt | Beside Ethera Palace (3528,3768). The pond by Arda (3480,3384) | Where "Hooky" sends you for 100 of them, and next to Pegi's boss Umbergon |
+| 37 | Black Death | 37 | 601 to 694 | Cut, with disease; 46 to 62 | East of Parian (3560,2936) | More health than the Ogre and a disease on top |
+| 38 | Deadwillow | 38 | 603 to 695 | Blunt; 39 to 81 | North of Ethera Palace (3544,3608). East of Krog (3208,3704) | The heaviest blows of the band in our own play. As a follower it no longer calls its roots |
+| 40 | **Minotaur** | 40 | 750 to 800 | Cut | North of Dawat (2952,3208, 3096,3128), around the Emporium Abbey | More health than anything else in the band outside the expansions. "Maid Nelly's Locket" and "Minotaur Ambush" are fought here. Do not take the Injured Minotaur (40, 468 to 540) by mistake |
+
+Dragoneer's Den lists the Spectral Orc Forager at 29 and the Footman at 35. The game's table has them at 33 and
+37, so they belong here; they stand in Valekar's Fortress south of Dawat and are weaker than the picks.
+
+**Level 41 to 50**
+
+| Your level | Tame | Level | Health | Damage | Where | Why |
+|---|---|---|---|---|---|---|
+| 40 to 44 | Minotaur | 40 | 750 to 800 | Cut | As above | Nothing in the Highlands beats it before level 45 |
+| 45 | **Spectral Orc Warrior** | 45 | 764 to 882 | Blunt | Valekar's Fortress, south of Dawat (3096,3496), mostly inside | Most health below 50 without an expansion. "Valekar's Fortress" wants 50 of them. Dragoneer's Den lists it at 49 |
+| 48 | Haunting | 48 | 562 to 648 | Soul | East of Parian (3688,2856) | Soul damage, if the creatures you hunt resist blunt |
+| 49 | Hobgoblin | 49 | 637 to 735 | Cut | North-west of Arda (3192,3336) | Where "Shovel Trouble" is fought. Less health than the Spectral Orc Warrior |
+| 50 | Hunter | 50 | 650 to 750 | Cut, with Body | North-east of Parian (3784,2760) | The level 50 creature of the Highlands |
+
+With Talazar's Revenge the snow north of Valmond has better ones: the Ice Golem (43, 727 to 839), the Wolverine
+Scavenger (45, 761 to 878) and the Dire Wolf (50, 845 to 975).
+
+**Beyond 50**
+
+| Your level | Tame | Level | Health | Where |
+|---|---|---|---|---|
+| 52 | Golem | 52 | 1,014 to 1,170 | Battle Plains; between Arda and Parian |
+| 54 | Ettin | 54 | 983 to 1,134 | North-east of Parian |
+| 55 | Ghost Willow | 55 | 858 to 990 | Where "Treasures" is fought, north of Dawat by this guide's Highlands table |
+| 60 | Ghoul | 60 | 1,092 to 1,260 | The north (Talazar's Revenge) |
+| 64 | Lich | 64 | 1,082 to 1,248 | Not near the starting towns; many live underground |
+
+From there Dragoneer's Den lists the bands up to 110: giants in the seventies and eighties, wyverns and
+elementals in the nineties, and the Dragon-keeping "Druid" gear at 105.
+
+**Two that are not for fighting.** A tamed cow can be milked (patch of 2021-09-18), and a tamed sheep gives more
+wool the higher your Leadership (patch of 2021-01-31); both need the Shepherd's Staff. A tamed Wild Camel (28,
+in the Sands of Creation) carries your things, and a hotfix of 2021-07-06 speaks of the tamed camel's "immortal
+status". Dragoneer's Den lists it with the level 21 to 30 band.
+
+### A follower for the guide's bosses
+
+Our reading throughout, from the bosses' numbers in the game's table and AE Database.
+
+| Boss | Its numbers | Tame | Why |
+|---|---|---|---|
+| BoneSnarl, Valinor ("War", the end) | Level 10, 300 health, cut damage. Resists a quarter of pierce, cut and magic; immune to poison | A **Skeletal Apprentice** (8), which the game's table puts inside his lair and on the ground above it (around 808,312) | Its blunt blows are the one physical kind he does not resist, and it takes a quarter less from his cuts. A Small Grizzly Bear deals cut, which he resists |
+| Schlag the Scorpioness, Krog ("Sting Operation") | Level 20, 500 to 650 health, pierce with poison, immune to poison, calls scorpions | A **Skeleton** (10) from north of town, around 3080,3640, a short walk from the pit at 3131,3660; or a Skeletal Mage (12) from the west | Skeletons are immune to poison and take a quarter less pierce. Put it on Attack on Schlag, or it spends itself on the scorpions |
+| Andreev the Quick, Dawat ("Hero of Dawat") | Level 20, 800 health, pierce | A **Fighter** (19) or a Thief (16), both around Dawat | Most health of what stands around him. He hits with pierce, which neither resists |
+| Baneshine, Whisperdale ("The Bane of Whisperdale") | Level 20, 450 to 560 health, nature damage with a soul effect. Resists a quarter of most things | A **Shadow** (17) from west of the estate, the creature of "A Shadow Roams the Lands", which the order has you do right before | It takes a quarter less of nature and soul damage. Baneshine is weak only to arrows and magic missiles, so the damage is yours to do |
+| Umbergon, Ethera Palace ("Pegi's Picnic") | Level 40, 2,500 health, pierce, a berserker | An **Ogre** (35) from beside the palace, or a Minotaur (40) | Health, to last through a long fight |
+
+The pit, the lair and the Marsh Dungeon are entered by a hole or stairs. Tame before you go down and check in
+the follower window that it came with you.
+
+### Followers you summon instead
+
+A summoned follower comes from an item, needs no whip, and can be called again when it dies. It does not get
+the bonuses from your attributes.
+
+**Runecrafted totems.** Made with Runecrafting and a Totem Mold (Carpentry 60, from 15 Enchanted Greater
+Heartwood). Runecrafting is an expansion trade, and these are the work of a level 70 to 90 crafter, so a
+beginner buys one from a player or goes without. Health and level are the creature's in the wild, from the
+game's table.
+
+| Totem | Calls | Leadership needed | Runecrafting to make | Value in the game's table |
+|---|---|---|---|---|
+| Totem of the Bat | A Bat (level 1, 13 to 20 health) | 10 | 70 | 2,100 gold |
+| Totem of the Rat | A Krog Rat (11, 143 to 165) | 18 by AE Database, 19 by Dragoneer's Den | 75 | 1,540 |
+| Totem of the Termigon | A Termigon Warrior (24, 312 to 360) | 30 | 80 | 2,501 |
+| Totem of the Undead Wolf | A Skeleton Wolf (32, 416 to 480) | 40 | 85 | 3,100 |
+| Totem of the Hound | A Hell Hound (38, 445 to 513) | 60 | 90 | 3,900 |
+
+None of these beats what the same character can tame for nothing, as long as the totem's creature has the
+numbers of the wild one. The Bat is a toy.
+
+**Helpers from quests.** These do not fight. They are the reason a crafter raises Leadership.
+
+| Item | What it does | Leadership needed | From |
+|---|---|---|---|
+| Caiman Scale Totem | A caiman that shortens your fishing | 50 | "Fishing for Friends", part 9, "Enduring Kindness", in Khafra. Needs Sands of Creation; the questline asks Fly-casting 60 by part 7 |
+| Totem of the Goblin | A goblin that shortens your planting | 30 | The "Fine Land" farming quests, from Gideon: "You are what you Eat", part 2, by Dragoneer's Den |
+| Pirate Whistle | A Pirate Raider (level 74) that does fight | Unclear, by Dragoneer's Den | "Fishing for Friends", part 12, "A Secret Society" |
+
+**Bought.**
+
+- **VIP pets.** Bought with gold from the VIP Store in Lotor's Summer Palace (763,604 on the map). They follow
+  and do nothing else, by the wiki. Since 2021-09-18 the cow and the chicken cannot be milked or searched either.
+- **The Henchman.** A store item: 10 tokens for six hours of a fighter matched to your level, with a totem to
+  call him back if he dies (patch of 2021-04-08). Up to level 15 you get a level 10 henchman, at 15 to 24 a
+  level 20 one, at 25 to 34 a level 30 one. The game's table gives them 300, 500 and 750 health, twice
+  what the best tameable creature has at level 10 and well above it later. The Henchman Trainer stands in
+  Lotor's Summer Palace (838,706) and in Redwake (430,2866).
+- **The Wizard's Familiar.** A store item that adds 10% to your spells. Since 2022 it only follows.
+
+**People who follow you.** Townsfolk with a golden chalice over their head come with you if you agree to help
+them. They are errands, not fighters: in our log a stray cat in Whisperdale followed our archer, a Green Slime
+killed it, and the errand ended.
+
+**Far beyond level 50**, by Dragoneer's Den and the game's table:
+
+| Item | Calls | Needs |
+|---|---|---|
+| Summon Spectre (a Soul spell) | A spectre matched to your level | Soul 60, no Leadership |
+| Scimitar of the Scorpion | 2 Carrion Feeders | Large Blades 67 |
+| Spellshrieker Sabre | 2 Fungoid Wizards | Large Blades 71 |
+| Gazegouger Bladestaff | 2 Blue Crabs | Polearms 76 |
+| Cedar Staff of the Druid | 2 Basilisks | Mage Weapons 85 |
+| Staff of the River Serpent, Bow of Nature | 2 Pythons; 2 Water Elementals | Skill 100 |
+| Blade of the Ancients, Evil's Accomplice | One strong follower, the only one you may have | Level 100 and 107 |
+| Druid's Staff, with the Druid's Amulet | 2 Wyverns, or a Dragon and a Wyvern | Level 105 and 106, 77 in Strength, Intelligence and Dexterity |
+| Totem of Demonic Control | 2 Hell Spawns | Leadership 100, level 90 by Dragoneer's Den |
+| Totem of Sabal's Children, Cultist's Bloody Orb, Lotor's Summoning Crystal | One end-game follower each | Leadership 100, level 108 |
+| Haunted Hollows Totem, Army of Pumpkins Totem | A Spooky Tree; 3 Pumpkin Slaves | Halloween event. Leadership 10 and 30; level 40 and 70 by Dragoneer's Den (30 and 70 in the patch note of 2022) |
+
+### Gear that raises Leadership
+
+A beginner can get very little of it early, and needs none of it: the first follower asks for no Leadership at
+all. What exists, from the game's item table:
+
+| Item | Leadership | Needs | Where from | Early? |
+|---|---|---|---|---|
+| A Juicy Bone (club, 3 to 11) | +5 | Blunt 5 | Gluttons (32) and Female Gluttons (34) north of Parian, by AE Database | From a friend, or at 30 |
+| Command Whip (tool) | +10 | Leadership 20 | Leatherworking 50 | From a crafter |
+| Legacy Cloak | +10, and +5 to all four attributes | Nothing | A gift to accounts older than the Steam launch | No. It cannot be earned |
+| Words of Binding (tool) | +15 | See [The tools](#the-tools) | The Soul of Beldan, in "Sentimental Value" | Yes, at about 20, with luck |
+| Shield of Arna (armor 32) | +20 | Level 30, Strength 38 | A common drop of creatures of level 16 to 32 by AE Database: Orc Renegades, Shamblers, Swamp Slugs, Familiars, Gluttons and more | At 30, and only with Strength |
+| Shepherd's Staff (polearm, 19 to 38) | +25 | Polearms 25 | See [The tools](#the-tools) | At about 16 to 20 with luck, from Cult Leaders |
+| Hypnotic Chain (neck) | +25, +3 Int, +3 Dex | Level 55 | Mostly creatures of level 54 to 65, by AE Database | No |
+| Cruel Master (blunt, 47 to 72) | +40 | Blunt 75 | In the game's table; no source says where it comes from | No |
+| Frieda's Flayer, Druid's Amulet, Druid's Staff | +40, +25, +100 | Level 100 and more | End-game | No |
+
+The game's table also holds a Bull Whip (+5), Chains of War (+15) and a Stone Stew (+10 Leadership, +10
+Intelligence). No source says where any of them comes from.
+
+Dragoneer's Den says a follower's health counts your Leadership with bonuses. Whether the second follower at 30
+counts bonuses too is not stated. If it does, a Shepherd's Staff and a little skill would be enough.
+
+### What we could not find out about followers
+
+- Whether a follower takes a share of the experience for a kill, or whether a kill made by the follower alone
+  pays you in full. The patch notes only speak of kill counts.
+- How Leadership experience is earned by use, and how much a fight gives. We saw 1 point twice and never tamed
+  anything on our own characters.
+- Whether you can tame any creature in your band of ten levels or only those at or below your own level.
+- Whether taming can fail by chance, whether the creature has to be hurt first, and how fast a Trainer's Whip
+  wears out.
+- Whether the levels 30 and 60 for a second and third follower count Leadership from gear.
+- Whether Leadership follows the same cost per level as Bows and Carpentry. One figure fits; that is all.
+- Why one Lotorian Knight's mission paid its skill experience into Leadership.
+- The amounts of bandages and gold at each step of the Valinor trainer's quest.
+- Whether a follower survives logging out today, and whether it crosses the portal from Valinor.
+- How hard any follower hits. No source gives creature damage; the figures here are what creatures did to us.
+- What the game's "berserker" mark on the Wolf, the Brown Bear and the Brown Bear Cub does when they fight for
+  you.
+- Whether a totem's creature has the health of the wild one, and whether the runecrafted totems fall under the
+  rule of one summoned pet today.
+- Which shops stock the Trainer's Whip and the Leadership Guidebook, and at what price. The guidebook says
+  general stores, the patch note says weapon shops, and our characters bought neither.
+- Whether Words of Binding needs Leadership 35, as the wiki says, or nothing, as its tooltip suggests.
+- Where the Bull Whip, Chains of War, Cruel Master and Stone Stew come from.
+
 ## How far to trust this
 
 The guide was put together in October 2026 from seven sources, and they are not equally sure.
@@ -1196,13 +2988,17 @@ goes to the backpack by itself. Watch your weight: an overloaded character crawl
 
 That is the Leadership skill, and you can use it from the first level.
 
-- Buy a **Trainer's Whip** from a provisioner and use it on a creature to tame it.
+- The Leadership trainer on Valinor gives you a **Trainer's Whip**; shops sell them too. Use it on a creature
+  to tame it.
 - What you can tame goes by **your character's level**; how many by your Leadership: one follower from the
   start, two at Leadership 30, three at 60.
 - `F` opens the follower window. The orders are Protect (it attacks what hurts you), Assist (it attacks your
   target), Attack, Follow, Stay, Guard, Flee and Dismiss.
 - On Valinor you can tame anything up to a Small Grizzly Bear or a Skeletal Apprentice (level 8). A follower is
   what the guides mean when they say to bring help for BoneSnarl.
+
+What to tame at which level, and which follower to bring to which boss, is under
+[Followers](#followers-taming-and-leadership).
 
 ### ... talk to people and get help?
 
@@ -1347,9 +3143,9 @@ do not pour the pool into a skill a Valinor trainer is still training, or it may
 
 A totem is an item you click for an effect that lasts a while.
 
-- **Totem of the Wolf Pup**: faster attacks, for 30 minutes a click. From "Proof" on Valinor, or "Loyal" in
+- **Totem of the Wolf Pup**: attacks 0.2 faster, for 30 minutes a click (by AE Database). From "Proof" on Valinor, or "Loyal" in
   Whisperdale.
-- **Totem of the Wolf**: the next one up, dropped by dire wolves, wolverines and, since 2026, by hobgoblins,
+- **Totem of the Wolf**: 0.3 faster for an hour, dropped by dire wolves, wolverines and, since 2026, by hobgoblins,
   ettins and hunters of level 35 to 50.
 - The others are made with a trade from an expansion, or belong to much higher levels.
 
@@ -1380,6 +3176,9 @@ A skill is learned by using it once, and there is no limit to how many you have.
 (healing potions from the first level, and the ingredients drop on Valinor), **Leatherworking** (a bag at level
 1), and **Carpentry** (arrows, bolts and torches at the bottom, crates later). Fishing has its own line of quests
 in Whisperdale. The pool does not help with any of them.
+
+The trades have chapters of their own: [how they work, and the Taskmasters](#trades-how-they-work),
+[the ones that make gear](#trades-making-gear) and [potions, food, farming and fishing](#trades-potions-food-and-the-rest).
 
 ### Lotor, Talazar, or neither
 
@@ -1417,7 +3216,6 @@ Things this guide would like to say and cannot, because no source says them and 
 - Why "Frump the Cook" was offered to neither of our characters.
 - What the Blacksmith, Carpenter, Leatherworking, Tailor and Cooking trainers give at the end, and what the
   Leadership trainer gives beyond "bandages and gold".
-- How much faster the Totem of the Wolf Pup makes you.
 
 **Krog**
 - Which Orc outpost Agon's Test means, and what attacking the guard costs your standing.
@@ -1458,8 +3256,9 @@ This guide stands on other people's work.
 - **[AE Database](https://www.aedatabase.com)** and its contributors: the bestiary and the list of quest rewards.
 - **The [interactive map](https://gork3n.github.io/ashen-empires-map/openlayers.html)** by gork3n and Sir
   Chris: where banks, gates, portals and shops are.
-- **[Dragoneer's Den](https://aedragoneers.com/)**, a guild's site: the level each of the Trading Mercenary's
-  missions needs, and how followers work.
+- **[Dragoneer's Den](https://aedragoneers.com/)**, a guild's site, with Grat Rochord's pages foremost: the
+  level each of the Trading Mercenary's missions needs, the list of what can be tamed at which level, how
+  followers work, the skill chart and much of what is known about the trades.
 - **Ashen Empires** itself is the work of Iron Will Games. Every name, quest and picture of the game is theirs.
 
 Each picture on these pages names where it comes from and links back to it.
