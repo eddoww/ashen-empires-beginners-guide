@@ -1,0 +1,941 @@
+{
+ "about": "Which wiki page describes which quest, by the quest's name in the game. Read by tools/collect_images.py.",
+ "quests": [
+  {
+   "name": "The Ring",
+   "wiki": {
+    "title": "Sarah's Promise Ring/The Ring"
+   }
+  },
+  {
+   "name": "Our Little Spider Problem",
+   "wiki": {
+    "title": "Our Little Spider Problem"
+   }
+  },
+  {
+   "name": "Proof",
+   "wiki": {
+    "title": "Proof"
+   }
+  },
+  {
+   "name": "Fresh Meat",
+   "wiki": {
+    "title": "Fresh Meat"
+   }
+  },
+  {
+   "name": "Frump the Cook",
+   "wiki": {
+    "title": "Frump the Cook"
+   }
+  },
+  {
+   "name": "Strange Fascination",
+   "wiki": {
+    "title": "Strange Fascination"
+   }
+  },
+  {
+   "name": "Cloaks to Die For",
+   "wiki": {
+    "title": "Cloaks to Die For"
+   }
+  },
+  {
+   "name": "War",
+   "wiki": {
+    "title": "War"
+   }
+  },
+  {
+   "name": "Curtis's Secret",
+   "wiki": {
+    "title": "Curtis's Secret"
+   }
+  },
+  {
+   "name": "Kumba's Pendant",
+   "wiki": {
+    "title": "Kumba's Pendant"
+   }
+  },
+  {
+   "name": "The Necklace",
+   "wiki": {
+    "title": "The Necklace"
+   }
+  },
+  {
+   "name": "Strange Request",
+   "wiki": {
+    "title": "Strange Request"
+   }
+  },
+  {
+   "name": "Davey's Rattle",
+   "wiki": {
+    "title": "Davey's Rattle"
+   }
+  },
+  {
+   "name": "A Goblin Problem",
+   "wiki": {
+    "title": "A Goblin Problem"
+   }
+  },
+  {
+   "name": "Ancient Magic",
+   "wiki": {
+    "title": "Ancient Magic"
+   }
+  },
+  {
+   "name": "Veratti",
+   "wiki": {
+    "title": "Veratti"
+   }
+  },
+  {
+   "name": "The Alchemist's Apprentice",
+   "wiki": {
+    "title": "The Alchemist Apprentice"
+   }
+  },
+  {
+   "name": "Hell Hath No Fury",
+   "wiki": {
+    "title": "Hell Hath No Fury"
+   }
+  },
+  {
+   "name": "Creatures of Dransik",
+   "wiki": {
+    "title": "Creatures of Dransik"
+   }
+  },
+  {
+   "name": "Struggling",
+   "wiki": {
+    "title": "Struggling"
+   }
+  },
+  {
+   "name": "Valekar's Fortress",
+   "wiki": {
+    "title": "Valekar's Fortress"
+   }
+  },
+  {
+   "name": "Hooky",
+   "wiki": {
+    "title": "Hooky"
+   }
+  },
+  {
+   "name": "Sentimental Value",
+   "wiki": {
+    "title": "Sentimental Value"
+   }
+  },
+  {
+   "name": "Noisy Neighbors",
+   "wiki": {
+    "title": "Noisy Neighbors"
+   }
+  },
+  {
+   "name": "Secret City",
+   "wiki": {
+    "title": "Secret City"
+   }
+  },
+  {
+   "name": "Nothing Good",
+   "wiki": {
+    "title": "Nothing Good"
+   }
+  },
+  {
+   "name": "It STANKS",
+   "wiki": {
+    "title": "It Stanks"
+   }
+  },
+  {
+   "name": "For Those Who Are Brave",
+   "wiki": {
+    "title": "For Those Who Are Brave"
+   }
+  },
+  {
+   "name": "Invasion",
+   "wiki": {
+    "title": "Invasion"
+   }
+  },
+  {
+   "name": "A Miscalculation",
+   "wiki": {
+    "title": "A Miscalculation"
+   }
+  },
+  {
+   "name": "Green Teeth",
+   "wiki": {
+    "title": "Green Teeth"
+   }
+  },
+  {
+   "name": "Dalvon's Undead",
+   "wiki": {
+    "title": "Dalvon's Undead"
+   }
+  },
+  {
+   "name": "Gem Thieves",
+   "wiki": {
+    "title": "Gem Thieves"
+   }
+  },
+  {
+   "name": "Supply Problems",
+   "wiki": {
+    "title": "Supply Problems"
+   }
+  },
+  {
+   "name": "Lloyd the Loyal",
+   "wiki": {
+    "title": "Lloyd the Loyal"
+   }
+  },
+  {
+   "name": "Pegi's Picnic",
+   "wiki": {
+    "title": "Pegis Picnic"
+   }
+  },
+  {
+   "name": "Desire, Devotion, Dedication",
+   "wiki": {
+    "title": "Desire, Devotion, Dedication"
+   }
+  },
+  {
+   "name": "Nothing to It",
+   "wiki": {
+    "title": "Nothing to it"
+   }
+  },
+  {
+   "name": "Pit of Despair",
+   "wiki": {
+    "title": "Pit of Despair"
+   }
+  },
+  {
+   "name": "A Trade",
+   "wiki": {
+    "title": "A Trade"
+   }
+  },
+  {
+   "name": "The Art of Combat",
+   "wiki": {
+    "title": "The Art of Combat"
+   }
+  },
+  {
+   "name": "Honor in Battle",
+   "wiki": {
+    "title": "Honor in Battle"
+   }
+  },
+  {
+   "name": "Stay Back",
+   "wiki": {
+    "title": "Stay Back"
+   }
+  },
+  {
+   "name": "Keep it Sharp",
+   "wiki": {
+    "title": "Keep it Sharp"
+   }
+  },
+  {
+   "name": "Sting Operation",
+   "wiki": {
+    "title": "Sting Operation"
+   }
+  },
+  {
+   "name": "Agon's Hand",
+   "wiki": {
+    "title": "Agon's Hand"
+   }
+  },
+  {
+   "name": "Shiny Things",
+   "wiki": {
+    "title": "Shiny Things"
+   }
+  },
+  {
+   "name": "Hole of Tears",
+   "wiki": {
+    "title": "Hole of Tears"
+   }
+  },
+  {
+   "name": "Agon's Test",
+   "wiki": {
+    "title": "Agon's Test"
+   }
+  },
+  {
+   "name": "The Ways of Mining",
+   "wiki": {
+    "title": "The Ways of Mining"
+   }
+  },
+  {
+   "name": "Fellow Archer",
+   "wiki": {
+    "title": "Fellow Archer"
+   }
+  },
+  {
+   "name": "In Service to the Great One",
+   "wiki": {
+    "title": "In Service to the Great One"
+   }
+  },
+  {
+   "name": "To Take No Side",
+   "wiki": {
+    "title": "To Take No Side"
+   }
+  },
+  {
+   "name": "To Take No Side",
+   "wiki": {
+    "title": "To Take No Side"
+   }
+  },
+  {
+   "name": "Crypt of Lotor",
+   "wiki": {
+    "title": "Crypt of Lotor"
+   }
+  },
+  {
+   "name": "Royal Relic",
+   "wiki": {
+    "title": "Royal Relic"
+   }
+  },
+  {
+   "name": "The Dig Went Bad",
+   "wiki": {
+    "title": "The Dig Went Bad"
+   }
+  },
+  {
+   "name": "Sink the Slavers",
+   "wiki": {
+    "title": "Sink the Slavers"
+   }
+  },
+  {
+   "name": "Save Our Ships!",
+   "wiki": {
+    "title": "Save Our Ships"
+   }
+  },
+  {
+   "name": "Looted Dry",
+   "wiki": {
+    "title": "Looted Dry"
+   }
+  },
+  {
+   "name": "Celis's Secret",
+   "wiki": {
+    "title": "Celis's Secret"
+   }
+  },
+  {
+   "name": "Mushroom Land",
+   "wiki": {
+    "title": "Mushroom Land Quest"
+   }
+  },
+  {
+   "name": "Bells of Arna",
+   "wiki": {
+    "title": "Bells of Arna"
+   }
+  },
+  {
+   "name": "Shipwreck",
+   "wiki": {
+    "title": "Shipwreck"
+   }
+  },
+  {
+   "name": "Stop the Ocean Motion",
+   "wiki": {
+    "title": "Stop the Ocean Motion"
+   }
+  },
+  {
+   "name": "Evil Designs",
+   "wiki": {
+    "title": "Evil Designs"
+   }
+  },
+  {
+   "name": "Spies",
+   "wiki": {
+    "title": "Spies"
+   }
+  },
+  {
+   "name": "Chaffed",
+   "wiki": {
+    "title": "Chaffed"
+   }
+  },
+  {
+   "name": "Experiments",
+   "wiki": {
+    "title": "Experiments"
+   }
+  },
+  {
+   "name": "Mauled",
+   "wiki": {
+    "title": "Mauled"
+   }
+  },
+  {
+   "name": "The Trouble with Pirates",
+   "wiki": {
+    "title": "The Trouble With Pirates"
+   }
+  },
+  {
+   "name": "Fool's Errand",
+   "wiki": {
+    "title": "Fool's Errand"
+   }
+  },
+  {
+   "name": "Sailor's Bet",
+   "wiki": {
+    "title": "Sailor's Bet"
+   }
+  },
+  {
+   "name": "Dark Water Pirates",
+   "wiki": {
+    "title": "Dark Water Pirates"
+   }
+  },
+  {
+   "name": "Half Empty or Half Full?",
+   "wiki": {
+    "title": "Half Empty or Half Full"
+   }
+  },
+  {
+   "name": "Crabby",
+   "wiki": {
+    "title": "Crabby"
+   }
+  },
+  {
+   "name": "Steel and Salt",
+   "wiki": {
+    "title": "Steel and Salt"
+   }
+  },
+  {
+   "name": "Business is Booming",
+   "wiki": {
+    "title": "Business is Booming"
+   }
+  },
+  {
+   "name": "Craftsmanship",
+   "wiki": {
+    "title": "Craftsmanship"
+   }
+  },
+  {
+   "name": "Empty Nester",
+   "wiki": {
+    "title": "Empty Nester"
+   }
+  },
+  {
+   "name": "Moklad is Missing",
+   "wiki": {
+    "title": "Moklad is Missing"
+   }
+  },
+  {
+   "name": "The Attack",
+   "wiki": {
+    "title": "The Attack"
+   }
+  },
+  {
+   "name": "Quite Entranced",
+   "wiki": {
+    "title": "Quite Entranced"
+   }
+  },
+  {
+   "name": "Of Kobolds",
+   "wiki": {
+    "title": "Of Kobolds"
+   }
+  },
+  {
+   "name": "Spice It Up",
+   "wiki": {
+    "title": "Spice It Up"
+   }
+  },
+  {
+   "name": "The Wisdom of Wizards",
+   "wiki": {
+    "title": "The Wisdom of Wizards"
+   }
+  },
+  {
+   "name": "Fine Land",
+   "wiki": {
+    "title": "Fine Land"
+   }
+  },
+  {
+   "name": "Hemrich's Test",
+   "wiki": {
+    "title": "Hemrich's Test"
+   }
+  },
+  {
+   "name": "Hemrich's Test",
+   "wiki": {
+    "title": "Hemrich's Test"
+   }
+  },
+  {
+   "name": "Hemrich's Test",
+   "wiki": {
+    "title": "Hemrich's Test"
+   }
+  },
+  {
+   "name": "Save the Family Farm",
+   "wiki": {
+    "title": "Save the Family Farm"
+   }
+  },
+  {
+   "name": "Clear the Room",
+   "wiki": {
+    "title": "Clear the Room"
+   }
+  },
+  {
+   "name": "Return to Hell",
+   "wiki": {
+    "title": "Return to Hell"
+   }
+  },
+  {
+   "name": "Termigon Armor",
+   "wiki": {
+    "title": "Termigon Armor"
+   }
+  },
+  {
+   "name": "Advanced Ranger Training",
+   "wiki": {
+    "title": "Advanced Ranger Training"
+   }
+  },
+  {
+   "name": "Search for Jhulara",
+   "wiki": {
+    "title": "Search for Jhulara"
+   }
+  },
+  {
+   "name": "Loyal",
+   "wiki": {
+    "title": "Loyal"
+   }
+  },
+  {
+   "name": "The Bane of Whisperdale",
+   "wiki": {
+    "title": "The Bane of Whisperdale"
+   }
+  },
+  {
+   "name": "Fishing for Friends",
+   "wiki": {
+    "title": "Fishing for Friends"
+   }
+  },
+  {
+   "name": "Revenge",
+   "wiki": {
+    "title": "Revenge"
+   }
+  },
+  {
+   "name": "Squid Pro Quo",
+   "wiki": {
+    "title": "Squid Pro Quo"
+   }
+  },
+  {
+   "name": "Enterprising Gentlemen",
+   "wiki": {
+    "title": "Enterprising Gentlemen"
+   }
+  },
+  {
+   "name": "S.C.A.B.",
+   "wiki": {
+    "title": "SCAB"
+   }
+  },
+  {
+   "name": "Gorillas Gone Wild",
+   "wiki": {
+    "title": "Gorillas Gone Wild"
+   }
+  },
+  {
+   "name": "Fine Taste",
+   "wiki": {
+    "title": "Fine Taste"
+   }
+  },
+  {
+   "name": "X Marks the Spot",
+   "wiki": {
+    "title": "X Marks the Spot"
+   }
+  },
+  {
+   "name": "Avenge Plank!",
+   "wiki": {
+    "title": "Avenge Plank"
+   }
+  },
+  {
+   "name": "Gathering Gloom",
+   "wiki": {
+    "title": "Gathering Gloom"
+   }
+  },
+  {
+   "name": "Craftmanship",
+   "wiki": {
+    "title": "Craftmanship"
+   }
+  },
+  {
+   "name": "How Do They Do It",
+   "wiki": {
+    "title": "How They Do It"
+   }
+  },
+  {
+   "name": "Jaws of Thunder",
+   "wiki": {
+    "title": "Jaws of Thunder"
+   }
+  },
+  {
+   "name": "Goblish Ingenuity",
+   "wiki": {
+    "title": "Goblish Ingenuity"
+   }
+  },
+  {
+   "name": "To Remember Him By",
+   "wiki": {
+    "title": "To Remember Him By"
+   }
+  },
+  {
+   "name": "Proof of Loyalty",
+   "wiki": {
+    "title": "Proof of Loyalty"
+   }
+  },
+  {
+   "name": "Oyster Chowder",
+   "wiki": {
+    "title": "Oyster Chowder"
+   }
+  },
+  {
+   "name": "Nautical Knowhow",
+   "wiki": {
+    "title": "Nautical Knowhow"
+   }
+  },
+  {
+   "name": "Master of the art",
+   "wiki": {
+    "title": "Master of the Art"
+   }
+  },
+  {
+   "name": "Shadows of the Past",
+   "wiki": {
+    "title": "Shadows of the Past"
+   }
+  },
+  {
+   "name": "Pure Energy",
+   "wiki": {
+    "title": "Pure Energy"
+   }
+  },
+  {
+   "name": "Revenge",
+   "wiki": {
+    "title": "Cadence's Bauble"
+   }
+  },
+  {
+   "name": "Talazarian Infiltrators",
+   "wiki": {
+    "title": "Talazarian Infiltrators Quest"
+   }
+  },
+  {
+   "name": "The Power of Sight",
+   "wiki": {
+    "title": "The Power of Sight Quest"
+   }
+  },
+  {
+   "name": "Scorched Earth",
+   "wiki": {
+    "title": "Scorched Earth"
+   }
+  },
+  {
+   "name": "Of a Venomous Spirit",
+   "wiki": {
+    "title": "Of a Venomous Spirit"
+   }
+  },
+  {
+   "name": "Artraxis the Elder",
+   "wiki": {
+    "title": "Artraxis The Elder"
+   }
+  },
+  {
+   "name": "Punish Them",
+   "wiki": {
+    "title": "Punish Them"
+   }
+  },
+  {
+   "name": "Unusual Science",
+   "wiki": {
+    "title": "Unusual Science"
+   }
+  },
+  {
+   "name": "Death Draws Closer",
+   "wiki": {
+    "title": "Death Draws Closer"
+   }
+  },
+  {
+   "name": "For My Pleasure",
+   "wiki": {
+    "title": "For My Pleasure"
+   }
+  },
+  {
+   "name": "Artonian Uprising",
+   "wiki": {
+    "title": "Artonian Uprising"
+   }
+  },
+  {
+   "name": "Cleansed of Fire",
+   "wiki": {
+    "title": "Cleansed of Fire"
+   }
+  },
+  {
+   "name": "Ravenous Swarm",
+   "wiki": {
+    "title": "Ravenous Swarm"
+   }
+  },
+  {
+   "name": "A Man of Little Time",
+   "wiki": {
+    "title": "A Man of Little Time"
+   }
+  },
+  {
+   "name": "A Good Deal",
+   "wiki": {
+    "title": "A Good Deal"
+   }
+  },
+  {
+   "name": "A Memorial",
+   "wiki": {
+    "title": "A Memorial"
+   }
+  },
+  {
+   "name": "Toxic Blood",
+   "wiki": {
+    "title": "Toxic Blood"
+   }
+  },
+  {
+   "name": "Latest Fascination",
+   "wiki": {
+    "title": "Latest Fascination"
+   }
+  },
+  {
+   "name": "Small Favors",
+   "wiki": {
+    "title": "Small Favors"
+   }
+  },
+  {
+   "name": "Waylaid",
+   "wiki": {
+    "title": "Waylaid"
+   }
+  },
+  {
+   "name": "Poor Mataarzal",
+   "wiki": {
+    "title": "Poor Mataarzal"
+   }
+  },
+  {
+   "name": "Riches",
+   "wiki": {
+    "title": "Riches"
+   }
+  },
+  {
+   "name": "Forged in Fire",
+   "wiki": {
+    "title": "Forged in Fire"
+   }
+  },
+  {
+   "name": "Ancient Technology",
+   "wiki": {
+    "title": "Ancient Technology"
+   }
+  },
+  {
+   "name": "Snakes",
+   "wiki": {
+    "title": "Snakes"
+   }
+  },
+  {
+   "name": "An Expert",
+   "wiki": {
+    "title": "An Expert"
+   }
+  },
+  {
+   "name": "Lost",
+   "wiki": {
+    "title": "Lost"
+   }
+  },
+  {
+   "name": "Frightened",
+   "wiki": {
+    "title": "Frightened"
+   }
+  },
+  {
+   "name": "Quickly",
+   "wiki": {
+    "title": "Quickly"
+   }
+  },
+  {
+   "name": "Pollution Problem",
+   "wiki": {
+    "title": "Pollution Problem"
+   }
+  },
+  {
+   "name": "New Design",
+   "wiki": {
+    "title": "New Design"
+   }
+  },
+  {
+   "name": "A Problem of Supply",
+   "wiki": {
+    "title": "A Problem of Supply"
+   }
+  },
+  {
+   "name": "Garkel's Glasses",
+   "wiki": {
+    "title": "Garkel's Glasses"
+   }
+  },
+  {
+   "name": "Dirty Work",
+   "wiki": {
+    "title": "Dirty Work"
+   }
+  },
+  {
+   "name": "The Midnight Warrior",
+   "wiki": {
+    "title": "Midnight Warrior"
+   }
+  },
+  {
+   "name": "Ancient Tongue",
+   "wiki": {
+    "title": "Ancient Tongue"
+   }
+  },
+  {
+   "name": "Abominations",
+   "wiki": {
+    "title": "Abominations"
+   }
+  }
+ ]
+}
