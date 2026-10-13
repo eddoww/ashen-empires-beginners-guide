@@ -31,7 +31,10 @@ PAGES = [
     ("gear", "Portal trips and gear", ["Worth a portal trip, whichever town you chose",
                                        "What to wear from level 8 to 25"]),
     ("after", "After level 25", ["After your starting region"]),
+    ("level40", "Level 40 and the expansions", ["Level 40 on: the Trading Mercenary",
+                                                "The expansions: what each one opens"]),
     ("basics", "Things to know", ["Things a beginner has to know"]),
+    ("howto", "How do I ...?", ["How do I ...?"]),
     ("about", "Sources and credits", ["How far to trust this", "What nobody could tell us", "Credits"]),
 ]
 

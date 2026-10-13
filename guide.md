@@ -8,7 +8,7 @@ It is written for somebody who has never played. If you only want the order, rea
 
 ## How far to trust this
 
-The guide was put together in October 2026 from six sources, and they are not equally sure.
+The guide was put together in October 2026 from seven sources, and they are not equally sure.
 
 | Source | What it is | Used for |
 |---|---|---|
@@ -17,6 +17,7 @@ The guide was put together in October 2026 from six sources, and they are not eq
 | [Ashen Empires Wiki](https://ashenempires.fandom.com/wiki/Quests) | A page for most quests, the patch notes of 2020 to 2026 | Steps, coordinates, what changed since the guides were written |
 | [AE Database](https://www.aedatabase.com) | A players' database: the bestiary, the list of quest rewards | A second opinion on creature levels and on what each reward is, which slot it takes and from which level it is worn |
 | The community map | 1,308 markers | Where banks, gates, portals and shops are |
+| [Dragoneer's Den](https://aedragoneers.com/) | A guild's own pages | The Trading Mercenary's level requirements, followers |
 | Our own play | Two characters run through Valinor, one archer played from level 10 to 35 in Whisperdale, with the game's chat logs | What the game says today |
 
 Where they disagree, the game's data wins on what it holds, the newest patch note wins on rules, and our own logs
@@ -66,9 +67,10 @@ aeguides Images/Maps/Lotors_Summer_Palace_Portal.png | Lotor's Summer Palace, th
 | 15 to 20 | The edges of your region | The level 14 to 20 quests; the trainer quests of your weapon or magic; the first pieces of the patron set |
 | 20 to 25 | Your region's dungeons, and the two other towns by portal | Put on the level 20 gear you earned; the bosses; the best quests of the other two towns |
 | 25 to 30 | Wherever the patron sends you | Patron missions, the last hard quests of the region, then the Highlands |
-| 30 to 50 | Highlands, the rest of Krythan, Gulley | See [After your starting region](#after-your-starting-region) |
+| 30 to 40 | Highlands, the rest of Krythan, Gulley | See [After your starting region](#after-your-starting-region) |
+| 40 on | Anywhere, for the Trading Mercenary in Roycroft | With the Tides of Fate expansion: his kill missions, the best experience in the game. See [Level 40 on](#level-40-on-the-trading-mercenary) |
 
-Five things matter more than any single quest:
+Six things matter more than any single quest:
 
 1. **Get the Totem of the Wolf Pup before you leave Valinor.** It speeds up your attacks and costs about 25
    goblins. There is a way to get it later, but it is a detour.
@@ -78,6 +80,8 @@ Five things matter more than any single quest:
    game below level 50 and it pays for your armor.
 5. **You are not tied to your town.** A free portal network joins the three towns, and each has a few quests that
    are worth the trip for anyone.
+6. **At level 40, go to the Trading Mercenary** if you have the Tides of Fate expansion. From then on his
+   missions are how you level.
 
 ## Before you start: build and town
 
@@ -939,7 +943,7 @@ Three of these deserve a word.
 | 10 to 20 | Your starting region, with a trip to Dawat for Friend of the Earth | The patron pays most; the Terra piece is worn at 10 |
 | 20 to 30 | Dawat and Parian; the best quests of the other two towns; Gulley's "Break In" (Thieves of level 16, 25,000 gold) | Creatures of 9 to 24; Parian's portal makes it a second home |
 | 30 to 40 | Ethera Palace, Arda's ogres, the rest of Krythan (pirates at 25, Vrethpool at 22 to 33) | Ogres 35, Umbergon 40 |
-| 40 to 50 | The Abbey, Valekar's Fortress, the hobgoblins | Creatures of 40 to 55 |
+| 40 to 50 | The same lands, on [the Trading Mercenary's missions](#level-40-on-the-trading-mercenary) if you have Tides of Fate; the Abbey, Valekar's Fortress, the hobgoblins | Creatures of 40 to 55, and his missions pay best of all |
 | 50 on | The Parian Warlords; then the expansions | See below |
 
 ### The rest of the world, in one table
@@ -959,6 +963,316 @@ are, so that you know what you are not missing.
 
 The game's quest log sometimes shows a far higher or lower tier than a quest deserves, and it lets you take
 quests far too early. "Apprentice" on a quest whose boss is level 60 means nothing; look at what you fight.
+
+## Level 40 on: the Trading Mercenary
+
+**From level 40, if you own the Tides of Fate expansion, stop leveling any other way.** The Dransik Trading
+Mercenary hands out kill missions that pay more experience, and more experience pool, than anything else in the
+game. Players call them DTMs, and from 40 to the level cap they are how people level.
+
+A mission is simple: you pick a **kind** of creature from his list (undead, giants, insects and so on), he names a
+number, you kill that many of any creature of that kind, wherever you like, and come back. Then you take another.
+
+### What you need
+
+| | |
+|---|---|
+| Level 40 | The lowest level he deals with, since a patch of March 2024 |
+| Tides of Fate | 150 tokens in the store (`/store`), about 7.50 US dollars. He stands on islands only this expansion lets you sail to |
+| A boat | A raft is free, see below |
+| Better with: Talazar's Revenge | 100 tokens. It gives you the short sea route from Valmond and the Soulstone that makes the round trip fast |
+
+### Getting there the first time
+
+1. **Get the free raft.** In Lotor's Summer Palace, go into the throne room building; the "Tides of Fate Raft
+   Offer" man stands in its top right corner (792,593). There is a second one in Redwake.
+2. **Put to sea.** Click the raft in your backpack to equip it. Stand next to a dock's ship bell and the water,
+   click the bell, then click the water. Your character screen (`E`) now shows the boat.
+3. **Sail to Roycroft.** The known route starts at the west dock of Valmond: sail straight south until you are
+   level with Roycroft, then straight west to its docks. Valmond is reached by its portal in Lotor's Summer
+   Palace, which needs Talazar's Revenge. A raft has no guns, so steer around whatever swims.
+4. **Click Roycroft's spawn gate**, and find the Dransik Trading Mercenary in his building near the middle of
+   town (2477,2439). The bank is next door (2460,2438), the innkeeper at 2497,2421. A second mercenary stands in
+   Newtown (1898,1950), on its own island to the north-west.
+
+Without Talazar's Revenge you have to sail from a dock of the old world instead. Going by the map, Josody's
+dock (1406,2518) lies due west of Roycroft across open sea. We have not sailed it; ask in the Help channel before
+you set out.
+
+### The loop
+
+1. Take a mission.
+2. Leave the island: a Scroll of Return or the Stone of your town takes you back to the mainland in one click.
+3. Kill.
+4. Come back and hand it in. With a **Soulstone** this is one click too: buy one in the mage shop of Valmond
+   (25,000 to 30,000 gold, Talazar's Revenge), bind it to the innkeeper of Roycroft, and using it brings you
+   there. Without one, it is the portal and the boat each time.
+
+### Choosing the mission
+
+| Kind | From level | Kind | From level |
+|---|---|---|---|
+| Animals | 40 | Giants | 45 |
+| Kobolds | 40 | Sea Creatures | 50 |
+| Goblins | 40 | Fungoids | 50 |
+| Undead | 40 | Werewolves | 60 |
+| Vermin | 40 | Wyverns | 60 |
+| Humanoids | 40 | Elementals | 65 |
+| Insects | 40 | Demons | 75 |
+| Minotaurs | 40 | Dragons | 85 |
+
+- **Not all kinds pay alike.** By the patch notes, dragons, demons and elementals pay best and kobolds and
+  goblins worst; the others were raised in 2021 and sit between.
+- **You can ask for a harder mission.** It means many more kills and a good deal more experience. Worth it when
+  you mean to stay out for a while.
+- **You can cancel** at the mercenary with no penalty on the next mission, but what you killed so far is lost
+  and pays nothing.
+- **Subscribers (VIP) are offered larger missions.** From level 105 a mission pays half as much again.
+- Each kill that counts is printed in the chat, so you see at once whether a creature is of the right kind.
+
+### What to hunt at 40 to 55
+
+Pick the kind whose creatures you can kill fast at your level, and take along the one-off quests that want the
+same creatures. Creature kinds are as AE Database files them.
+
+| Kind | Creatures of about your level | Goes with |
+|---|---|---|
+| Undead | Spectral Orcs (33 to 47) in Valekar's Fortress south of Dawat; Raging Spirits (38) in the Valley of the Dead east of Silvest; Mummies (44) under Jeel | "Valekar's Fortress" in Arda |
+| Minotaurs | Minotaurs and Injured Minotaurs (40) around the Emporium Abbey | "Maid Nelly's Locket" and "Minotaur Ambush": the speed boots and 20 healing potions |
+| Giants (from 45) | Ogres (35) at the pond by Arda; Golems (52); Ettins (54) | "Hooky" in Arda |
+| Humanoids | Gluttons (32) at Glutton Lake; Talazarian Warriors (33) south of Vrethpool; Hunters (50) east of Parian | "Clear the Room" in Vrethpool |
+| Insects | Wasps (32) and Wasp Warriors (47) at the hive near Hothbra; Termigon Warriors (24) in the cave by Ethera Palace | "Pegi's Picnic"; "Honey for Money" |
+| Animals | Wolverines (40), Dire Wolves (50), in the snow north of Valmond | Needs Talazar's Revenge |
+
+Three kill quests can run side by side as far as we know: the mercenary's, your town patron's, and a Lotorian
+Knight's (the knights stand in the halls of the large towns and give the same sort of mission). When two of them
+want the same creature, every kill counts twice.
+
+What we could not find out: how many kills a mission asks for at 40, what one pays, and whether a creature far
+below your level still counts.
+
+### If you do not have the expansion
+
+Then nothing changes at 40. Your patron pays well up to level 50, the Lotorian Knights have missions at any
+level, and the Highlands have quests into the 50s. The game is free up to level 100.
+
+## The expansions: what each one opens
+
+The base game costs nothing and, by the game's own help, is free to play through level 100. Four expansions are
+sold in the in-game store (`/store`, or `F11`) for **tokens**, which are bought through Steam at 5 US cents each.
+A new account has to wait a week before it can buy tokens. Prices are the wiki's and may have changed.
+
+| Expansion | Tokens | What it opens | Worth it for a beginner |
+|---|---|---|---|
+| Tides of Fate | 150 | The sea, boats, the islands of Roycroft, Newtown and New Royale, the Trading Mercenary. Level cap 110. Feats from level 100 | **Yes, at 40**, for the mercenary |
+| Talazar's Revenge | 100 | The snow lands north of Valmond. Soulstones. Jewelry Making and the salvage skills. Level cap 105. The Chaos Knights. Six advanced combat skills | At 40 with Tides of Fate, for the Soulstone and the short way to Roycroft. Its own land is for level 60 and up |
+| Sands of Creation | 100 | The deserts of Khafra and Rahura. Runecrafting, which makes totems. Level cap 108 | Not before 70, except a handful of early quests around Khafra |
+| Construction | 100 | Building a house or a guild hall. Needs Sands of Creation, and a subscription to keep the house | No |
+| All four together | 400 | | Cheaper than the four bought singly (450) |
+
+A **subscription (VIP)** is separate: 120 tokens for a month, 345 for three, 660 for six. It gives 10% more
+experience, four more places in the backpack, a shared bank between your characters, automatic looting when
+alone, larger mercenary missions and a stone that returns you to Lotor's Summer Palace.
+
+### Tides of Fate: boats
+
+::: pictures
+wiki How to Sail.PNG | What the game tells you about sailing | Nautical_Knowhow
+wiki Boat Equipment.PNG | The boat's own equipment screen | Nautical_Knowhow
+wiki Patchwork Sail.PNG | The Patchwork Sail | Nautical_Knowhow
+wiki Boat Deed.PNG | A boat is a deed in your backpack | Half_Empty_or_Half_Full
+wiki Swivel Gun.PNG | A Swivel Gun | Steel_and_Salt
+:::
+
+| What | How |
+|---|---|
+| A raft | Free, from the "Tides of Fate Raft Offer" man in the throne room building of Lotor's Summer Palace (792,593) |
+| A sail | "Nautical Knowhow": Captain Rictor at the west dock of Valmond sends you to Quartermaster Loyric at the southern dock of Roycroft and back. Gives a **Patchwork Sail**, and a large reward of experience pool. Needs Talazar's Revenge as well. Without a sail a boat is painfully slow |
+| A real ship, free | "Half Empty or Half Full?": the Warehouse Foreman in the north of Roycroft. Under the town: 20 barrels with Drunken Dwarves (level 16) and 50 Sewer Rats (23); north of town 100 Goblin Pirates (25) and the boss Goba Longblade (30, 1,800 health). Gives a **Junk** |
+| A real ship, bought | A Junk costs 250,000 gold from Larson Davide, who stands beside the raft man, or at any shipyard |
+| Guns | "Steel and Salt": Ovathan Hudsal, the smith in the north-west of Roycroft. Skeleton Pirates (48) on New Royale. Gives a **Swivel Gun** and shot. Choose the answer about making the seas safer |
+| Repair kits | "Business is Booming": Idasha Motopolis in Roycroft's carpentry shop, after Steel and Salt |
+
+How the sea works, in short:
+
+- **Launching**: equip the boat, stand by a dock's bell and the water, click the bell, then the water.
+- **Three skills** belong to it: Sailing (speed and the boat's health), Cannoneering (hitting) and Boat Repair.
+  None of them can be fed from the experience pool. At sea they matter more than your character's level.
+- **Fighting** works like archery: enter attack mode (`Q`), click the creature, and every gun fires.
+- **Dying at sea** damages the boat, not your gear, and you wake at your spawn gate as on land.
+- **Buoys and floating wreckage** give Sailing experience for a click. Click every one you pass.
+
+Roycroft also has three of the best rewards a character below 50 can get, all with no requirement to wear them:
+"Strange Behavior" (Crocker, in the basement of the guard house: **Jenkin's Boots**, +8 Str +8 Dex +5 Int +5 Con
++25 health, for Goblin Pirates of level 25), "Fool's Errand" (Wesley, in the Salty Dog tavern: **Eva's Necklace**,
++8 Con +40 health, for a delivery to Autumn and Whisperdale) and the Junk above.
+
+### Talazar's Revenge: the north
+
+- **Getting there**: the Valmond portal in Lotor's Summer Palace.
+- **The Soulstone**: sold in the mage shop of Valmond. Bind it to any innkeeper in the world; using it brings
+  you back to that inn. It is the most useful travel item in the game.
+- **"Proof of Loyalty"**: Councilor Draneth, in the Council Hall in the south of Valmond. 100 Talazarian Reavers
+  (level 55) and 100 Shadow Priests (52). It opens the door of Farstead Keep, behind which lies the rest of the
+  north, and gives the Alliance Insignia (a ring, +4 to all four, +25 health, level 40). A job for 45 to 50.
+- **Early rewards** in Valmond and Teylan that need little fighting: the Blessed Amulet of Isos ("Misplaced",
+  +8 Con, level 30), the Ring of Health ("Strange Plants", +35 health, level 40, needs Foraging 45), a Casting
+  Pole ("Oyster Chowder").
+- **Advanced combat skills**: Block, Dodge, Critical Hit, Double Attack, Critical Blast, Critical Heal. Each is
+  taught in towns of the north for 250,000 gold.
+- **Chaos Knights** in Valmond, Hammerfist, Duremar and Meroven give repeatable kill missions, like the
+  Lotorian Knights of the south.
+- **The Power Hour altar** stands in Teylan.
+
+### Sands of Creation: the desert
+
+- **Getting there**: the Khafra or Rahura portal in Lotor's Summer Palace. **Rahura is a town of the other
+  side**: its guards attack characters of good standing.
+- **A few early quests around Khafra**: "Snakes" (Hafsah, near the bank: 50 Battle Horned Vipers of level 15 for
+  the Palm Woven Gloves, +4 to all four, level 15), "A Man of Little Time" (a delivery), "Ravenous Swarm" (100
+  Desert Scarabs of level 35 for 5,000 gold), and the first half of "Lost" (River Caimans of level 25 and a
+  trapped crypt, for the Tears of Baniti, +8 Int +6 Con, no requirement).
+- **Runecrafting** makes totems, among them the Totems of the Warrior, the Archer and the Mage.
+- Everything else here is for level 70 and far beyond: this is where the dragons are.
+
+## How do I ...?
+
+Short answers to what a new player asks in the first week. Most of this is the game's own Help Menu (`Esc`,
+then Help), put in order.
+
+### ... find my way around the keys?
+
+| Key | Opens | Key | Does |
+|---|---|---|---|
+| `B` | Backpack | `Q` | Attack mode on and off |
+| `E` | Character and equipment | `~` | Target the nearest creature (`Shift ~` at range) |
+| `K` | Skills, and the experience pool | `T` | Target Protection on and off |
+| `L` | Quest log | `Space` | Open a corpse, harvest a crop |
+| `M` | Map | `U` | Use the last item again |
+| `V` | Spellbook | `Enter` | Chat |
+| `C` | Rune case | `Num Lock` | Keep running |
+| `F` | Followers | `Esc` | Menu; leave attack or casting mode |
+| `P` | Party | Right click, or `Ctrl` | Tooltip of what is under the cursor |
+| `G` | Guild | `1` to `9` | The hot bars |
+| `H` | Hunter's Handbook | `F11` | The store |
+
+::: pictures
+wiki Common_Control_Scheme.jpg | A common way to lay out the keys | Getting_Started_Part_2
+wiki Player Character Screen.PNG | The character screen | Game_Interface
+wiki Hotbar.PNG | The hot bar | Game_Interface
+wiki Chat Window.PNG | The chat window | Game_Interface
+:::
+
+### ... fight?
+
+Press `Q` for attack mode, then click a creature with a red name, or press `~` to take the nearest. With a sword
+you have to stand next to it; with a bow, a crossbow or a sling you keep your distance and need ammunition
+equipped. `Q` or `Esc` ends it. You regain health and stamina faster out of attack mode.
+
+### ... cast a spell?
+
+You need a wand or staff, a rune of the spell's school, and the spell.
+
+1. Equip the wand.
+2. Open the spellbook (`V`) and drag the spell onto a hot bar.
+3. Open the rune case (`C`) and drag the rune of the school (Body, Mind, Soul or Nature) into the top right box.
+4. Click the spell, then click the target.
+
+::: pictures
+wiki Spellbook.PNG | The spellbook | Game_Interface
+wiki Rune Slots.PNG | The rune case | Game_Interface
+:::
+
+Stronger spells want further runes in the next boxes (Runes of Isos, Veldan, Kuthos, Malenox, Ulthien, Sabal
+or Agon, dropped by creatures or sold in magic shops), and some want an ingredient in your backpack. A rune is
+used up slowly; when it runs out, put in another. Spells use stamina, which Intelligence gives you.
+
+### ... loot what I kill?
+
+Stand by the body and press `Space`, then click what you want. In a party, and for subscribers alone too, loot
+goes to the backpack by itself. Watch your weight: an overloaded character crawls.
+
+### ... get a helper to fight beside me?
+
+That is the Leadership skill, and you can use it from the first level.
+
+- Buy a **Trainer's Whip** from a provisioner and use it on a creature to tame it.
+- What you can tame goes by **your character's level**; how many by your Leadership: one follower from the
+  start, two at Leadership 30, three at 60.
+- `F` opens the follower window. The orders are Protect (it attacks what hurts you), Assist (it attacks your
+  target), Attack, Follow, Stay, Guard, Flee and Dismiss.
+- On Valinor you can tame anything up to a Small Grizzly Bear or a Skeletal Apprentice (level 8). A follower is
+  what the guides mean when they say to bring help for BoneSnarl.
+
+### ... talk to people and get help?
+
+`Enter` opens the chat, `Tab` changes the channel. `/t name message` writes to one player, `/r message` answers
+the last one who wrote to you. The **Help** channel is on from the start and is where new players ask; people
+answer. The game's Discord has the patch notes and the community: https://discord.gg/hfewEHmfYg
+
+For a problem only staff can solve, `Esc`, Game Options, Summon a GM.
+
+### ... play with others?
+
+Both of you leave attack mode; then `P` opens the party window, or type `/invite name`. A party shares loot
+and quest updates and sees each other on the map. `/follow name` walks behind somebody.
+
+### ... buy, sell and store things?
+
+- Click a shopkeeper. His goods are on the left; on the right is whatever of yours he will buy. Better standing
+  gets better prices. Most things you sell are gone for good.
+- Provisioners sell torches, bandages, bags and kindling; magic shops runes, potions and wands; taverns food;
+  shipyards boats and fishing gear.
+- **The bank is one bank.** What you put in at any banker is there at every other, and gold in the bank can be
+  spent as if it were in your backpack. Leave what you do not need there before a hunt.
+- To split a stack, hold `Shift` and drag.
+- Unwanted things go in the trash barrel by a bank.
+
+::: pictures
+wiki Backpack.PNG | The backpack | Game_Interface
+wiki Trading Tokens.PNG | Trading with another player at a table | Tokens
+:::
+
+### ... trade with another player?
+
+Stand by a table (there is one in front of every banker), click the table, then the player. Both put in what
+they offer, both press the lock, both confirm. Know what a thing is worth first; nobody can undo a bad trade.
+
+### ... mend my gear?
+
+Every piece has health and a most health. Fights and failed skill checks wear down the first; Potions of Repair,
+a tradesman's repair tools or a spell bring it back. A worn piece gives less of its bonuses. Deaths outside a
+safe zone wear down the second, and only a tool from the store restores that. At nothing, the piece is destroyed.
+
+### ... keep my stamina up?
+
+Stamina comes back by itself, faster out of attack mode. Buy kindling, put a piece on the ground in the wild
+and click the campfire: you regain stamina faster beside it. Food helps too.
+
+### ... know what a creature is, before it kills me?
+
+Right click it for its tooltip. The Hunter's Handbook (`H`) fills in as you identify creatures, which is what
+Knight Bastrop's quest on Valinor starts. Outside the game, [AE Database](https://www.aedatabase.com/bestiary.php)
+lists every creature with its level and what it drops, and has a
+[map of where each one is](https://aedatabase.com/world_map_mobs.php).
+
+### ... find better gear?
+
+Besides the quests in this guide: AE Database has a [gear optimizer](https://www.aedatabase.com/optimize.php)
+that picks the best pieces for your level and orbs, and a [list of every quest reward](https://www.aedatabase.com/quest_rewards.php).
+Guilds often keep a hall full of spare gear for their members.
+
+### ... find things outside the game?
+
+| | |
+|---|---|
+| [ashenempires.com](https://www.ashenempires.com/) | The game's own site |
+| [Discord](https://discord.gg/hfewEHmfYg) | Announcements, patch notes, the community |
+| [AE Guides](https://bofur24.github.io/AEGuides) | A picture walk through every early quest |
+| [Ashen Empires Wiki](https://ashenempires.fandom.com/wiki/Quests) | A page for most quests |
+| [AE Database](https://www.aedatabase.com) | Every item and creature; the gear optimizer; the monster map |
+| [Interactive map](https://gork3n.github.io/ashen-empires-map/openlayers.html) | Shops, banks, gates and portals |
+| [Dragoneer's Den](https://aedragoneers.com/) | A guild's pages on trades, magic, followers and sailing |
 
 ## Things a beginner has to know
 
@@ -981,7 +1295,8 @@ wiki The Map.PNG | The map window | Game_Interface
 - **Getting home fast.** A Scroll of Return takes you to its town, three times. The patron hands one out now and
   then. The Stone of your town, from the Lady's shop, takes you to the Lord.
 - **On foot** otherwise. Ask a mage for a speed spell; nobody minds.
-- **Ships** belong to the Tides of Fate expansion and to much later in the game.
+- **Ships** belong to the Tides of Fate expansion. A raft is free; see [boats](#tides-of-fate-boats).
+- **A Soulstone**, from the Talazar's Revenge expansion, returns you to the inn you bound it to.
 
 ### Death
 
@@ -1081,7 +1396,7 @@ Darushk, Rahura, Meroven) are the other way round and attack characters of good 
 
 - **VIP** is the game's subscription: 10% more experience, four more places in the backpack, a stone that
   returns you to Lotor's Summer Palace, and automatic looting when you are alone. The game is fully playable
-  without it.
+  without it. Prices are under [The expansions](#the-expansions-what-each-one-opens).
 - A **Power Hour** is an hour of extra experience for the whole server, set off by players. The experience
   figures on the wiki were measured during one, which is one more reason to read them as rough.
 - **Quests marked with a golden chalice** are small errands that fail if you log out or talk to somebody else.
@@ -1100,8 +1415,8 @@ Things this guide would like to say and cannot, because no source says them and 
 
 **Valinor**
 - Why "Frump the Cook" was offered to neither of our characters.
-- What the Blacksmith, Carpenter, Leatherworking, Tailor and Cooking trainers give at the end, and anything at
-  all about the Leadership trainer beyond "bandages and gold".
+- What the Blacksmith, Carpenter, Leatherworking, Tailor and Cooking trainers give at the end, and what the
+  Leadership trainer gives beyond "bandages and gold".
 - How much faster the Totem of the Wolf Pup makes you.
 
 **Krog**
@@ -1118,6 +1433,11 @@ Things this guide would like to say and cannot, because no source says them and 
   latter.
 - Whether "Astari Supplies" is open to characters who are not night elves.
 - Whether "Loyal" gives a second totem to a character who has one.
+
+**The Trading Mercenary**
+- How many kills a mission asks for and what it pays at level 40, and whether creatures far below your level
+  count.
+- Whether Roycroft can be reached by raft from Josody, for those without Talazar's Revenge.
 
 **Everywhere**
 - Whether a town's one-off quests are open to characters aligned with another town. We believe so; we only
@@ -1138,6 +1458,8 @@ This guide stands on other people's work.
 - **[AE Database](https://www.aedatabase.com)** and its contributors: the bestiary and the list of quest rewards.
 - **The [interactive map](https://gork3n.github.io/ashen-empires-map/openlayers.html)** by gork3n and Sir
   Chris: where banks, gates, portals and shops are.
+- **[Dragoneer's Den](https://aedragoneers.com/)**, a guild's site: the level each of the Trading Mercenary's
+  missions needs, and how followers work.
 - **Ashen Empires** itself is the work of Iron Will Games. Every name, quest and picture of the game is theirs.
 
 Each picture on these pages names where it comes from and links back to it.

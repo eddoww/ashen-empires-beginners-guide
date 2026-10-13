@@ -107,3 +107,4 @@ footer { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--line);
   header, nav, .step, #box, tr.pr, .pics { display: none !important; }
   .tw { border: 0; overflow: visible; }
 }
+th:empty { padding: 0; border: 0; }
