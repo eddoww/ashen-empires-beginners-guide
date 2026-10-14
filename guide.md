@@ -1859,7 +1859,7 @@ aeguides Images/Maps/Lotors_Summer_Palace_Portal.png | Lotor's Summer Palace, th
 | 15 to 20 | The edges of your region | The level 14 to 20 quests; the trainer quests of your weapon or magic; the first pieces of the patron set |
 | 20 to 25 | Your region's dungeons, and the two other towns by portal | Put on the level 20 gear you earned; the bosses; the best quests of the other two towns |
 | 25 to 30 | Wherever the patron sends you | Patron missions, the last hard quests of the region, then the Highlands |
-| 30 to 40 | Highlands, the rest of Krythan, Gulley | See [After your starting region](#after-your-starting-region) |
+| 30 to 40 | Vrethpool, Highlands, the rest of Krythan, Gulley | Around 30, try the [Vrethpool veteran tip](#vrethpool-around-level-30) for early gold and a necklace; see [After your starting region](#after-your-starting-region) |
 | 40 on | Anywhere, for the Trading Mercenary in Roycroft | With the Tides of Fate expansion: his kill missions, the best experience in the game. See [Level 40 on](#level-40-on-the-trading-mercenary) |
 
 Six things matter more than any single quest:
@@ -2665,7 +2665,7 @@ you can afford the set.
 | Hands | | Fire Ant Leg Bracer (Krog; +1 Con, level 8) | Shadow Gloves (Krog; +1 all), then Termigon Battle Mittens (Whisperdale; +3 all, +15 health) |
 | Waist | Supply Runner's Belt | Sash of the Astari Guard (Whisperdale; +3 Dex +3 Con, level 7) | the patron's Belt |
 | Legs | Spider Silk Leggings (+1 Int, +25 health) | Naturalist Greaves (Krog; mages) | Shadow Leggings (Krog; +2 all) |
-| Feet | Marsh Soaked Boots (+2 Dex +2 Con) | | the patron's Boots, or the boots of your own set at 20 |
+| Feet | Marsh Soaked Boots (+2 Dex +2 Con) | | [Jenkin's Boots with a friend](#jenkins-boots-around-level-20) (Tides of Fate); the patron's Boots, or the boots of your own set at 20 |
 | Ring | | Ring of Sozal (Silvest; +1 all, +10 health) | the patron's Ring |
 | Off hand | | Lamp of Isos (Krog; +5 Soul) | the patron's Guardian |
 
@@ -2676,6 +2676,13 @@ Three good rewards compete for places already taken above. The Gemstone of Dalvo
 Eastwatch Holy Relic (+4 Int +5 Con), both from Silvest, are amulets, and Krog's Bloody Rag of Rumpda (+3 Con
 +50 health, level 15) is a ring. Slots are as AE Database lists them. It does not list the Sash of the Astari
 Guard, and the game's data only calls it "worn", so the waist is our reading of its name.
+
+### Jenkin's Boots around level 20
+
+**Getting Jenkin's Boots early is a huge help.** If you have Tides of Fate, head to Roycroft with a friend
+around level 20 and take **Strange Behavior** from Crocker in the basement of the guard house. Together you
+can kill the level 25 Goblin Pirates for boots with **+8 Str +8 Dex +5 Int +5 Con +25 health**, with no
+requirement to wear them. See [getting to Roycroft](#getting-there-the-first-time) for the sailing route.
 
 ## After your starting region
 
@@ -2737,6 +2744,11 @@ Three of these deserve a word.
 | 30 to 40 | Ethera Palace, Arda's ogres, the rest of Krythan (pirates at 25, Vrethpool at 22 to 33) | Ogres 35, Umbergon 40 |
 | 40 to 50 | The same lands, on [the Trading Mercenary's missions](#level-40-on-the-trading-mercenary) if you have Tides of Fate; the Abbey, Valekar's Fortress, the hobgoblins | Creatures of 40 to 55, and his missions pay best of all |
 | 50 on | The Parian Warlords; then the expansions | See below |
+
+### Vrethpool around level 30
+
+**Head to Vrethpool (Vreth) around level 30 and pick up the Tal warrior and ettin quests.** A veteran
+recommended this in game as an easy way to earn a useful early chunk of gold and a good necklace.
 
 ### The rest of the world, in one table
 
@@ -2898,6 +2910,8 @@ Roycroft also has three of the best rewards a character below 50 can get, all wi
 "Strange Behavior" (Crocker, in the basement of the guard house: **Jenkin's Boots**, +8 Str +8 Dex +5 Int +5 Con
 +25 health, for Goblin Pirates of level 25), "Fool's Errand" (Wesley, in the Salty Dog tavern: **Eva's Necklace**,
 +8 Con +40 health, for a delivery to Autumn and Whisperdale) and the Junk above.
+
+With a friend, you can tackle those goblins around level 20 and get [Jenkin's Boots early](#jenkins-boots-around-level-20).
 
 ### Talazar's Revenge: the north
 
