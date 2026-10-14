@@ -9762,6 +9762,33 @@
    "aeguides": null,
    "wiki": "https://ashenempires.fandom.com/wiki/Parian_Warlords",
    "pictures": []
+  },
+  "Clear the Room": {
+   "aeguides": null,
+   "wiki": "https://ashenempires.fandom.com/wiki/Clear_the_Room",
+   "pictures": []
+  },
+  "Berry Big Problem": {
+   "aeguides": null,
+   "wiki": "https://ashenempires.fandom.com/wiki/100_Ettins",
+   "pictures": []
+  },
+  "Strange Behavior": {
+   "aeguides": null,
+   "wiki": "https://ashenempires.fandom.com/wiki/Jenkins_Boots",
+   "pictures": [
+    {
+     "from": "wiki",
+     "file": "Jenkins Right Shoe.PNG",
+     "caption": "The right-shoe discovery that advances Strange Behavior",
+     "page": "https://ashenempires.fandom.com/wiki/Jenkins_Boots",
+     "url": "https://static.wikia.nocookie.net/ashenempires/images/c/c3/Jenkins_Right_Shoe.PNG/revision/latest?cb=20260225141919",
+     "by": "Slayer21",
+     "key": "w7a55f6928b23",
+     "w": 361,
+     "h": 36
+    }
+   ]
   }
  },
  "extra": [

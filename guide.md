@@ -1859,7 +1859,7 @@ aeguides Images/Maps/Lotors_Summer_Palace_Portal.png | Lotor's Summer Palace, th
 | 15 to 20 | The edges of your region | The level 14 to 20 quests; the trainer quests of your weapon or magic; the first pieces of the patron set |
 | 20 to 25 | Your region's dungeons, and the two other towns by portal | Put on the level 20 gear you earned; the bosses; the best quests of the other two towns |
 | 25 to 30 | Wherever the patron sends you | Patron missions, the last hard quests of the region, then the Highlands |
-| 30 to 40 | Vrethpool, Highlands, the rest of Krythan, Gulley | Around 30, try the [Vrethpool veteran tip](#vrethpool-around-level-30) for early gold and a necklace; see [After your starting region](#after-your-starting-region) |
+| 30 to 40 | Vrethpool, Highlands, the rest of Krythan, Gulley | [Clear the Room](#vrethpool-around-level-30) pays 25,000 gold for Tal warriors; tackle Berry Big Problem with stronger help for its necklace. See [After your starting region](#after-your-starting-region) |
 | 40 on | Anywhere, for the Trading Mercenary in Roycroft | With the Tides of Fate expansion: his kill missions, the best experience in the game. See [Level 40 on](#level-40-on-the-trading-mercenary) |
 
 Six things matter more than any single quest:
@@ -2679,10 +2679,43 @@ Guard, and the game's data only calls it "worn", so the waist is our reading of 
 
 ### Jenkin's Boots around level 20
 
-**Getting Jenkin's Boots early is a huge help.** If you have Tides of Fate, head to Roycroft with a friend
-around level 20 and take **Strange Behavior** from Crocker in the basement of the guard house. Together you
-can kill the level 25 Goblin Pirates for boots with **+8 Str +8 Dex +5 Int +5 Con +25 health**, with no
-requirement to wear them. See [getting to Roycroft](#getting-there-the-first-time) for the sailing route.
+**At about level 20, take a friend to Roycroft for Strange Behavior if you own Tides of Fate.** You will
+fight level 25 Goblin Pirates, then solve an investigation in town. The boots give
+**+8 Str +8 Dex +5 Int +5 Con +25 health**, armor 26, and resistance to Blunt (7%), Nature (7%) and Disease
+(10%), with no level or orb requirement. That is a substantial upgrade from the Valinor boots for every build.
+[AE Database lists the full item stats](https://www.aedatabase.com/details.php?item=1375).
+
+| Quest | Level | Starts with | Goal | Reward |
+|---|---|---|---|---|
+| Strange Behavior | About 20 with a friend; Goblin Pirates are 25 | Crocker, basement of the guard house on Roycroft's west side | Find a shoe on the pirates, then prove who is behind the attacks | **Jenkin's Boots**, wearable immediately |
+
+**Before leaving.** Bring your friend, healing supplies and a boat. The free raft comes from the Tides of
+Fate Raft Offer man in Lotor's Summer Palace (792,593). Follow [the sailing route to Roycroft](#getting-there-the-first-time)
+and bind at its spawn gate. The Valmond route also needs Talazar's Revenge; the alternative dock route is
+described there. You can do this boots quest before the Trading Mercenary's level 40 requirement.
+
+#### Solve Strange Behavior
+
+1. **Talk to Crocker twice.** Beneath the western guard house, hear about the attacks, then ask again for
+   the left-leg clue.
+2. **Find the right shoe.** Leave through the north-west entrance and hunt Goblin Pirates north of town.
+   Hunt until your own chat reports a right boot marked Jenkins.
+3. **Question Jenkins.** Visit the western armor shop. Say you have a shoe and a problem, choose the goblin
+   topic, then accuse him of cooperating with them.
+4. **Speak to Constable Hubert.** Find him above the southern archway. Ask about Jenkins and the goblins;
+   follow the dialogue about his daughter, then caring about his job, until he asks for evidence.
+5. **Return to Jenkins.** Ask for the matching shoe. He claims the goblins stole only his left shoes.
+6. **Report to Hubert.** Explain the contradiction: you recovered a right shoe. Finish the conversation
+   resolving Crocker's case and receive the boots.
+
+If a conversation stalls, speak again and follow the topics above. Early stages advance through dialogue.
+The [wiki walkthrough](https://ashenempires.fandom.com/wiki/Jenkins_Boots) gives this route through the case.
+
+**Where to hunt.** The [Goblin Pirate camp](https://www.aedatabase.com/mob_details.php?id=51) is north of
+Roycroft, around **2378,2272**. Let your friend handle the dangerous pulls while you watch for the shoe
+discovery. If the Warehouse Foreman has already sent you to kill 100 Goblin Pirates for
+[Half Empty or Half Full?](https://ashenempires.fandom.com/wiki/Half_Empty_or_Half_Full), work on that stage
+at the same camp while searching for the shoe.
 
 ## After your starting region
 
@@ -2741,14 +2774,70 @@ Three of these deserve a word.
 |---|---|---|
 | 10 to 20 | Your starting region, with a trip to Dawat for Friend of the Earth | The patron pays most; the Terra piece is worn at 10 |
 | 20 to 30 | Dawat and Parian; the best quests of the other two towns; Gulley's "Break In" (Thieves of level 16, 25,000 gold) | Creatures of 9 to 24; Parian's portal makes it a second home |
-| 30 to 40 | Ethera Palace, Arda's ogres, the rest of Krythan (pirates at 25, Vrethpool at 22 to 33) | Ogres 35, Umbergon 40 |
+| 30 to 40 | [Vrethpool's Clear the Room](#vrethpool-around-level-30), Ethera Palace, Arda's ogres, the rest of Krythan | Tal warriors 33, Ogres 35, Umbergon 40; Vrethpool's necklace quest needs help against level 54 ettins |
 | 40 to 50 | The same lands, on [the Trading Mercenary's missions](#level-40-on-the-trading-mercenary) if you have Tides of Fate; the Abbey, Valekar's Fortress, the hobgoblins | Creatures of 40 to 55, and his missions pay best of all |
 | 50 on | The Parian Warlords; then the expansions | See below |
 
 ### Vrethpool around level 30
 
-**Head to Vrethpool (Vreth) around level 30 and pick up the Tal warrior and ettin quests.** A veteran
-recommended this in game as an easy way to earn a useful early chunk of gold and a good necklace.
+**Start with Clear the Room for gold; bring stronger help for Berry Big Problem's necklace.** These are
+the two quests behind the veteran's Vrethpool tip. The Talazarian Warriors are level 33; both regular and
+Weakened Ettins are listed at **54**. At about 30, the warrior hunt is the sensible first job. Save the ettin
+hunt for a friend who can handle them, or return when you can fight level 54 creatures comfortably.
+
+| Quest | Level | Starts with | What | Reward |
+|---|---|---|---|---|
+| Clear the Room | About 30 to 35 | Cliff Brown, Vrethpool church (660,1697) | Kill 100 Talazarian Warriors (33) south of town | **25,000 gold**, plus experience pool |
+| Berry Big Problem | About 30 with stronger help; creatures are 54 | Tildas, Vrethpool | Kill 100 Ettins or Weakened Ettins on the coast north of town | **Ettin Snout Ring**, an amulet with +5 to all four attributes |
+| Save the Family Farm | 20 to 23; also worth doing on this trip | Mose, north-west room of King's Road South Inn (660,1671), after Juicy | Collect 10 beets from Orc Renegade Soldiers (22) at the farm north-east of town | **10,000 gold**, plus experience pool |
+
+#### Get there and collect the jobs
+
+1. **Take Juicy before leaving Silvest** if you want the farm's extra gold. Schrute in the weapons shop
+   asks you to deliver his harvest news to Mose; that delivery opens Save the Family Farm.
+2. **Use Parian's blue portal.** From Lotor's Summer Palace, take the Parian portal, then walk west to the
+   blue portal at **3304,3015**. It brings you to Krythan at **584,1496**, north-west of Vrethpool. Walk south
+   to town. The [official travel guide](https://ashenempires.com/travel/) confirms this portal connection;
+   the [community map](https://gork3n.github.io/ashen-empires-map/openlayers.html) has the coordinates.
+3. **Bind and collect quests.** Click Vrethpool's southern spawn gate (**647,1721**). The bank is at
+   **672,1701**. Talk to Cliff in the church and Tildas in town; deliver Schrute's message to Mose in the inn
+   and accept the farm quest if it is open.
+
+#### Clear the Room: take the 25,000 gold first
+
+Head south of town for **100 Talazarian Warriors**, then return to **Cliff Brown** in the church for payment.
+The [quest walkthrough](https://ashenempires.fandom.com/wiki/Clear_the_Room) lists 25,000 gold and about
+30,000 experience pool; pool rewards vary with level and bonuses. A
+[nearby warrior spawn](https://www.aedatabase.com/mob_details.php?id=126) is around **647,1766**.
+
+Our recommendation: begin with a small pull and check that your quest counter advances. Warriors are social,
+so nearby ones can join the fight. Keep your patron mission running when it wants compatible creatures.
+Spend the guaranteed gold on the supplies and upgrades that make your next hunt easier.
+
+If you opened **Save the Family Farm**, visit the farm north-east of town, collect **10 beets** from Orc
+Renegade Soldiers and return to Mose. Completing both gold quests gives **35,000 gold**. The
+[farm walkthrough](https://ashenempires.fandom.com/wiki/Save_the_Family_Farm) confirms the prerequisite and
+turn-in. Doing the lower-level farm hunt first is a useful option if the warriors are still too much for you.
+
+#### Berry Big Problem: earn the necklace with help
+
+The wiki files this quest under [100 Ettins](https://ashenempires.fandom.com/wiki/100_Ettins).
+
+1. **Accept Tildas's berry problem in town.** He asks for 100 ettins.
+2. **Reach the northern coast beyond the mountains.** Hunt along the Vrethpool coast; the walkthrough says
+   kills in other ettin regions do not count. Check your counter after the first kill before committing to
+   the full hunt.
+3. **Work on the Weakened Ettins with your helper.** They count too. The
+   [Vrethpool spawn around 744,1501](https://www.aedatabase.com/mob_details.php?id=47) has weakened ones;
+   [regular Ettins](https://www.aedatabase.com/mob_details.php?id=46) also appear nearby. Both are level 54;
+   the weakened variant has less health. Clear the coastal route and keep checking progress.
+4. **Return to Tildas at 100 kills.** Collect the Ettin Snout Ring and compare it with your current necklace.
+
+**The name is misleading: the Ettin Snout Ring goes in the amulet/necklace slot.**
+[AE Database](https://www.aedatabase.com/details.php?item=201) lists **+5 Str +5 Dex +5 Int +5 Con**, armor 15,
+and resistances of 5% Blunt, 5% Arrow, 7% Soul, 5% Body and 10% Disease, with no level or orb requirement.
+It is a useful upgrade from a +2-all Warg Eye Amulet. This is the necklace reward in the veteran's advice;
+the 25,000 gold comes from Cliff's separate warrior quest.
 
 ### The rest of the world, in one table
 
@@ -2991,10 +3080,35 @@ wiki Rune Slots.PNG | The rune case | Game_Interface
 
 Stronger spells want further runes in the next boxes (Runes of Isos, Veldan, Kuthos, Malenox, Ulthien, Sabal
 or Agon, dropped by creatures or sold in magic shops), and some want an ingredient in your backpack. A rune is
-used up slowly; when it runs out, put in another. Spells use stamina, which Intelligence gives you.
+used up slowly; when it runs out, put in another. Spells use stamina, which Intelligence gives you. Set up
+[rune shortcuts](#refresh-my-runes-quickly) before a long hunt to make replacement quick.
 
-**Mage tip: put your runes on a hot bar.** Clicking a rune on the hot bar instantly refreshes your runes,
-saving time and effort.
+### ... refresh my runes quickly?
+
+**Put spare runes on a hot bar beside your spells.** Clicking a rune icon equips a replacement from your
+supplies, saving repeated trips into the rune case. The
+[wiki's rune-slot instructions](https://ashenempires.fandom.com/wiki/Game_Interface) confirm that runes can
+be equipped through the hot bar and replaced before they wear out.
+
+1. **Check your setup.** Equip your wand or staff and press `C` to see its rune slots and remaining uses.
+   Open `V` to check which runes your usual spells need.
+2. **Keep spare runes in your backpack.** Buy them at a mage shop or use ones you looted. Include your
+   school's rune (Body, Mind, Soul or Nature) and the secondary runes your spells require.
+3. **Open a customizable bar with `1` to `9`.** Drag each spare rune from your backpack onto an empty slot.
+   Put the rune icons next to the spells that use them so you can refresh your setup during a hunt.
+4. **Click the needed rune icon to replace it.** You can also select that bar and press the slot's `F1` to
+   `F12` key. Check the rune case after your first replacement so you know your spell's required slots are
+   ready, then return to casting.
+
+The [official hotkey guide](https://ashenempires.com/hotkey-bars/) explains bar selection, dragging items
+onto slots and the function keys. Bar `0` holds fixed interface commands; use one of the other bars for runes.
+For example, keep your Body rune beside your heal, with any secondary runes that heal needs nearby.
+
+**Restock before leaving town.** Hot bar items become grey when the item is absent from your backpack.
+The [official rune list](https://ashenempires.com/spells-runes/) gives roughly **200 uses for school runes**
+and **100 for secondary runes**; spells wear down the runes they use. Watch the counters in `C` and replenish
+your backpack supply at the mage shop. If a spell stays grey after replacement, check its school rune,
+required secondary runes and the number of slots on the weapon you have equipped.
 
 ### ... loot what I kill?
 
