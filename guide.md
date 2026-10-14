@@ -2993,6 +2993,9 @@ Stronger spells want further runes in the next boxes (Runes of Isos, Veldan, Kut
 or Agon, dropped by creatures or sold in magic shops), and some want an ingredient in your backpack. A rune is
 used up slowly; when it runs out, put in another. Spells use stamina, which Intelligence gives you.
 
+**Mage tip: put your runes on a hot bar.** Clicking a rune on the hot bar instantly refreshes your runes,
+saving time and effort.
+
 ### ... loot what I kill?
 
 Stand by the body and press `Space`, then click what you want. In a party, and for subscribers alone too, loot
