@@ -2165,6 +2165,13 @@ down the shop's prices, and we have not opened it ourselves. If they hold, the w
 best buys for the coins are the Cloak and the Helm. We also do not know whether the old faction thresholds still
 gate what the shop will sell you.
 
+**A veteran's tip: buy the Stone first.** A veteran player says that one patron mission is enough to get a coin,
+and that one coin buys the town's Stone: the Silvest Stone in Silvest, the Whisper Stone in Whisperdale, the Krog
+Stone in Krog. They say it behaves like a Soulstone, with **200 uses and no cooldown**, so it is a free way home
+for a new character. This is a player's report. Our sources confirm that the shop sells a Stone that takes you to
+the Lord, but not its price or its number of uses, and we have not opened the shop ourselves. It is still worth
+checking before you spend coins on armor.
+
 ## Krog and the Black Swamp
 
 The orcs' town, for Strength builds. Lord Targon is in the hall at 3076,3763, with the Lady of Krog's shop next
@@ -2992,6 +2999,8 @@ How the sea works, in short:
 - **Three skills** belong to it: Sailing (speed and the boat's health), Cannoneering (hitting) and Boat Repair.
   None of them can be fed from the experience pool. At sea they matter more than your character's level.
 - **Fighting** works like archery: enter attack mode (`Q`), click the creature, and every gun fires.
+- **Loading the guns.** A veteran's tip: drop your ammunition anywhere on the ship's paperdoll window and it
+  is shared out evenly among all your cannons. You need not load each cannon on its own.
 - **Dying at sea** damages the boat, not your gear, and you wake at your spawn gate as on land.
 - **Buoys and floating wreckage** give Sailing experience for a click. Click every one you pass.
 
@@ -3153,6 +3162,9 @@ and quest updates and sees each other on the map. `/follow name` walks behind so
 - **The bank is one bank.** What you put in at any banker is there at every other, and gold in the bank can be
   spent as if it were in your backpack. Leave what you do not need there before a hunt.
 - To split a stack, hold `Shift` and drag.
+- **Stacks find their own place in the bank.** A veteran's tip: drop stackable items (arrows, runes, reagents,
+  ore) into the top section of the bank window and they join the stack of the same item already there, so you
+  need not hunt for it.
 - Unwanted things go in the trash barrel by a bank.
 
 ::: pictures
@@ -3220,7 +3232,8 @@ wiki The Map.PNG | The map window | Game_Interface
 - **Spawn gates.** You come back to life at the last gate you clicked. Click the gate of wherever you are
   hunting, and remember to click your home gate again afterwards.
 - **Getting home fast.** A Scroll of Return takes you to its town, three times. The patron hands one out now and
-  then. The Stone of your town, from the Lady's shop, takes you to the Lord.
+  then. The Stone of your town, from the Lady's shop, takes you to the Lord. A veteran says one patron coin buys
+  it and that it has 200 uses with no cooldown; see [the patron set](#the-patron-set-and-how-you-get-it-now).
 - **On foot** otherwise. Ask a mage for a speed spell; nobody minds.
 - **Ships** belong to the Tides of Fate expansion. A raft is free; see [boats](#tides-of-fate-boats).
 - **A Soulstone**, from the Talazar's Revenge expansion, returns you to the inn you bound it to.
