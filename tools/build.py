@@ -33,6 +33,7 @@ PAGES = [
     ("after", "After level 25", ["After your starting region"]),
     ("level40", "Level 40 and the expansions", ["Level 40 on: the Trading Mercenary",
                                                 "The expansions: what each one opens"]),
+    ("requirements", "What the quests ask of you", ["What all the quests ask of you"]),
     ("basics", "Things to know", ["Things a beginner has to know"]),
     ("howto", "How do I ...?", ["How do I ...?"]),
     ("trades", "Trades and Taskmasters", ["Trades: how they work"]),

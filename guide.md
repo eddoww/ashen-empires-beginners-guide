@@ -15,6 +15,7 @@ It is written for somebody who has never played. If you only want the order, rea
 | Which expansion to buy, and how to get a boat | [The expansions](#the-expansions-what-each-one-opens) |
 | How to make things | [Trades: how they work](#trades-how-they-work), [making gear](#trades-making-gear), [potions, food and the rest](#trades-potions-food-and-the-rest) |
 | How to get a creature to fight for you | [Followers](#followers-taming-and-leadership) |
+| What the hardest quests ask for, to plan a character | [What all the quests ask of you](#what-all-the-quests-ask-of-you) |
 | How anything in the game is done | [How do I ...?](#how-do-i) and [Things a beginner has to know](#things-a-beginner-has-to-know) |
 
 ## Trades: how they work
@@ -3039,6 +3040,222 @@ With a friend, you can tackle those goblins around level 20 and get [Jenkin's Bo
 - **Runecrafting** makes totems, among them the Totems of the Warrior, the Archer and the Mage.
 - Everything else here is for level 70 and far beyond: this is where the dragons are.
 
+## What all the quests ask of you
+
+This page is for planning a character a long way ahead. It puts together what every quest in the game asks
+before it lets you start or finish it: your level, your skills, kill ranks, expansions, faction, party and
+gold. It was compiled in November 2026 from all 217 quest pages of the
+[wiki](https://ashenempires.fandom.com/wiki/Quests), with the patch notes of 2023 to 2026 where they changed a
+requirement. It is the wiki's word, not tested in play, and where the wiki is out of date or disagrees with
+itself the page says so.
+
+### All of it in one table
+
+To finish every quest the wiki describes, one character needs at least:
+
+| Requirement | Highest asked | By |
+|---|---|---|
+| Character level | **80** | 200 Ice Demons, To Remember Him By, Wyvern Hunting, the third part of Proudblood Traitor |
+| Planting | **100** | Fine Land |
+| Fly-casting | **90** | The last part of Fishing for Friends |
+| Skinning | **65**, perhaps 85 | Zebra Hide Gear; see [where the sources disagree](#where-the-sources-disagree) |
+| Sailing | **50** | Dark Water Pirates, Save Our Ships |
+| Boat Repair | **50** | Goblish Ingenuity |
+| Foraging | **45** | Ring of Health; Fine Land likely needs more |
+| Lumberjacking | **45** | Heartwood Bow |
+| Weaving, Leatherworking, Iron Forging, Jewelry Making | **30** each | Ancient Tongue |
+| Body, Mind, Soul and Nature magic, and mage weapons | **15** each | The Wisdom of Wizards |
+| Bows, crossbows, thrown weapons | **10** each | Advanced Ranger Training |
+| Kill ranks | **Master of all fifteen kinds of creature** | Trevor Jopkins |
+| Expansions | **All three** | Many; Fine Land and Fishing for Friends need all three by their end |
+
+Harvesting, Foraging, Milling, Mining and Identification are needed as well, at levels no source gives. Faction
+has to be changed several times, and a few quests need a party of six to nine.
+
+### Character level
+
+Only these quests name a level. Every other quest can be taken at any level, though not always survived.
+
+| Quest | Level | Note |
+|---|---|---|
+| [200 Ice Demons](https://ashenempires.fandom.com/wiki/200_Ice_Demons) | 80 | Talazar's Revenge, Meroven. The demons are level 105 |
+| [To Remember Him By](https://ashenempires.fandom.com/wiki/To_Remember_Him_By) | 80 | Talazar's Revenge, Hammerfist |
+| [Wyvern Hunting Quest](https://ashenempires.fandom.com/wiki/Wyvern_Hunting_Quest) | 80 | Talazar's Revenge, Hammerfist |
+| [Proudblood Traitor](https://ashenempires.fandom.com/wiki/Proudblood_Traitor) | 80 | For its third part; Master of Giants to start |
+| [Dire Wolf Quest](https://ashenempires.fandom.com/wiki/Dire_Wolf_Quest) | 60 | And 45 Skinning |
+| [Heartwood Bow Quest](https://ashenempires.fandom.com/wiki/Heartwood_Bow_Quest) | 50 | And 45 Lumberjacking for its second part |
+| [Ivy Plated Boots](https://ashenempires.fandom.com/wiki/Ivy_Plated_Boots) | 50 | |
+| [Twisted Amulet](https://ashenempires.fandom.com/wiki/Twisted_Amulet) | 50 | |
+| [Parian Warlords](https://ashenempires.fandom.com/wiki/Parian_Warlords) | 50 | |
+| [Blue Crystalline Ring](https://ashenempires.fandom.com/wiki/Blue_Crystalline_Ring) | 40 | |
+| [Hapuna](https://ashenempires.fandom.com/wiki/Hapuna) | 40 | |
+| [Dransik Trading Mercenary](https://ashenempires.fandom.com/wiki/Dransik_Trading_Mercenary) | 40 | Since a patch of March 2024 |
+| [Cadence's Bauble](https://ashenempires.fandom.com/wiki/Cadence's_Bauble) | 30 | |
+| [Jenn Talbot's Shovel](https://ashenempires.fandom.com/wiki/Jenn_Talbot's_Shovel) | 30 | |
+| [Dirty Work](https://ashenempires.fandom.com/wiki/Dirty_Work) | 30 | |
+| [A Leader is Born (the guild quest)](https://ashenempires.fandom.com/wiki/Guild_Quest) | 20 | |
+
+The wiki suggests being higher than this for some fights, but these are not requirements: about 105 for the
+Lotorian Dungeon in Royal Relic, and 100 to 110 for the bosses of Toxic Blood.
+
+### Trade skills
+
+| Skill | Level | Quest | Note |
+|---|---|---|---|
+| Planting | 30 to 100 | Fine Land | 30 Planting and Harvesting together to start; then 30, 75, 80, 85, 90, 95 and finally 100 Planting for its later parts |
+| Harvesting | not given | Fine Land | Several crops must be grown and harvested by you; the quest counts them |
+| Foraging | 45 | Ring of Health | 200 Dolas Ferns. Fine Land also has you forage, at its highest stages |
+| Milling | not given | Fine Land | Bone Meal or Ground Shells for fertilizer |
+| Fly-casting | 5 to 90 | Fishing for Friends | 5, 30, 40, 50 and 60 for its first seven parts; a patch of 2024 says the line goes on to 90 |
+| Fly-casting | 35 | Small Favors | Raised from 25 by a patch of 2024 |
+| Fly-casting | 20 | Message in a Bottle | The repeatable bottle quests |
+| Fishing | 5 | Fishing for Friends | To start, after Ceric's Spice It Up |
+| Skinning | 45, 55, 65 | Zebra Hide Gear Skinning Quest | One level for each of its last three parts |
+| Skinning | 45 | Dire Wolf Quest | |
+| Skinning | 50 | Latest Fascination | To skin Titans |
+| Lumberjacking | 45 | Heartwood Bow Quest | Chop 20 Heartwood |
+| Weaving, Leatherworking, Iron Forging, Jewelry Making | 30 each | Ancient Tongue | You turn a dragon's hair into a Pure Crystal with all four in turn. A failure sends you back to the start of the quest, so more than 30 is safer |
+| Mining | not given | The Ways of Mining | Mine ore in Ettin Valley |
+| Identification | not given | Creatures of Dransik, The Power of Sight | The first gives the skill; the second has you identify up to a Crystal Golem |
+| Sailing | 15, 30, 50 | Looted Dry; Sink the Slavers and Squid Pro Quo; Dark Water Pirates and Save Our Ships | The Caravel from Craftmanship needs 50 Sailing to sail |
+| Boat Repair | 10, 30, 50 | How They Do It; Jaws of Thunder; Goblish Ingenuity | |
+| Cooking, Leatherworking, Blacksmithing, Carpentry, Tailoring, Farming | up to 15 | The Valinor trainers | Each trainer's tasks end at the island's cap of 15 |
+
+Some quests ask for something made with a trade, but anything made can be bought or traded for, so these do not
+require the skill:
+
+| Made with | What | Quest |
+|---|---|---|
+| Cooking | Cooked Spider Legs | Hole of Tears |
+| Cooking | Cooked Greely | The Bane of Whisperdale |
+| Mixing and Baking | Raisin Bread | Fine Land |
+| Leatherworking | Vellum, from Superior Leather | Fishing for Friends |
+| Alchemy | Potion of Skin Change | Fishing for Friends |
+| Sewing | A casting net, from 5 Imbued Malacinth Fabric | Fishing for Friends |
+| Jewelry Making | Rings of magic gold | Fishing for Friends |
+| Carpentry | A Treasure Trowel, from 3 Heartwood Planks | Fishing for Friends |
+| Carpentry | A Horn of Plenty, from 11 Enchanted Fine Wood | Fine Land |
+| Carpentry | Planks | Fellow Archer, Parian Warlords |
+| Mining, Smelting, Jewelry Making | Silver ore, silver ingots, a silver ring | Jeweler's Mitts Quest |
+| Carpentry, Smelting, Sewing, Leatherworking | 300 to 500 planks, 75 to 100 ingots, 50 to 500 fabric, 50 to 200 leather | Craftsmanship (the Dhow) and Craftmanship (the Caravel) |
+
+Two rewards need a skill to use, not to earn: the Dragonian Skinning Knife from An Expert needs 100 Skinning,
+and its other choice, the Artonian Hammer, 100 Forging. The Razor Bone Dagger from Sentimental Value needs 35 Leadership.
+
+### Combat and magic skills
+
+| Quest | Skill | Note |
+|---|---|---|
+| The Wisdom of Wizards | 15 in the school of each part (Body, Mind, Soul, Nature), and 15 in mage weapons | Starts with Val Clockworks in Silvest |
+| Advanced Ranger Training | 10 in bows, crossbows or thrown weapons, for each trainer | The wiki still says 12 to 20; a patch of 2025 lowered all of them to 10 |
+| Ancient Magic | 6 in Body, Mind, Soul and Nature together | Valinor; also needs the Eastern Gate open, from War |
+
+### Kill ranks
+
+A rank comes from a number of kills of one kind of creature: Master is 2,500.
+
+| Quest | Rank |
+|---|---|
+| [Trevor Jopkins](https://ashenempires.fandom.com/wiki/Trevor_Jopkins) | Master of all fifteen kinds: animals, demons, dragons, elementals, fungoids, giants, goblins, humanoids, insects, kobolds, minotaurs, undead, vermin, werewolves, wyverns. This covers every rank below |
+| [Ancient Tongue](https://ashenempires.fandom.com/wiki/Ancient_Tongue) | Master of Elementals, for its sixth part |
+| Greater Dragon Island, Poor Mataarzal, probably Midnight Warrior | Master of Dragons |
+| [Proudblood Traitor](https://ashenempires.fandom.com/wiki/Proudblood_Traitor) | Master of Giants |
+| Scorched Earth, Punish Them | Master of Demons, to enter the second level of the Horned One's dungeon |
+| [Savanna Gear](https://ashenempires.fandom.com/wiki/Savanna_Gear) | Master of Vermin |
+| [Fine Land](https://ashenempires.fandom.com/wiki/Fine_Land_%28complete_guide%29) | Master Hunter of Vermin and of Goblins |
+| [Celis's Secret](https://ashenempires.fandom.com/wiki/Celis's_Secret) | Slayer of Minotaurs, for Asterion Minos |
+| [Green Teeth](https://ashenempires.fandom.com/wiki/Green_Teeth) | 500 Swamp Beasts |
+| Cloaks to Die For | 50 undead |
+
+### Expansions, store items and events
+
+- **Talazar's Revenge, Sands of Creation and Tides of Fate**: every quest in their lands needs them. Two quests
+  in the old world need Talazar's Revenge too (Crypt of Lotor and The Dig Went Bad), and Nautical Knowhow needs
+  both Talazar's Revenge and Tides of Fate. See [The expansions](#the-expansions-what-each-one-opens).
+- **A pass to the Broken Finger Dungeon** from the store, for its four quests: 60 Hounds of Cerebus, 100 War
+  Giants, 200 Dark Guardians, Lord Cerebus.
+- **A Lair of Minos Access Ticket**, for Celis's Secret.
+- **A fishing tournament trophy**, for Fishing for Friends: win one (event tickets from the store), or buy one
+  from the Fishing Event Judge for 10 million gold.
+- **The Hell Event**, the only time Return to Hell is offered.
+
+### Faction and standing
+
+Faction (Lotorian, Talazarian, Neutral) and standing (how good or evil your name is) are different things, and
+the quests ask for both.
+
+| Quest | Faction |
+|---|---|
+| Lotorian faction quest, In Service to the Great One (Talazarian) | Neutral |
+| [To Take No Side (back to Neutral)](https://ashenempires.fandom.com/wiki/To_Take_No_Side) | Lotorian or Talazarian |
+| [Of a Venomous Spirit](https://ashenempires.fandom.com/wiki/Of_a_Venomous_Spirit) | Talazarian |
+| [Crypt of Lotor](https://ashenempires.fandom.com/wiki/Crypt_of_Lotor) | Neutral or Talazarian |
+| [Royal Relic](https://ashenempires.fandom.com/wiki/Royal_Relic) | Lotorian or Neutral |
+
+To do all of them, change faction like this: Neutral, then Talazarian (do Of a Venomous Spirit), then Neutral
+again with To Take No Side, then Lotorian. Each change needs an hour in the faction you are leaving.
+
+**Standing.** Neutral or worse to walk into Redwake, Rahura, Meroven and the evil town of Darushk (Stop the
+Ocean Motion) without the guards attacking you; Midnight Warrior and Dirty Work start in Rahura. Riches puts you in jail several times. For My
+Pleasure needs you **evil**. The way down is to join the temple in Lopal for 25,000 gold, as often as it takes.
+
+**Town.** The three patron sets need you aligned with each town in turn. The first change is free, at Lotor's
+Steward in Lotor's Castle; after that it is 60 tokens.
+
+### Party, boat and gold
+
+| Quest | What |
+|---|---|
+| [A Leader is Born (the guild quest)](https://ashenempires.fandom.com/wiki/Guild_Quest) | Eight helpers for the third book, and 250,000 gold at the end |
+| [Evil Designs](https://ashenempires.fandom.com/wiki/Evil_Designs) | A party of seven |
+| [Invasion](https://ashenempires.fandom.com/wiki/Invasion) | Six players to enter the portal |
+| Artonian Uprising, Gorillas Gone Wild, Poor Mataarzal | A large party of high level players for the last boss |
+| [Empty Nester](https://ashenempires.fandom.com/wiki/Empty_Nester) | At least a Junk with swivel guns |
+| [SCAB](https://ashenempires.fandom.com/wiki/SCAB) | A Galleon or a Frigate |
+| Fishing for Friends | A raft or a boat with a sail; 10 million gold if you buy the trophy |
+| [Midnight Warrior](https://ashenempires.fandom.com/wiki/Midnight_Warrior) | A gift of 10 million gold |
+| Craftmanship, Craftsmanship | 150,000 and 50,000 gold, besides the materials |
+| [Fine Land](https://ashenempires.fandom.com/wiki/Fine_Land_%28complete_guide%29) | About 100,000 gold for a house deed; 1 million more for the optional Aspect of the Thief |
+
+### Which quest opens which
+
+| To do | First finish |
+|---|---|
+| 100 War Giants, 200 Dark Guardians, Lord Cerebus | Each the one before it, from 60 Hounds of Cerebus |
+| Waylaid | Ancient Technology |
+| Artonian Uprising, Cleansed of Fire, Pollution Problem (its end) | Waylaid |
+| Abominations | Ancient Tongue or Artonian Uprising |
+| An Expert | Ancient Tongue and Abominations |
+| Poor Mataarzal | Ancient Tongue and Master of Dragons |
+| A Memorial | Lost (killing Chomper) |
+| A Good Deal | A Memorial and Dirty Work |
+| Frightened | New Design |
+| Agon's Test | Agon's Hand |
+| Midnight Warrior | Agon's Hand and Agon's Test, besides the dragon quests |
+| Invasion | Moklad is Missing |
+| Trevor Jopkins | The Spore Summoner |
+| Business is Booming | Steel and Salt |
+| Save the Family Farm | Schrute |
+| Termigon Armor | Varios |
+| Artraxis The Elder | Forged Skull Shield |
+| The Dig Went Bad | The first part of Crypt of Lotor |
+| Every Talazar's Revenge quest beyond Valmond and Teylan | Proof of Loyalty, which opens the door of Farstead Keep |
+| Hell Hath No Fury | Sarah's Promise Ring |
+| Ancient Magic, Cloaks to Die For, Veratti, Strange Request | War, as far as the Eastern Gate |
+| Fishing for Friends | Spice It Up first; on the way Chaffed, Noisy Neighbors, Umbergon (Pegi's Picnic), Oyster Chowder, Proof of Loyalty and Small Favors |
+| Fine Land | On the way The Attack, Scrotore's Knapsack, part of The Spore Summoner, Forged Skull Shield, part of Mushroom Land, Secret City and Riches |
+
+### Where the sources disagree
+
+- **Skinning for Titans.** Latest Fascination says 50 Skinning; Toxic Blood says 85 for the Titan Scorpions
+  that count toward it.
+- **Fly-casting for Fishing for Friends.** The wiki gives a level for its first seven parts only, ending at 60.
+  The patch notes of 2024 say the line has "one quest every 10 levels" up to 90 and a master quest for 90 and
+  over, so 90 is taken here.
+- **The elf trainers.** The wiki's page asks for 12 to 20 in bows, crossbows or thrown weapons; the patch of
+  2025 says 10.
+- **Fine Land.** One version says 10 Harvesting and 20 Planting to start, the newer one 30 between the two.
+
 ## How do I ...?
 
 Short answers to what a new player asks in the first week. Most of this is the game's own Help Menu (`Esc`,
@@ -3380,6 +3597,14 @@ Things this guide would like to say and cannot, because no source says them and 
 - How many kills a mission asks for and what it pays at level 40, and whether creatures far below your level
   count.
 - Whether Roycroft can be reached by raft from Josody, for those without Talazar's Revenge.
+
+**Quest requirements**
+- The Fly-casting level of each of the last five parts of Fishing for Friends, and whether Harvesting, Foraging,
+  Milling, Mining or Identification need a set level for the quests that use them.
+- What Midnight Warrior and Of a Venomous Spirit ask before they start; the wiki does not know.
+- What the quests added since 2024 ask for: three in Darkfell, Josody and Dawat, the Whisperdale slime quest at
+  the tanning vats, the new main quest of Whisperdale, Chella's in Roycroft, Greg Grapple's in Newtown and the
+  Crystal Knight's in Farstead Keep. The wiki has no page for them yet.
 
 **Everywhere**
 - Whether a town's one-off quests are open to characters aligned with another town. We believe so; we only
